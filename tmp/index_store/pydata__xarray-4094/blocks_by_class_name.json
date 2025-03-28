@@ -1,0 +1,2443 @@
+{
+  "Combine": [
+    [
+      "asv_bench/benchmarks/combine.py",
+      [
+        "Combine"
+      ]
+    ]
+  ],
+  "IOSingleNetCDF": [
+    [
+      "asv_bench/benchmarks/dataset_io.py",
+      [
+        "IOSingleNetCDF"
+      ]
+    ]
+  ],
+  "IOWriteSingleNetCDF3": [
+    [
+      "asv_bench/benchmarks/dataset_io.py",
+      [
+        "IOWriteSingleNetCDF3"
+      ]
+    ]
+  ],
+  "IOReadSingleNetCDF4": [
+    [
+      "asv_bench/benchmarks/dataset_io.py",
+      [
+        "IOReadSingleNetCDF4"
+      ]
+    ]
+  ],
+  "IOReadSingleNetCDF3": [
+    [
+      "asv_bench/benchmarks/dataset_io.py",
+      [
+        "IOReadSingleNetCDF3"
+      ]
+    ]
+  ],
+  "IOReadSingleNetCDF4Dask": [
+    [
+      "asv_bench/benchmarks/dataset_io.py",
+      [
+        "IOReadSingleNetCDF4Dask"
+      ]
+    ]
+  ],
+  "IOReadSingleNetCDF3Dask": [
+    [
+      "asv_bench/benchmarks/dataset_io.py",
+      [
+        "IOReadSingleNetCDF3Dask"
+      ]
+    ]
+  ],
+  "IOMultipleNetCDF": [
+    [
+      "asv_bench/benchmarks/dataset_io.py",
+      [
+        "IOMultipleNetCDF"
+      ]
+    ]
+  ],
+  "IOWriteMultipleNetCDF3": [
+    [
+      "asv_bench/benchmarks/dataset_io.py",
+      [
+        "IOWriteMultipleNetCDF3"
+      ]
+    ]
+  ],
+  "IOReadMultipleNetCDF4": [
+    [
+      "asv_bench/benchmarks/dataset_io.py",
+      [
+        "IOReadMultipleNetCDF4"
+      ]
+    ]
+  ],
+  "IOReadMultipleNetCDF3": [
+    [
+      "asv_bench/benchmarks/dataset_io.py",
+      [
+        "IOReadMultipleNetCDF3"
+      ]
+    ]
+  ],
+  "IOReadMultipleNetCDF4Dask": [
+    [
+      "asv_bench/benchmarks/dataset_io.py",
+      [
+        "IOReadMultipleNetCDF4Dask"
+      ]
+    ]
+  ],
+  "IOReadMultipleNetCDF3Dask": [
+    [
+      "asv_bench/benchmarks/dataset_io.py",
+      [
+        "IOReadMultipleNetCDF3Dask"
+      ]
+    ]
+  ],
+  "IOWriteNetCDFDask": [
+    [
+      "asv_bench/benchmarks/dataset_io.py",
+      [
+        "IOWriteNetCDFDask"
+      ]
+    ]
+  ],
+  "IOWriteNetCDFDaskDistributed": [
+    [
+      "asv_bench/benchmarks/dataset_io.py",
+      [
+        "IOWriteNetCDFDaskDistributed"
+      ]
+    ]
+  ],
+  "Base": [
+    [
+      "asv_bench/benchmarks/indexing.py",
+      [
+        "Base"
+      ]
+    ]
+  ],
+  "Indexing": [
+    [
+      "asv_bench/benchmarks/indexing.py",
+      [
+        "Indexing"
+      ]
+    ]
+  ],
+  "Assignment": [
+    [
+      "asv_bench/benchmarks/indexing.py",
+      [
+        "Assignment"
+      ]
+    ]
+  ],
+  "IndexingDask": [
+    [
+      "asv_bench/benchmarks/indexing.py",
+      [
+        "IndexingDask"
+      ]
+    ]
+  ],
+  "BooleanIndexing": [
+    [
+      "asv_bench/benchmarks/indexing.py",
+      [
+        "BooleanIndexing"
+      ]
+    ]
+  ],
+  "Interpolation": [
+    [
+      "asv_bench/benchmarks/interp.py",
+      [
+        "Interpolation"
+      ]
+    ]
+  ],
+  "InterpolationDask": [
+    [
+      "asv_bench/benchmarks/interp.py",
+      [
+        "InterpolationDask"
+      ]
+    ]
+  ],
+  "Reindex": [
+    [
+      "asv_bench/benchmarks/reindexing.py",
+      [
+        "Reindex"
+      ]
+    ]
+  ],
+  "ReindexDask": [
+    [
+      "asv_bench/benchmarks/reindexing.py",
+      [
+        "ReindexDask"
+      ]
+    ]
+  ],
+  "Rolling": [
+    [
+      "asv_bench/benchmarks/rolling.py",
+      [
+        "Rolling"
+      ]
+    ],
+    [
+      "xarray/core/rolling.py",
+      [
+        "Rolling"
+      ]
+    ]
+  ],
+  "RollingDask": [
+    [
+      "asv_bench/benchmarks/rolling.py",
+      [
+        "RollingDask"
+      ]
+    ]
+  ],
+  "Unstacking": [
+    [
+      "asv_bench/benchmarks/unstacking.py",
+      [
+        "Unstacking"
+      ]
+    ]
+  ],
+  "UnstackingDask": [
+    [
+      "asv_bench/benchmarks/unstacking.py",
+      [
+        "UnstackingDask"
+      ]
+    ]
+  ],
+  "AccessorDocumenter": [
+    [
+      "doc/conf.py",
+      [
+        "AccessorDocumenter"
+      ]
+    ]
+  ],
+  "AccessorLevelDocumenter": [
+    [
+      "doc/conf.py",
+      [
+        "AccessorLevelDocumenter"
+      ]
+    ]
+  ],
+  "AccessorAttributeDocumenter": [
+    [
+      "doc/conf.py",
+      [
+        "AccessorAttributeDocumenter"
+      ]
+    ]
+  ],
+  "AccessorMethodDocumenter": [
+    [
+      "doc/conf.py",
+      [
+        "AccessorMethodDocumenter"
+      ]
+    ]
+  ],
+  "AccessorCallableDocumenter": [
+    [
+      "doc/conf.py",
+      [
+        "AccessorCallableDocumenter"
+      ]
+    ]
+  ],
+  "GeoAccessor": [
+    [
+      "doc/examples/_code/accessor_example.py",
+      [
+        "GeoAccessor"
+      ]
+    ]
+  ],
+  "_MultiFileCloser": [
+    [
+      "xarray/backends/api.py",
+      [
+        "_MultiFileCloser"
+      ]
+    ]
+  ],
+  "CfGribArrayWrapper": [
+    [
+      "xarray/backends/cfgrib_.py",
+      [
+        "CfGribArrayWrapper"
+      ]
+    ]
+  ],
+  "CfGribDataStore": [
+    [
+      "xarray/backends/cfgrib_.py",
+      [
+        "CfGribDataStore"
+      ]
+    ]
+  ],
+  "BackendArray": [
+    [
+      "xarray/backends/common.py",
+      [
+        "BackendArray"
+      ]
+    ]
+  ],
+  "AbstractDataStore": [
+    [
+      "xarray/backends/common.py",
+      [
+        "AbstractDataStore"
+      ]
+    ]
+  ],
+  "ArrayWriter": [
+    [
+      "xarray/backends/common.py",
+      [
+        "ArrayWriter"
+      ]
+    ]
+  ],
+  "AbstractWritableDataStore": [
+    [
+      "xarray/backends/common.py",
+      [
+        "AbstractWritableDataStore"
+      ]
+    ]
+  ],
+  "WritableCFDataStore": [
+    [
+      "xarray/backends/common.py",
+      [
+        "WritableCFDataStore"
+      ]
+    ]
+  ],
+  "FileManager": [
+    [
+      "xarray/backends/file_manager.py",
+      [
+        "FileManager"
+      ]
+    ]
+  ],
+  "CachingFileManager": [
+    [
+      "xarray/backends/file_manager.py",
+      [
+        "CachingFileManager"
+      ]
+    ]
+  ],
+  "_RefCounter": [
+    [
+      "xarray/backends/file_manager.py",
+      [
+        "_RefCounter"
+      ]
+    ]
+  ],
+  "_HashedSequence": [
+    [
+      "xarray/backends/file_manager.py",
+      [
+        "_HashedSequence"
+      ]
+    ]
+  ],
+  "DummyFileManager": [
+    [
+      "xarray/backends/file_manager.py",
+      [
+        "DummyFileManager"
+      ]
+    ]
+  ],
+  "H5NetCDFArrayWrapper": [
+    [
+      "xarray/backends/h5netcdf_.py",
+      [
+        "H5NetCDFArrayWrapper"
+      ]
+    ]
+  ],
+  "H5NetCDFStore": [
+    [
+      "xarray/backends/h5netcdf_.py",
+      [
+        "H5NetCDFStore"
+      ]
+    ]
+  ],
+  "CombinedLock": [
+    [
+      "xarray/backends/locks.py",
+      [
+        "CombinedLock"
+      ]
+    ]
+  ],
+  "DummyLock": [
+    [
+      "xarray/backends/locks.py",
+      [
+        "DummyLock"
+      ]
+    ]
+  ],
+  "LRUCache": [
+    [
+      "xarray/backends/lru_cache.py",
+      [
+        "LRUCache"
+      ]
+    ]
+  ],
+  "InMemoryDataStore": [
+    [
+      "xarray/backends/memory.py",
+      [
+        "InMemoryDataStore"
+      ]
+    ]
+  ],
+  "BaseNetCDF4Array": [
+    [
+      "xarray/backends/netCDF4_.py",
+      [
+        "BaseNetCDF4Array"
+      ]
+    ]
+  ],
+  "NetCDF4ArrayWrapper": [
+    [
+      "xarray/backends/netCDF4_.py",
+      [
+        "NetCDF4ArrayWrapper"
+      ]
+    ]
+  ],
+  "NetCDF4DataStore": [
+    [
+      "xarray/backends/netCDF4_.py",
+      [
+        "NetCDF4DataStore"
+      ]
+    ]
+  ],
+  "PncArrayWrapper": [
+    [
+      "xarray/backends/pseudonetcdf_.py",
+      [
+        "PncArrayWrapper"
+      ]
+    ]
+  ],
+  "PseudoNetCDFDataStore": [
+    [
+      "xarray/backends/pseudonetcdf_.py",
+      [
+        "PseudoNetCDFDataStore"
+      ]
+    ]
+  ],
+  "PydapArrayWrapper": [
+    [
+      "xarray/backends/pydap_.py",
+      [
+        "PydapArrayWrapper"
+      ]
+    ]
+  ],
+  "PydapDataStore": [
+    [
+      "xarray/backends/pydap_.py",
+      [
+        "PydapDataStore"
+      ]
+    ]
+  ],
+  "NioArrayWrapper": [
+    [
+      "xarray/backends/pynio_.py",
+      [
+        "NioArrayWrapper"
+      ]
+    ]
+  ],
+  "NioDataStore": [
+    [
+      "xarray/backends/pynio_.py",
+      [
+        "NioDataStore"
+      ]
+    ]
+  ],
+  "RasterioArrayWrapper": [
+    [
+      "xarray/backends/rasterio_.py",
+      [
+        "RasterioArrayWrapper"
+      ]
+    ]
+  ],
+  "ScipyArrayWrapper": [
+    [
+      "xarray/backends/scipy_.py",
+      [
+        "ScipyArrayWrapper"
+      ]
+    ]
+  ],
+  "ScipyDataStore": [
+    [
+      "xarray/backends/scipy_.py",
+      [
+        "ScipyDataStore"
+      ]
+    ]
+  ],
+  "ZarrArrayWrapper": [
+    [
+      "xarray/backends/zarr.py",
+      [
+        "ZarrArrayWrapper"
+      ]
+    ]
+  ],
+  "ZarrStore": [
+    [
+      "xarray/backends/zarr.py",
+      [
+        "ZarrStore"
+      ]
+    ]
+  ],
+  "BaseCFTimeOffset": [
+    [
+      "xarray/coding/cftime_offsets.py",
+      [
+        "BaseCFTimeOffset"
+      ]
+    ]
+  ],
+  "MonthBegin": [
+    [
+      "xarray/coding/cftime_offsets.py",
+      [
+        "MonthBegin"
+      ]
+    ]
+  ],
+  "MonthEnd": [
+    [
+      "xarray/coding/cftime_offsets.py",
+      [
+        "MonthEnd"
+      ]
+    ]
+  ],
+  "QuarterOffset": [
+    [
+      "xarray/coding/cftime_offsets.py",
+      [
+        "QuarterOffset"
+      ]
+    ]
+  ],
+  "QuarterBegin": [
+    [
+      "xarray/coding/cftime_offsets.py",
+      [
+        "QuarterBegin"
+      ]
+    ]
+  ],
+  "QuarterEnd": [
+    [
+      "xarray/coding/cftime_offsets.py",
+      [
+        "QuarterEnd"
+      ]
+    ]
+  ],
+  "YearOffset": [
+    [
+      "xarray/coding/cftime_offsets.py",
+      [
+        "YearOffset"
+      ]
+    ]
+  ],
+  "YearBegin": [
+    [
+      "xarray/coding/cftime_offsets.py",
+      [
+        "YearBegin"
+      ]
+    ]
+  ],
+  "YearEnd": [
+    [
+      "xarray/coding/cftime_offsets.py",
+      [
+        "YearEnd"
+      ]
+    ]
+  ],
+  "Day": [
+    [
+      "xarray/coding/cftime_offsets.py",
+      [
+        "Day"
+      ]
+    ]
+  ],
+  "Hour": [
+    [
+      "xarray/coding/cftime_offsets.py",
+      [
+        "Hour"
+      ]
+    ]
+  ],
+  "Minute": [
+    [
+      "xarray/coding/cftime_offsets.py",
+      [
+        "Minute"
+      ]
+    ]
+  ],
+  "Second": [
+    [
+      "xarray/coding/cftime_offsets.py",
+      [
+        "Second"
+      ]
+    ]
+  ],
+  "CFTimeIndex": [
+    [
+      "xarray/coding/cftimeindex.py",
+      [
+        "CFTimeIndex"
+      ]
+    ]
+  ],
+  "_CFTimeFrequencyInferer": [
+    [
+      "xarray/coding/frequencies.py",
+      [
+        "_CFTimeFrequencyInferer"
+      ]
+    ]
+  ],
+  "EncodedStringCoder": [
+    [
+      "xarray/coding/strings.py",
+      [
+        "EncodedStringCoder"
+      ]
+    ]
+  ],
+  "CharacterArrayCoder": [
+    [
+      "xarray/coding/strings.py",
+      [
+        "CharacterArrayCoder"
+      ]
+    ]
+  ],
+  "StackedBytesArray": [
+    [
+      "xarray/coding/strings.py",
+      [
+        "StackedBytesArray"
+      ]
+    ]
+  ],
+  "CFDatetimeCoder": [
+    [
+      "xarray/coding/times.py",
+      [
+        "CFDatetimeCoder"
+      ]
+    ]
+  ],
+  "CFTimedeltaCoder": [
+    [
+      "xarray/coding/times.py",
+      [
+        "CFTimedeltaCoder"
+      ]
+    ]
+  ],
+  "SerializationWarning": [
+    [
+      "xarray/coding/variables.py",
+      [
+        "SerializationWarning"
+      ]
+    ]
+  ],
+  "VariableCoder": [
+    [
+      "xarray/coding/variables.py",
+      [
+        "VariableCoder"
+      ]
+    ]
+  ],
+  "_ElementwiseFunctionArray": [
+    [
+      "xarray/coding/variables.py",
+      [
+        "_ElementwiseFunctionArray"
+      ]
+    ]
+  ],
+  "CFMaskCoder": [
+    [
+      "xarray/coding/variables.py",
+      [
+        "CFMaskCoder"
+      ]
+    ]
+  ],
+  "CFScaleOffsetCoder": [
+    [
+      "xarray/coding/variables.py",
+      [
+        "CFScaleOffsetCoder"
+      ]
+    ]
+  ],
+  "UnsignedIntegerCoder": [
+    [
+      "xarray/coding/variables.py",
+      [
+        "UnsignedIntegerCoder"
+      ]
+    ]
+  ],
+  "NativeEndiannessArray": [
+    [
+      "xarray/conventions.py",
+      [
+        "NativeEndiannessArray"
+      ]
+    ]
+  ],
+  "BoolTypeArray": [
+    [
+      "xarray/conventions.py",
+      [
+        "BoolTypeArray"
+      ]
+    ]
+  ],
+  "Properties": [
+    [
+      "xarray/core/accessor_dt.py",
+      [
+        "Properties"
+      ]
+    ]
+  ],
+  "DatetimeAccessor": [
+    [
+      "xarray/core/accessor_dt.py",
+      [
+        "DatetimeAccessor"
+      ]
+    ]
+  ],
+  "TimedeltaAccessor": [
+    [
+      "xarray/core/accessor_dt.py",
+      [
+        "TimedeltaAccessor"
+      ]
+    ]
+  ],
+  "CombinedDatetimelikeAccessor": [
+    [
+      "xarray/core/accessor_dt.py",
+      [
+        "CombinedDatetimelikeAccessor"
+      ]
+    ]
+  ],
+  "StringAccessor": [
+    [
+      "xarray/core/accessor_str.py",
+      [
+        "StringAccessor"
+      ]
+    ]
+  ],
+  "SupportsArithmetic": [
+    [
+      "xarray/core/arithmetic.py",
+      [
+        "SupportsArithmetic"
+      ]
+    ]
+  ],
+  "ImplementsArrayReduce": [
+    [
+      "xarray/core/common.py",
+      [
+        "ImplementsArrayReduce"
+      ]
+    ]
+  ],
+  "ImplementsDatasetReduce": [
+    [
+      "xarray/core/common.py",
+      [
+        "ImplementsDatasetReduce"
+      ]
+    ]
+  ],
+  "AbstractArray": [
+    [
+      "xarray/core/common.py",
+      [
+        "AbstractArray"
+      ]
+    ]
+  ],
+  "AttrAccessMixin": [
+    [
+      "xarray/core/common.py",
+      [
+        "AttrAccessMixin"
+      ]
+    ]
+  ],
+  "DataWithCoords": [
+    [
+      "xarray/core/common.py",
+      [
+        "DataWithCoords"
+      ]
+    ]
+  ],
+  "_UFuncSignature": [
+    [
+      "xarray/core/computation.py",
+      [
+        "_UFuncSignature"
+      ]
+    ]
+  ],
+  "Coordinates": [
+    [
+      "xarray/core/coordinates.py",
+      [
+        "Coordinates"
+      ]
+    ]
+  ],
+  "DatasetCoordinates": [
+    [
+      "xarray/core/coordinates.py",
+      [
+        "DatasetCoordinates"
+      ]
+    ]
+  ],
+  "DataArrayCoordinates": [
+    [
+      "xarray/core/coordinates.py",
+      [
+        "DataArrayCoordinates"
+      ]
+    ]
+  ],
+  "LevelCoordinatesSource": [
+    [
+      "xarray/core/coordinates.py",
+      [
+        "LevelCoordinatesSource"
+      ]
+    ]
+  ],
+  "_LocIndexer": [
+    [
+      "xarray/core/dataarray.py",
+      [
+        "_LocIndexer"
+      ]
+    ],
+    [
+      "xarray/core/dataset.py",
+      [
+        "_LocIndexer"
+      ]
+    ]
+  ],
+  "DataArray": [
+    [
+      "xarray/core/dataarray.py",
+      [
+        "DataArray"
+      ]
+    ]
+  ],
+  "DataVariables": [
+    [
+      "xarray/core/dataset.py",
+      [
+        "DataVariables"
+      ]
+    ]
+  ],
+  "Dataset": [
+    [
+      "xarray/core/dataset.py",
+      [
+        "Dataset"
+      ]
+    ]
+  ],
+  "AlwaysGreaterThan": [
+    [
+      "xarray/core/dtypes.py",
+      [
+        "AlwaysGreaterThan"
+      ]
+    ]
+  ],
+  "AlwaysLessThan": [
+    [
+      "xarray/core/dtypes.py",
+      [
+        "AlwaysLessThan"
+      ]
+    ]
+  ],
+  "AccessorRegistrationWarning": [
+    [
+      "xarray/core/extensions.py",
+      [
+        "AccessorRegistrationWarning"
+      ]
+    ]
+  ],
+  "_CachedAccessor": [
+    [
+      "xarray/core/extensions.py",
+      [
+        "_CachedAccessor"
+      ]
+    ]
+  ],
+  "_DummyGroup": [
+    [
+      "xarray/core/groupby.py",
+      [
+        "_DummyGroup"
+      ]
+    ]
+  ],
+  "GroupBy": [
+    [
+      "xarray/core/groupby.py",
+      [
+        "GroupBy"
+      ]
+    ]
+  ],
+  "DataArrayGroupBy": [
+    [
+      "xarray/core/groupby.py",
+      [
+        "DataArrayGroupBy"
+      ]
+    ]
+  ],
+  "DatasetGroupBy": [
+    [
+      "xarray/core/groupby.py",
+      [
+        "DatasetGroupBy"
+      ]
+    ]
+  ],
+  "Indexes": [
+    [
+      "xarray/core/indexes.py",
+      [
+        "Indexes"
+      ]
+    ]
+  ],
+  "ExplicitIndexer": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "ExplicitIndexer"
+      ]
+    ]
+  ],
+  "BasicIndexer": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "BasicIndexer"
+      ]
+    ]
+  ],
+  "OuterIndexer": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "OuterIndexer"
+      ]
+    ]
+  ],
+  "VectorizedIndexer": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "VectorizedIndexer"
+      ]
+    ]
+  ],
+  "ExplicitlyIndexed": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "ExplicitlyIndexed"
+      ]
+    ]
+  ],
+  "ExplicitlyIndexedNDArrayMixin": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "ExplicitlyIndexedNDArrayMixin"
+      ]
+    ]
+  ],
+  "ImplicitToExplicitIndexingAdapter": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "ImplicitToExplicitIndexingAdapter"
+      ]
+    ]
+  ],
+  "LazilyOuterIndexedArray": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "LazilyOuterIndexedArray"
+      ]
+    ]
+  ],
+  "LazilyVectorizedIndexedArray": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "LazilyVectorizedIndexedArray"
+      ]
+    ]
+  ],
+  "CopyOnWriteArray": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "CopyOnWriteArray"
+      ]
+    ]
+  ],
+  "MemoryCachedArray": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "MemoryCachedArray"
+      ]
+    ]
+  ],
+  "IndexingSupport": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "IndexingSupport"
+      ]
+    ]
+  ],
+  "NumpyIndexingAdapter": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "NumpyIndexingAdapter"
+      ]
+    ]
+  ],
+  "NdArrayLikeIndexingAdapter": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "NdArrayLikeIndexingAdapter"
+      ]
+    ]
+  ],
+  "DaskIndexingAdapter": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "DaskIndexingAdapter"
+      ]
+    ]
+  ],
+  "PandasIndexAdapter": [
+    [
+      "xarray/core/indexing.py",
+      [
+        "PandasIndexAdapter"
+      ]
+    ]
+  ],
+  "MergeError": [
+    [
+      "xarray/core/merge.py",
+      [
+        "MergeError"
+      ]
+    ]
+  ],
+  "_MergeResult": [
+    [
+      "xarray/core/merge.py",
+      [
+        "_MergeResult"
+      ]
+    ]
+  ],
+  "BaseInterpolator": [
+    [
+      "xarray/core/missing.py",
+      [
+        "BaseInterpolator"
+      ]
+    ]
+  ],
+  "NumpyInterpolator": [
+    [
+      "xarray/core/missing.py",
+      [
+        "NumpyInterpolator"
+      ]
+    ]
+  ],
+  "ScipyInterpolator": [
+    [
+      "xarray/core/missing.py",
+      [
+        "ScipyInterpolator"
+      ]
+    ]
+  ],
+  "SplineInterpolator": [
+    [
+      "xarray/core/missing.py",
+      [
+        "SplineInterpolator"
+      ]
+    ]
+  ],
+  "NumpyVIndexAdapter": [
+    [
+      "xarray/core/nputils.py",
+      [
+        "NumpyVIndexAdapter"
+      ]
+    ]
+  ],
+  "set_options": [
+    [
+      "xarray/core/options.py",
+      [
+        "set_options"
+      ]
+    ]
+  ],
+  "Resample": [
+    [
+      "xarray/core/resample.py",
+      [
+        "Resample"
+      ]
+    ]
+  ],
+  "DataArrayResample": [
+    [
+      "xarray/core/resample.py",
+      [
+        "DataArrayResample"
+      ]
+    ]
+  ],
+  "DatasetResample": [
+    [
+      "xarray/core/resample.py",
+      [
+        "DatasetResample"
+      ]
+    ]
+  ],
+  "CFTimeGrouper": [
+    [
+      "xarray/core/resample_cftime.py",
+      [
+        "CFTimeGrouper"
+      ]
+    ]
+  ],
+  "DataArrayRolling": [
+    [
+      "xarray/core/rolling.py",
+      [
+        "DataArrayRolling"
+      ]
+    ]
+  ],
+  "DatasetRolling": [
+    [
+      "xarray/core/rolling.py",
+      [
+        "DatasetRolling"
+      ]
+    ]
+  ],
+  "Coarsen": [
+    [
+      "xarray/core/rolling.py",
+      [
+        "Coarsen"
+      ]
+    ]
+  ],
+  "DataArrayCoarsen": [
+    [
+      "xarray/core/rolling.py",
+      [
+        "DataArrayCoarsen"
+      ]
+    ]
+  ],
+  "DatasetCoarsen": [
+    [
+      "xarray/core/rolling.py",
+      [
+        "DatasetCoarsen"
+      ]
+    ]
+  ],
+  "RollingExp": [
+    [
+      "xarray/core/rolling_exp.py",
+      [
+        "RollingExp"
+      ]
+    ]
+  ],
+  "Frozen": [
+    [
+      "xarray/core/utils.py",
+      [
+        "Frozen"
+      ]
+    ]
+  ],
+  "SortedKeysDict": [
+    [
+      "xarray/core/utils.py",
+      [
+        "SortedKeysDict"
+      ]
+    ]
+  ],
+  "OrderedSet": [
+    [
+      "xarray/core/utils.py",
+      [
+        "OrderedSet"
+      ]
+    ]
+  ],
+  "NdimSizeLenMixin": [
+    [
+      "xarray/core/utils.py",
+      [
+        "NdimSizeLenMixin"
+      ]
+    ]
+  ],
+  "NDArrayMixin": [
+    [
+      "xarray/core/utils.py",
+      [
+        "NDArrayMixin"
+      ]
+    ]
+  ],
+  "ReprObject": [
+    [
+      "xarray/core/utils.py",
+      [
+        "ReprObject"
+      ]
+    ]
+  ],
+  "HiddenKeyDict": [
+    [
+      "xarray/core/utils.py",
+      [
+        "HiddenKeyDict"
+      ]
+    ]
+  ],
+  "UncachedAccessor": [
+    [
+      "xarray/core/utils.py",
+      [
+        "UncachedAccessor"
+      ]
+    ]
+  ],
+  "Default": [
+    [
+      "xarray/core/utils.py",
+      [
+        "Default"
+      ]
+    ]
+  ],
+  "MissingDimensionsError": [
+    [
+      "xarray/core/variable.py",
+      [
+        "MissingDimensionsError"
+      ]
+    ]
+  ],
+  "Variable": [
+    [
+      "xarray/core/variable.py",
+      [
+        "Variable"
+      ]
+    ]
+  ],
+  "IndexVariable": [
+    [
+      "xarray/core/variable.py",
+      [
+        "IndexVariable"
+      ]
+    ]
+  ],
+  "Weighted": [
+    [
+      "xarray/core/weighted.py",
+      [
+        "Weighted"
+      ]
+    ]
+  ],
+  "DataArrayWeighted": [
+    [
+      "xarray/core/weighted.py",
+      [
+        "DataArrayWeighted"
+      ]
+    ]
+  ],
+  "DatasetWeighted": [
+    [
+      "xarray/core/weighted.py",
+      [
+        "DatasetWeighted"
+      ]
+    ]
+  ],
+  "_Dataset_PlotMethods": [
+    [
+      "xarray/plot/dataset_plot.py",
+      [
+        "_Dataset_PlotMethods"
+      ]
+    ]
+  ],
+  "FacetGrid": [
+    [
+      "xarray/plot/facetgrid.py",
+      [
+        "FacetGrid"
+      ]
+    ]
+  ],
+  "_PlotMethods": [
+    [
+      "xarray/plot/plot.py",
+      [
+        "_PlotMethods"
+      ]
+    ]
+  ],
+  "UnexpectedDataAccess": [
+    [
+      "xarray/tests/__init__.py",
+      [
+        "UnexpectedDataAccess"
+      ]
+    ]
+  ],
+  "InaccessibleArray": [
+    [
+      "xarray/tests/__init__.py",
+      [
+        "InaccessibleArray"
+      ]
+    ]
+  ],
+  "ReturnItem": [
+    [
+      "xarray/tests/__init__.py",
+      [
+        "ReturnItem"
+      ]
+    ]
+  ],
+  "IndexerMaker": [
+    [
+      "xarray/tests/__init__.py",
+      [
+        "IndexerMaker"
+      ]
+    ]
+  ],
+  "TestDatetimeAccessor": [
+    [
+      "xarray/tests/test_accessor_dt.py",
+      [
+        "TestDatetimeAccessor"
+      ]
+    ]
+  ],
+  "TestTimedeltaAccessor": [
+    [
+      "xarray/tests/test_accessor_dt.py",
+      [
+        "TestTimedeltaAccessor"
+      ]
+    ]
+  ],
+  "TestCommon": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestCommon"
+      ]
+    ]
+  ],
+  "NetCDF3Only": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "NetCDF3Only"
+      ]
+    ]
+  ],
+  "DatasetIOBase": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "DatasetIOBase"
+      ]
+    ]
+  ],
+  "CFEncodedBase": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "CFEncodedBase"
+      ]
+    ]
+  ],
+  "NetCDF4Base": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "NetCDF4Base"
+      ]
+    ]
+  ],
+  "TestNetCDF4Data": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestNetCDF4Data"
+      ]
+    ]
+  ],
+  "TestNetCDF4ViaDaskData": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestNetCDF4ViaDaskData"
+      ]
+    ]
+  ],
+  "ZarrBase": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "ZarrBase"
+      ]
+    ]
+  ],
+  "TestZarrDictStore": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestZarrDictStore"
+      ]
+    ]
+  ],
+  "TestZarrDirectoryStore": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestZarrDirectoryStore"
+      ]
+    ]
+  ],
+  "TestScipyInMemoryData": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestScipyInMemoryData"
+      ]
+    ]
+  ],
+  "TestScipyFileObject": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestScipyFileObject"
+      ]
+    ]
+  ],
+  "TestScipyFilePath": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestScipyFilePath"
+      ]
+    ]
+  ],
+  "TestNetCDF3ViaNetCDF4Data": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestNetCDF3ViaNetCDF4Data"
+      ]
+    ]
+  ],
+  "TestNetCDF4ClassicViaNetCDF4Data": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestNetCDF4ClassicViaNetCDF4Data"
+      ]
+    ]
+  ],
+  "TestGenericNetCDFData": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestGenericNetCDFData"
+      ]
+    ]
+  ],
+  "TestH5NetCDFData": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestH5NetCDFData"
+      ]
+    ]
+  ],
+  "TestH5NetCDFFileObject": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestH5NetCDFFileObject"
+      ]
+    ]
+  ],
+  "TestH5NetCDFViaDaskData": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestH5NetCDFViaDaskData"
+      ]
+    ]
+  ],
+  "TestOpenMFDatasetWithDataVarsAndCoordsKw": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestOpenMFDatasetWithDataVarsAndCoordsKw"
+      ]
+    ]
+  ],
+  "TestDask": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestDask"
+      ]
+    ]
+  ],
+  "TestPydap": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestPydap"
+      ]
+    ]
+  ],
+  "TestPydapOnline": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestPydapOnline"
+      ]
+    ]
+  ],
+  "TestPyNio": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestPyNio"
+      ]
+    ]
+  ],
+  "TestCfGrib": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestCfGrib"
+      ]
+    ]
+  ],
+  "TestPseudoNetCDFFormat": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestPseudoNetCDFFormat"
+      ]
+    ]
+  ],
+  "TestRasterio": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestRasterio"
+      ]
+    ]
+  ],
+  "TestEncodingInvalid": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestEncodingInvalid"
+      ]
+    ]
+  ],
+  "MiscObject": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "MiscObject"
+      ]
+    ]
+  ],
+  "TestValidateAttrs": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestValidateAttrs"
+      ]
+    ]
+  ],
+  "TestDataArrayToNetCDF": [
+    [
+      "xarray/tests/test_backends.py",
+      [
+        "TestDataArrayToNetCDF"
+      ]
+    ]
+  ],
+  "DummyFailure": [
+    [
+      "xarray/tests/test_backends_common.py",
+      [
+        "DummyFailure"
+      ]
+    ]
+  ],
+  "DummyArray": [
+    [
+      "xarray/tests/test_backends_common.py",
+      [
+        "DummyArray"
+      ]
+    ]
+  ],
+  "AcquisitionError": [
+    [
+      "xarray/tests/test_backends_file_manager.py",
+      [
+        "test_file_manager_acquire_context",
+        "AcquisitionError"
+      ]
+    ]
+  ],
+  "TestTileIDsFromNestedList": [
+    [
+      "xarray/tests/test_combine.py",
+      [
+        "TestTileIDsFromNestedList"
+      ]
+    ]
+  ],
+  "TestTileIDsFromCoords": [
+    [
+      "xarray/tests/test_combine.py",
+      [
+        "TestTileIDsFromCoords"
+      ]
+    ]
+  ],
+  "TestNewTileIDs": [
+    [
+      "xarray/tests/test_combine.py",
+      [
+        "TestNewTileIDs"
+      ]
+    ]
+  ],
+  "TestCombineND": [
+    [
+      "xarray/tests/test_combine.py",
+      [
+        "TestCombineND"
+      ]
+    ]
+  ],
+  "TestCheckShapeTileIDs": [
+    [
+      "xarray/tests/test_combine.py",
+      [
+        "TestCheckShapeTileIDs"
+      ]
+    ]
+  ],
+  "TestNestedCombine": [
+    [
+      "xarray/tests/test_combine.py",
+      [
+        "TestNestedCombine"
+      ]
+    ]
+  ],
+  "TestCombineAuto": [
+    [
+      "xarray/tests/test_combine.py",
+      [
+        "TestCombineAuto"
+      ]
+    ]
+  ],
+  "TestConcatDataset": [
+    [
+      "xarray/tests/test_concat.py",
+      [
+        "TestConcatDataset"
+      ]
+    ]
+  ],
+  "TestConcatDataArray": [
+    [
+      "xarray/tests/test_concat.py",
+      [
+        "TestConcatDataArray"
+      ]
+    ]
+  ],
+  "TestBoolTypeArray": [
+    [
+      "xarray/tests/test_conventions.py",
+      [
+        "TestBoolTypeArray"
+      ]
+    ]
+  ],
+  "TestNativeEndiannessArray": [
+    [
+      "xarray/tests/test_conventions.py",
+      [
+        "TestNativeEndiannessArray"
+      ]
+    ]
+  ],
+  "TestEncodeCFVariable": [
+    [
+      "xarray/tests/test_conventions.py",
+      [
+        "TestEncodeCFVariable"
+      ]
+    ]
+  ],
+  "TestDecodeCF": [
+    [
+      "xarray/tests/test_conventions.py",
+      [
+        "TestDecodeCF"
+      ]
+    ]
+  ],
+  "CFEncodedInMemoryStore": [
+    [
+      "xarray/tests/test_conventions.py",
+      [
+        "CFEncodedInMemoryStore"
+      ]
+    ]
+  ],
+  "TestCFEncodedDataStore": [
+    [
+      "xarray/tests/test_conventions.py",
+      [
+        "TestCFEncodedDataStore"
+      ]
+    ]
+  ],
+  "CountingScheduler": [
+    [
+      "xarray/tests/test_dask.py",
+      [
+        "CountingScheduler"
+      ]
+    ]
+  ],
+  "DaskTestCase": [
+    [
+      "xarray/tests/test_dask.py",
+      [
+        "DaskTestCase"
+      ]
+    ]
+  ],
+  "TestVariable": [
+    [
+      "xarray/tests/test_dask.py",
+      [
+        "TestVariable"
+      ]
+    ],
+    [
+      "xarray/tests/test_units.py",
+      [
+        "TestVariable"
+      ]
+    ],
+    [
+      "xarray/tests/test_variable.py",
+      [
+        "TestVariable"
+      ]
+    ]
+  ],
+  "TestDataArrayAndDataset": [
+    [
+      "xarray/tests/test_dask.py",
+      [
+        "TestDataArrayAndDataset"
+      ]
+    ]
+  ],
+  "TestToDaskDataFrame": [
+    [
+      "xarray/tests/test_dask.py",
+      [
+        "TestToDaskDataFrame"
+      ]
+    ]
+  ],
+  "TestDataArray": [
+    [
+      "xarray/tests/test_dataarray.py",
+      [
+        "TestDataArray"
+      ]
+    ],
+    [
+      "xarray/tests/test_units.py",
+      [
+        "TestDataArray"
+      ]
+    ]
+  ],
+  "TestReduce": [
+    [
+      "xarray/tests/test_dataarray.py",
+      [
+        "TestReduce"
+      ]
+    ]
+  ],
+  "TestReduce1D": [
+    [
+      "xarray/tests/test_dataarray.py",
+      [
+        "TestReduce1D"
+      ]
+    ]
+  ],
+  "TestReduce2D": [
+    [
+      "xarray/tests/test_dataarray.py",
+      [
+        "TestReduce2D"
+      ]
+    ]
+  ],
+  "TestReduceND": [
+    [
+      "xarray/tests/test_dataarray.py",
+      [
+        "TestReduceND"
+      ]
+    ]
+  ],
+  "TestIrisConversion": [
+    [
+      "xarray/tests/test_dataarray.py",
+      [
+        "TestIrisConversion"
+      ]
+    ]
+  ],
+  "InaccessibleVariableDataStore": [
+    [
+      "xarray/tests/test_dataset.py",
+      [
+        "InaccessibleVariableDataStore"
+      ]
+    ]
+  ],
+  "Arbitrary": [
+    [
+      "xarray/tests/test_dataset.py",
+      [
+        "TestDataset",
+        "test_constructor_0d",
+        "Arbitrary"
+      ]
+    ]
+  ],
+  "TestDataset": [
+    [
+      "xarray/tests/test_dataset.py",
+      [
+        "TestDataset"
+      ]
+    ],
+    [
+      "xarray/tests/test_units.py",
+      [
+        "TestDataset"
+      ]
+    ]
+  ],
+  "TestOps": [
+    [
+      "xarray/tests/test_duck_array_ops.py",
+      [
+        "TestOps"
+      ]
+    ]
+  ],
+  "TestArrayNotNullEquiv": [
+    [
+      "xarray/tests/test_duck_array_ops.py",
+      [
+        "TestArrayNotNullEquiv"
+      ]
+    ]
+  ],
+  "ExampleAccessor": [
+    [
+      "xarray/tests/test_extensions.py",
+      [
+        "ExampleAccessor"
+      ]
+    ]
+  ],
+  "DemoAccessor": [
+    [
+      "xarray/tests/test_extensions.py",
+      [
+        "TestAccessor",
+        "test_register",
+        "DemoAccessor"
+      ]
+    ]
+  ],
+  "TestAccessor": [
+    [
+      "xarray/tests/test_extensions.py",
+      [
+        "TestAccessor"
+      ]
+    ]
+  ],
+  "TestFormatting": [
+    [
+      "xarray/tests/test_formatting.py",
+      [
+        "TestFormatting"
+      ]
+    ]
+  ],
+  "TestIndexers": [
+    [
+      "xarray/tests/test_indexing.py",
+      [
+        "TestIndexers"
+      ]
+    ]
+  ],
+  "TestLazyArray": [
+    [
+      "xarray/tests/test_indexing.py",
+      [
+        "TestLazyArray"
+      ]
+    ]
+  ],
+  "TestCopyOnWriteArray": [
+    [
+      "xarray/tests/test_indexing.py",
+      [
+        "TestCopyOnWriteArray"
+      ]
+    ]
+  ],
+  "TestMemoryCachedArray": [
+    [
+      "xarray/tests/test_indexing.py",
+      [
+        "TestMemoryCachedArray"
+      ]
+    ]
+  ],
+  "Test_vectorized_indexer": [
+    [
+      "xarray/tests/test_indexing.py",
+      [
+        "Test_vectorized_indexer"
+      ]
+    ]
+  ],
+  "TestMergeInternals": [
+    [
+      "xarray/tests/test_merge.py",
+      [
+        "TestMergeInternals"
+      ]
+    ]
+  ],
+  "TestMergeFunction": [
+    [
+      "xarray/tests/test_merge.py",
+      [
+        "TestMergeFunction"
+      ]
+    ]
+  ],
+  "TestMergeMethod": [
+    [
+      "xarray/tests/test_merge.py",
+      [
+        "TestMergeMethod"
+      ]
+    ]
+  ],
+  "TestAttrRetention": [
+    [
+      "xarray/tests/test_options.py",
+      [
+        "TestAttrRetention"
+      ]
+    ]
+  ],
+  "PlotTestCase": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "PlotTestCase"
+      ]
+    ]
+  ],
+  "TestPlot": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestPlot"
+      ]
+    ]
+  ],
+  "TestPlot1D": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestPlot1D"
+      ]
+    ]
+  ],
+  "TestPlotStep": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestPlotStep"
+      ]
+    ]
+  ],
+  "TestPlotHistogram": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestPlotHistogram"
+      ]
+    ]
+  ],
+  "TestDetermineCmapParams": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestDetermineCmapParams"
+      ]
+    ]
+  ],
+  "TestDiscreteColorMap": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestDiscreteColorMap"
+      ]
+    ]
+  ],
+  "Common2dMixin": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "Common2dMixin"
+      ]
+    ]
+  ],
+  "TestContourf": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestContourf"
+      ]
+    ]
+  ],
+  "TestContour": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestContour"
+      ]
+    ]
+  ],
+  "TestPcolormesh": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestPcolormesh"
+      ]
+    ]
+  ],
+  "TestImshow": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestImshow"
+      ]
+    ]
+  ],
+  "TestFacetGrid": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestFacetGrid"
+      ]
+    ]
+  ],
+  "TestFacetGrid4d": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestFacetGrid4d"
+      ]
+    ]
+  ],
+  "TestFacetedLinePlotsLegend": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestFacetedLinePlotsLegend"
+      ]
+    ]
+  ],
+  "TestFacetedLinePlots": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestFacetedLinePlots"
+      ]
+    ]
+  ],
+  "TestDatasetScatterPlots": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestDatasetScatterPlots"
+      ]
+    ]
+  ],
+  "TestDatetimePlot": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestDatetimePlot"
+      ]
+    ]
+  ],
+  "TestCFDatetimePlot": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestCFDatetimePlot"
+      ]
+    ]
+  ],
+  "TestNcAxisNotInstalled": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestNcAxisNotInstalled"
+      ]
+    ]
+  ],
+  "TestAxesKwargs": [
+    [
+      "xarray/tests/test_plot.py",
+      [
+        "TestAxesKwargs"
+      ]
+    ]
+  ],
+  "do": [
+    [
+      "xarray/tests/test_sparse.py",
+      [
+        "do"
+      ]
+    ]
+  ],
+  "TestSparseVariable": [
+    [
+      "xarray/tests/test_sparse.py",
+      [
+        "TestSparseVariable"
+      ]
+    ]
+  ],
+  "TestSparseDataArrayAndDataset": [
+    [
+      "xarray/tests/test_sparse.py",
+      [
+        "TestSparseDataArrayAndDataset"
+      ]
+    ]
+  ],
+  "TestSparseCoords": [
+    [
+      "xarray/tests/test_sparse.py",
+      [
+        "TestSparseCoords"
+      ]
+    ]
+  ],
+  "TestLoadDataset": [
+    [
+      "xarray/tests/test_tutorial.py",
+      [
+        "TestLoadDataset"
+      ]
+    ]
+  ],
+  "method": [
+    [
+      "xarray/tests/test_units.py",
+      [
+        "method"
+      ]
+    ]
+  ],
+  "function": [
+    [
+      "xarray/tests/test_units.py",
+      [
+        "function"
+      ]
+    ]
+  ],
+  "TestAlias": [
+    [
+      "xarray/tests/test_utils.py",
+      [
+        "TestAlias"
+      ]
+    ]
+  ],
+  "TestArrayEquiv": [
+    [
+      "xarray/tests/test_utils.py",
+      [
+        "TestArrayEquiv"
+      ]
+    ]
+  ],
+  "TestDictionaries": [
+    [
+      "xarray/tests/test_utils.py",
+      [
+        "TestDictionaries"
+      ]
+    ]
+  ],
+  "Test_is_uniform_and_sorted": [
+    [
+      "xarray/tests/test_utils.py",
+      [
+        "Test_is_uniform_and_sorted"
+      ]
+    ]
+  ],
+  "Test_hashable": [
+    [
+      "xarray/tests/test_utils.py",
+      [
+        "Test_hashable"
+      ]
+    ]
+  ],
+  "VariableSubclassobjects": [
+    [
+      "xarray/tests/test_variable.py",
+      [
+        "VariableSubclassobjects"
+      ]
+    ]
+  ],
+  "TestVariableWithDask": [
+    [
+      "xarray/tests/test_variable.py",
+      [
+        "TestVariableWithDask"
+      ]
+    ]
+  ],
+  "TestVariableWithSparse": [
+    [
+      "xarray/tests/test_variable.py",
+      [
+        "TestVariableWithSparse"
+      ]
+    ]
+  ],
+  "TestIndexVariable": [
+    [
+      "xarray/tests/test_variable.py",
+      [
+        "TestIndexVariable"
+      ]
+    ]
+  ],
+  "TestAsCompatibleData": [
+    [
+      "xarray/tests/test_variable.py",
+      [
+        "TestAsCompatibleData"
+      ]
+    ]
+  ],
+  "TestBackendIndexing": [
+    [
+      "xarray/tests/test_variable.py",
+      [
+        "TestBackendIndexing"
+      ]
+    ]
+  ],
+  "_UFuncDispatcher": [
+    [
+      "xarray/ufuncs.py",
+      [
+        "_UFuncDispatcher"
+      ]
+    ]
+  ]
+}

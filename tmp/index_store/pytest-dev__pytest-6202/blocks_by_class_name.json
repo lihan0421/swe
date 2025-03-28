@@ -1,0 +1,3360 @@
+{
+  "FlaskyStyle": [
+    [
+      "doc/en/_themes/flask_theme_support.py",
+      [
+        "FlaskyStyle"
+      ]
+    ]
+  ],
+  "TestFailing": [
+    [
+      "doc/en/example/assertion/failure_demo.py",
+      [
+        "TestFailing"
+      ]
+    ]
+  ],
+  "TestSpecialisedExplanations": [
+    [
+      "doc/en/example/assertion/failure_demo.py",
+      [
+        "TestSpecialisedExplanations"
+      ]
+    ]
+  ],
+  "TestRaises": [
+    [
+      "doc/en/example/assertion/failure_demo.py",
+      [
+        "TestRaises"
+      ]
+    ],
+    [
+      "testing/python/raises.py",
+      [
+        "TestRaises"
+      ]
+    ]
+  ],
+  "TestMoreErrors": [
+    [
+      "doc/en/example/assertion/failure_demo.py",
+      [
+        "TestMoreErrors"
+      ]
+    ]
+  ],
+  "TestCustomAssertMsg": [
+    [
+      "doc/en/example/assertion/failure_demo.py",
+      [
+        "TestCustomAssertMsg"
+      ]
+    ]
+  ],
+  "TestStateFullThing": [
+    [
+      "doc/en/example/assertion/test_setup_flow_example.py",
+      [
+        "TestStateFullThing"
+      ]
+    ]
+  ],
+  "CostlySetup": [
+    [
+      "doc/en/example/costlysetup/conftest.py",
+      [
+        "CostlySetup"
+      ]
+    ]
+  ],
+  "Python": [
+    [
+      "doc/en/example/multipython.py",
+      [
+        "Python"
+      ]
+    ]
+  ],
+  "YamlFile": [
+    [
+      "doc/en/example/nonpython/conftest.py",
+      [
+        "YamlFile"
+      ]
+    ]
+  ],
+  "YamlItem": [
+    [
+      "doc/en/example/nonpython/conftest.py",
+      [
+        "YamlItem"
+      ]
+    ]
+  ],
+  "YamlException": [
+    [
+      "doc/en/example/nonpython/conftest.py",
+      [
+        "YamlException"
+      ]
+    ]
+  ],
+  "DummyCollector": [
+    [
+      "doc/en/example/py2py3/conftest.py",
+      [
+        "DummyCollector"
+      ]
+    ]
+  ],
+  "TestClass": [
+    [
+      "doc/en/example/pythoncollection.py",
+      [
+        "TestClass"
+      ]
+    ],
+    [
+      "testing/example_scripts/fixtures/fill_fixtures/test_funcarg_lookup_classlevel.py",
+      [
+        "TestClass"
+      ]
+    ],
+    [
+      "testing/example_scripts/fixtures/fill_fixtures/test_funcarg_lookup_modulelevel.py",
+      [
+        "TestClass"
+      ]
+    ],
+    [
+      "testing/python/collect.py",
+      [
+        "TestClass"
+      ]
+    ]
+  ],
+  "FastFilesCompleter": [
+    [
+      "src/_pytest/_argcomplete.py",
+      [
+        "FastFilesCompleter"
+      ]
+    ]
+  ],
+  "Code": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "Code"
+      ]
+    ]
+  ],
+  "Frame": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "Frame"
+      ]
+    ]
+  ],
+  "TracebackEntry": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "TracebackEntry"
+      ]
+    ]
+  ],
+  "Traceback": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "Traceback"
+      ]
+    ],
+    [
+      "testing/code/test_excinfo.py",
+      [
+        "TestFormattedExcinfo",
+        "test_repr_source_failing_fullsource",
+        "Traceback"
+      ]
+    ]
+  ],
+  "ExceptionInfo": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "ExceptionInfo"
+      ]
+    ]
+  ],
+  "FormattedExcinfo": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "FormattedExcinfo"
+      ]
+    ]
+  ],
+  "TerminalRepr": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "TerminalRepr"
+      ]
+    ]
+  ],
+  "ExceptionRepr": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "ExceptionRepr"
+      ]
+    ]
+  ],
+  "ExceptionChainRepr": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "ExceptionChainRepr"
+      ]
+    ]
+  ],
+  "ReprExceptionInfo": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "ReprExceptionInfo"
+      ]
+    ]
+  ],
+  "ReprTraceback": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "ReprTraceback"
+      ]
+    ]
+  ],
+  "ReprTracebackNative": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "ReprTracebackNative"
+      ]
+    ]
+  ],
+  "ReprEntryNative": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "ReprEntryNative"
+      ]
+    ]
+  ],
+  "ReprEntry": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "ReprEntry"
+      ]
+    ]
+  ],
+  "ReprFileLocation": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "ReprFileLocation"
+      ]
+    ]
+  ],
+  "ReprLocals": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "ReprLocals"
+      ]
+    ]
+  ],
+  "ReprFuncArgs": [
+    [
+      "src/_pytest/_code/code.py",
+      [
+        "ReprFuncArgs"
+      ]
+    ]
+  ],
+  "Source": [
+    [
+      "src/_pytest/_code/source.py",
+      [
+        "Source"
+      ]
+    ]
+  ],
+  "SafeRepr": [
+    [
+      "src/_pytest/_io/saferepr.py",
+      [
+        "SafeRepr"
+      ]
+    ]
+  ],
+  "DummyRewriteHook": [
+    [
+      "src/_pytest/assertion/__init__.py",
+      [
+        "DummyRewriteHook"
+      ]
+    ]
+  ],
+  "AssertionState": [
+    [
+      "src/_pytest/assertion/__init__.py",
+      [
+        "AssertionState"
+      ]
+    ]
+  ],
+  "AssertionRewritingHook": [
+    [
+      "src/_pytest/assertion/rewrite.py",
+      [
+        "AssertionRewritingHook"
+      ]
+    ]
+  ],
+  "AssertionRewriter": [
+    [
+      "src/_pytest/assertion/rewrite.py",
+      [
+        "AssertionRewriter"
+      ]
+    ]
+  ],
+  "Cache": [
+    [
+      "src/_pytest/cacheprovider.py",
+      [
+        "Cache"
+      ]
+    ]
+  ],
+  "LFPlugin": [
+    [
+      "src/_pytest/cacheprovider.py",
+      [
+        "LFPlugin"
+      ]
+    ]
+  ],
+  "NFPlugin": [
+    [
+      "src/_pytest/cacheprovider.py",
+      [
+        "NFPlugin"
+      ]
+    ]
+  ],
+  "CaptureManager": [
+    [
+      "src/_pytest/capture.py",
+      [
+        "CaptureManager"
+      ]
+    ]
+  ],
+  "CaptureFixture": [
+    [
+      "src/_pytest/capture.py",
+      [
+        "CaptureFixture"
+      ]
+    ]
+  ],
+  "EncodedFile": [
+    [
+      "src/_pytest/capture.py",
+      [
+        "EncodedFile"
+      ]
+    ]
+  ],
+  "MultiCapture": [
+    [
+      "src/_pytest/capture.py",
+      [
+        "MultiCapture"
+      ]
+    ]
+  ],
+  "NoCapture": [
+    [
+      "src/_pytest/capture.py",
+      [
+        "NoCapture"
+      ]
+    ]
+  ],
+  "FDCaptureBinary": [
+    [
+      "src/_pytest/capture.py",
+      [
+        "FDCaptureBinary"
+      ]
+    ]
+  ],
+  "FDCapture": [
+    [
+      "src/_pytest/capture.py",
+      [
+        "FDCapture"
+      ]
+    ]
+  ],
+  "SysCapture": [
+    [
+      "src/_pytest/capture.py",
+      [
+        "SysCapture"
+      ]
+    ]
+  ],
+  "SysCaptureBinary": [
+    [
+      "src/_pytest/capture.py",
+      [
+        "SysCaptureBinary"
+      ]
+    ]
+  ],
+  "DontReadFromInput": [
+    [
+      "src/_pytest/capture.py",
+      [
+        "DontReadFromInput"
+      ]
+    ]
+  ],
+  "_PytestWrapper": [
+    [
+      "src/_pytest/compat.py",
+      [
+        "_PytestWrapper"
+      ]
+    ]
+  ],
+  "CaptureIO": [
+    [
+      "src/_pytest/compat.py",
+      [
+        "CaptureIO"
+      ]
+    ]
+  ],
+  "FuncargnamesCompatAttr": [
+    [
+      "src/_pytest/compat.py",
+      [
+        "FuncargnamesCompatAttr"
+      ]
+    ]
+  ],
+  "ConftestImportFailure": [
+    [
+      "src/_pytest/config/__init__.py",
+      [
+        "ConftestImportFailure"
+      ]
+    ]
+  ],
+  "cmdline": [
+    [
+      "src/_pytest/config/__init__.py",
+      [
+        "cmdline"
+      ]
+    ]
+  ],
+  "PytestPluginManager": [
+    [
+      "src/_pytest/config/__init__.py",
+      [
+        "PytestPluginManager"
+      ]
+    ]
+  ],
+  "Notset": [
+    [
+      "src/_pytest/config/__init__.py",
+      [
+        "Notset"
+      ]
+    ],
+    [
+      "src/_pytest/monkeypatch.py",
+      [
+        "Notset"
+      ]
+    ]
+  ],
+  "InvocationParams": [
+    [
+      "src/_pytest/config/__init__.py",
+      [
+        "Config",
+        "InvocationParams"
+      ]
+    ]
+  ],
+  "Config": [
+    [
+      "src/_pytest/config/__init__.py",
+      [
+        "Config"
+      ]
+    ],
+    [
+      "testing/test_terminal.py",
+      [
+        "test_getreportopt",
+        "Config"
+      ]
+    ]
+  ],
+  "Parser": [
+    [
+      "src/_pytest/config/argparsing.py",
+      [
+        "Parser"
+      ]
+    ]
+  ],
+  "ArgumentError": [
+    [
+      "src/_pytest/config/argparsing.py",
+      [
+        "ArgumentError"
+      ]
+    ]
+  ],
+  "Argument": [
+    [
+      "src/_pytest/config/argparsing.py",
+      [
+        "Argument"
+      ]
+    ]
+  ],
+  "OptionGroup": [
+    [
+      "src/_pytest/config/argparsing.py",
+      [
+        "OptionGroup"
+      ]
+    ]
+  ],
+  "MyOptionParser": [
+    [
+      "src/_pytest/config/argparsing.py",
+      [
+        "MyOptionParser"
+      ]
+    ]
+  ],
+  "DropShorterLongHelpFormatter": [
+    [
+      "src/_pytest/config/argparsing.py",
+      [
+        "DropShorterLongHelpFormatter"
+      ]
+    ]
+  ],
+  "UsageError": [
+    [
+      "src/_pytest/config/exceptions.py",
+      [
+        "UsageError"
+      ]
+    ]
+  ],
+  "PrintHelp": [
+    [
+      "src/_pytest/config/exceptions.py",
+      [
+        "PrintHelp"
+      ]
+    ]
+  ],
+  "PytestPdbWrapper": [
+    [
+      "src/_pytest/debugging.py",
+      [
+        "pytestPDB",
+        "_get_pdb_wrapper_class",
+        "PytestPdbWrapper"
+      ]
+    ]
+  ],
+  "pytestPDB": [
+    [
+      "src/_pytest/debugging.py",
+      [
+        "pytestPDB"
+      ]
+    ]
+  ],
+  "PdbInvoke": [
+    [
+      "src/_pytest/debugging.py",
+      [
+        "PdbInvoke"
+      ]
+    ]
+  ],
+  "PdbTrace": [
+    [
+      "src/_pytest/debugging.py",
+      [
+        "PdbTrace"
+      ]
+    ]
+  ],
+  "ReprFailDoctest": [
+    [
+      "src/_pytest/doctest.py",
+      [
+        "ReprFailDoctest"
+      ]
+    ]
+  ],
+  "MultipleDoctestFailures": [
+    [
+      "src/_pytest/doctest.py",
+      [
+        "MultipleDoctestFailures"
+      ]
+    ]
+  ],
+  "PytestDoctestRunner": [
+    [
+      "src/_pytest/doctest.py",
+      [
+        "_init_runner_class",
+        "PytestDoctestRunner"
+      ]
+    ]
+  ],
+  "DoctestItem": [
+    [
+      "src/_pytest/doctest.py",
+      [
+        "DoctestItem"
+      ]
+    ]
+  ],
+  "DoctestTextfile": [
+    [
+      "src/_pytest/doctest.py",
+      [
+        "DoctestTextfile"
+      ]
+    ]
+  ],
+  "MockAwareDocTestFinder": [
+    [
+      "src/_pytest/doctest.py",
+      [
+        "DoctestModule",
+        "collect",
+        "MockAwareDocTestFinder"
+      ]
+    ]
+  ],
+  "DoctestModule": [
+    [
+      "src/_pytest/doctest.py",
+      [
+        "DoctestModule"
+      ]
+    ]
+  ],
+  "LiteralsOutputChecker": [
+    [
+      "src/_pytest/doctest.py",
+      [
+        "_get_checker",
+        "LiteralsOutputChecker"
+      ]
+    ]
+  ],
+  "PseudoFixtureDef": [
+    [
+      "src/_pytest/fixtures.py",
+      [
+        "PseudoFixtureDef"
+      ]
+    ]
+  ],
+  "FuncFixtureInfo": [
+    [
+      "src/_pytest/fixtures.py",
+      [
+        "FuncFixtureInfo"
+      ]
+    ]
+  ],
+  "FixtureRequest": [
+    [
+      "src/_pytest/fixtures.py",
+      [
+        "FixtureRequest"
+      ]
+    ]
+  ],
+  "SubRequest": [
+    [
+      "src/_pytest/fixtures.py",
+      [
+        "SubRequest"
+      ]
+    ]
+  ],
+  "FixtureLookupError": [
+    [
+      "src/_pytest/fixtures.py",
+      [
+        "FixtureLookupError"
+      ]
+    ]
+  ],
+  "FixtureLookupErrorRepr": [
+    [
+      "src/_pytest/fixtures.py",
+      [
+        "FixtureLookupErrorRepr"
+      ]
+    ]
+  ],
+  "FixtureDef": [
+    [
+      "src/_pytest/fixtures.py",
+      [
+        "FixtureDef"
+      ]
+    ]
+  ],
+  "FixtureFunctionMarker": [
+    [
+      "src/_pytest/fixtures.py",
+      [
+        "FixtureFunctionMarker"
+      ]
+    ]
+  ],
+  "FixtureManager": [
+    [
+      "src/_pytest/fixtures.py",
+      [
+        "FixtureManager"
+      ]
+    ]
+  ],
+  "HelpAction": [
+    [
+      "src/_pytest/helpconfig.py",
+      [
+        "HelpAction"
+      ]
+    ]
+  ],
+  "Junit": [
+    [
+      "src/_pytest/junitxml.py",
+      [
+        "Junit"
+      ]
+    ]
+  ],
+  "_NodeReporter": [
+    [
+      "src/_pytest/junitxml.py",
+      [
+        "_NodeReporter"
+      ]
+    ]
+  ],
+  "LogXML": [
+    [
+      "src/_pytest/junitxml.py",
+      [
+        "LogXML"
+      ]
+    ]
+  ],
+  "ColoredLevelFormatter": [
+    [
+      "src/_pytest/logging.py",
+      [
+        "ColoredLevelFormatter"
+      ]
+    ]
+  ],
+  "PercentStyleMultiline": [
+    [
+      "src/_pytest/logging.py",
+      [
+        "PercentStyleMultiline"
+      ]
+    ]
+  ],
+  "LogCaptureHandler": [
+    [
+      "src/_pytest/logging.py",
+      [
+        "LogCaptureHandler"
+      ]
+    ]
+  ],
+  "LogCaptureFixture": [
+    [
+      "src/_pytest/logging.py",
+      [
+        "LogCaptureFixture"
+      ]
+    ]
+  ],
+  "LoggingPlugin": [
+    [
+      "src/_pytest/logging.py",
+      [
+        "LoggingPlugin"
+      ]
+    ]
+  ],
+  "_LiveLoggingStreamHandler": [
+    [
+      "src/_pytest/logging.py",
+      [
+        "_LiveLoggingStreamHandler"
+      ]
+    ]
+  ],
+  "ExitCode": [
+    [
+      "src/_pytest/main.py",
+      [
+        "ExitCode"
+      ]
+    ]
+  ],
+  "FSHookProxy": [
+    [
+      "src/_pytest/main.py",
+      [
+        "FSHookProxy"
+      ]
+    ]
+  ],
+  "NoMatch": [
+    [
+      "src/_pytest/main.py",
+      [
+        "NoMatch"
+      ]
+    ]
+  ],
+  "Interrupted": [
+    [
+      "src/_pytest/main.py",
+      [
+        "Interrupted"
+      ]
+    ]
+  ],
+  "Failed": [
+    [
+      "src/_pytest/main.py",
+      [
+        "Failed"
+      ]
+    ],
+    [
+      "src/_pytest/outcomes.py",
+      [
+        "Failed"
+      ]
+    ]
+  ],
+  "_bestrelpath_cache": [
+    [
+      "src/_pytest/main.py",
+      [
+        "_bestrelpath_cache"
+      ]
+    ]
+  ],
+  "Session": [
+    [
+      "src/_pytest/main.py",
+      [
+        "Session"
+      ]
+    ]
+  ],
+  "MarkEvaluator": [
+    [
+      "src/_pytest/mark/evaluate.py",
+      [
+        "MarkEvaluator"
+      ]
+    ]
+  ],
+  "MarkMapping": [
+    [
+      "src/_pytest/mark/legacy.py",
+      [
+        "MarkMapping"
+      ]
+    ]
+  ],
+  "KeywordMapping": [
+    [
+      "src/_pytest/mark/legacy.py",
+      [
+        "KeywordMapping"
+      ]
+    ]
+  ],
+  "ParameterSet": [
+    [
+      "src/_pytest/mark/structures.py",
+      [
+        "ParameterSet"
+      ]
+    ]
+  ],
+  "Mark": [
+    [
+      "src/_pytest/mark/structures.py",
+      [
+        "Mark"
+      ]
+    ]
+  ],
+  "MarkDecorator": [
+    [
+      "src/_pytest/mark/structures.py",
+      [
+        "MarkDecorator"
+      ]
+    ]
+  ],
+  "MarkGenerator": [
+    [
+      "src/_pytest/mark/structures.py",
+      [
+        "MarkGenerator"
+      ]
+    ]
+  ],
+  "NodeKeywords": [
+    [
+      "src/_pytest/mark/structures.py",
+      [
+        "NodeKeywords"
+      ]
+    ]
+  ],
+  "NodeMarkers": [
+    [
+      "src/_pytest/mark/structures.py",
+      [
+        "NodeMarkers"
+      ]
+    ]
+  ],
+  "MonkeyPatch": [
+    [
+      "src/_pytest/monkeypatch.py",
+      [
+        "MonkeyPatch"
+      ]
+    ]
+  ],
+  "Node": [
+    [
+      "src/_pytest/nodes.py",
+      [
+        "Node"
+      ]
+    ]
+  ],
+  "CollectError": [
+    [
+      "src/_pytest/nodes.py",
+      [
+        "Collector",
+        "CollectError"
+      ]
+    ]
+  ],
+  "Collector": [
+    [
+      "src/_pytest/nodes.py",
+      [
+        "Collector"
+      ]
+    ]
+  ],
+  "FSCollector": [
+    [
+      "src/_pytest/nodes.py",
+      [
+        "FSCollector"
+      ]
+    ]
+  ],
+  "File": [
+    [
+      "src/_pytest/nodes.py",
+      [
+        "File"
+      ]
+    ]
+  ],
+  "Item": [
+    [
+      "src/_pytest/nodes.py",
+      [
+        "Item"
+      ]
+    ]
+  ],
+  "OutcomeException": [
+    [
+      "src/_pytest/outcomes.py",
+      [
+        "OutcomeException"
+      ]
+    ]
+  ],
+  "Skipped": [
+    [
+      "src/_pytest/outcomes.py",
+      [
+        "Skipped"
+      ]
+    ]
+  ],
+  "Exit": [
+    [
+      "src/_pytest/outcomes.py",
+      [
+        "Exit"
+      ]
+    ]
+  ],
+  "XFailed": [
+    [
+      "src/_pytest/outcomes.py",
+      [
+        "XFailed"
+      ]
+    ]
+  ],
+  "LsofFdLeakChecker": [
+    [
+      "src/_pytest/pytester.py",
+      [
+        "LsofFdLeakChecker"
+      ]
+    ]
+  ],
+  "PytestArg": [
+    [
+      "src/_pytest/pytester.py",
+      [
+        "PytestArg"
+      ]
+    ]
+  ],
+  "ParsedCall": [
+    [
+      "src/_pytest/pytester.py",
+      [
+        "ParsedCall"
+      ]
+    ]
+  ],
+  "HookRecorder": [
+    [
+      "src/_pytest/pytester.py",
+      [
+        "HookRecorder"
+      ]
+    ]
+  ],
+  "RunResult": [
+    [
+      "src/_pytest/pytester.py",
+      [
+        "RunResult"
+      ]
+    ]
+  ],
+  "CwdSnapshot": [
+    [
+      "src/_pytest/pytester.py",
+      [
+        "CwdSnapshot"
+      ]
+    ]
+  ],
+  "SysModulesSnapshot": [
+    [
+      "src/_pytest/pytester.py",
+      [
+        "SysModulesSnapshot"
+      ]
+    ]
+  ],
+  "SysPathsSnapshot": [
+    [
+      "src/_pytest/pytester.py",
+      [
+        "SysPathsSnapshot"
+      ]
+    ]
+  ],
+  "TimeoutExpired": [
+    [
+      "src/_pytest/pytester.py",
+      [
+        "Testdir",
+        "TimeoutExpired"
+      ]
+    ]
+  ],
+  "Collect": [
+    [
+      "src/_pytest/pytester.py",
+      [
+        "Testdir",
+        "inline_run",
+        "try_",
+        "Collect"
+      ]
+    ]
+  ],
+  "Testdir": [
+    [
+      "src/_pytest/pytester.py",
+      [
+        "Testdir"
+      ]
+    ]
+  ],
+  "LineComp": [
+    [
+      "src/_pytest/pytester.py",
+      [
+        "LineComp"
+      ]
+    ]
+  ],
+  "LineMatcher": [
+    [
+      "src/_pytest/pytester.py",
+      [
+        "LineMatcher"
+      ]
+    ]
+  ],
+  "PyobjContext": [
+    [
+      "src/_pytest/python.py",
+      [
+        "PyobjContext"
+      ]
+    ]
+  ],
+  "PyobjMixin": [
+    [
+      "src/_pytest/python.py",
+      [
+        "PyobjMixin"
+      ]
+    ]
+  ],
+  "PyCollector": [
+    [
+      "src/_pytest/python.py",
+      [
+        "PyCollector"
+      ]
+    ]
+  ],
+  "Module": [
+    [
+      "src/_pytest/python.py",
+      [
+        "Module"
+      ]
+    ]
+  ],
+  "Package": [
+    [
+      "src/_pytest/python.py",
+      [
+        "Package"
+      ]
+    ]
+  ],
+  "Class": [
+    [
+      "src/_pytest/python.py",
+      [
+        "Class"
+      ]
+    ]
+  ],
+  "Instance": [
+    [
+      "src/_pytest/python.py",
+      [
+        "Instance"
+      ]
+    ]
+  ],
+  "FunctionMixin": [
+    [
+      "src/_pytest/python.py",
+      [
+        "FunctionMixin"
+      ]
+    ]
+  ],
+  "CallSpec2": [
+    [
+      "src/_pytest/python.py",
+      [
+        "CallSpec2"
+      ]
+    ]
+  ],
+  "Metafunc": [
+    [
+      "src/_pytest/python.py",
+      [
+        "Metafunc"
+      ]
+    ]
+  ],
+  "Function": [
+    [
+      "src/_pytest/python.py",
+      [
+        "Function"
+      ]
+    ]
+  ],
+  "FunctionDefinition": [
+    [
+      "src/_pytest/python.py",
+      [
+        "FunctionDefinition"
+      ]
+    ]
+  ],
+  "ApproxBase": [
+    [
+      "src/_pytest/python_api.py",
+      [
+        "ApproxBase"
+      ]
+    ]
+  ],
+  "ApproxNumpy": [
+    [
+      "src/_pytest/python_api.py",
+      [
+        "ApproxNumpy"
+      ]
+    ]
+  ],
+  "ApproxMapping": [
+    [
+      "src/_pytest/python_api.py",
+      [
+        "ApproxMapping"
+      ]
+    ]
+  ],
+  "ApproxSequencelike": [
+    [
+      "src/_pytest/python_api.py",
+      [
+        "ApproxSequencelike"
+      ]
+    ]
+  ],
+  "ApproxScalar": [
+    [
+      "src/_pytest/python_api.py",
+      [
+        "ApproxScalar"
+      ]
+    ]
+  ],
+  "ApproxDecimal": [
+    [
+      "src/_pytest/python_api.py",
+      [
+        "ApproxDecimal"
+      ]
+    ]
+  ],
+  "RaisesContext": [
+    [
+      "src/_pytest/python_api.py",
+      [
+        "RaisesContext"
+      ]
+    ]
+  ],
+  "WarningsRecorder": [
+    [
+      "src/_pytest/recwarn.py",
+      [
+        "WarningsRecorder"
+      ]
+    ]
+  ],
+  "WarningsChecker": [
+    [
+      "src/_pytest/recwarn.py",
+      [
+        "WarningsChecker"
+      ]
+    ]
+  ],
+  "BaseReport": [
+    [
+      "src/_pytest/reports.py",
+      [
+        "BaseReport"
+      ]
+    ]
+  ],
+  "TestReport": [
+    [
+      "src/_pytest/reports.py",
+      [
+        "TestReport"
+      ]
+    ]
+  ],
+  "CollectReport": [
+    [
+      "src/_pytest/reports.py",
+      [
+        "CollectReport"
+      ]
+    ]
+  ],
+  "CollectErrorRepr": [
+    [
+      "src/_pytest/reports.py",
+      [
+        "CollectErrorRepr"
+      ]
+    ]
+  ],
+  "ResultLog": [
+    [
+      "src/_pytest/resultlog.py",
+      [
+        "ResultLog"
+      ]
+    ]
+  ],
+  "CallInfo": [
+    [
+      "src/_pytest/runner.py",
+      [
+        "CallInfo"
+      ]
+    ]
+  ],
+  "SetupState": [
+    [
+      "src/_pytest/runner.py",
+      [
+        "SetupState"
+      ]
+    ]
+  ],
+  "StepwisePlugin": [
+    [
+      "src/_pytest/stepwise.py",
+      [
+        "StepwisePlugin"
+      ]
+    ]
+  ],
+  "MoreQuietAction": [
+    [
+      "src/_pytest/terminal.py",
+      [
+        "MoreQuietAction"
+      ]
+    ]
+  ],
+  "WarningReport": [
+    [
+      "src/_pytest/terminal.py",
+      [
+        "WarningReport"
+      ]
+    ]
+  ],
+  "TerminalReporter": [
+    [
+      "src/_pytest/terminal.py",
+      [
+        "TerminalReporter"
+      ]
+    ]
+  ],
+  "TempPathFactory": [
+    [
+      "src/_pytest/tmpdir.py",
+      [
+        "TempPathFactory"
+      ]
+    ]
+  ],
+  "TempdirFactory": [
+    [
+      "src/_pytest/tmpdir.py",
+      [
+        "TempdirFactory"
+      ]
+    ]
+  ],
+  "UnitTestCase": [
+    [
+      "src/_pytest/unittest.py",
+      [
+        "UnitTestCase"
+      ]
+    ]
+  ],
+  "TestCaseFunction": [
+    [
+      "src/_pytest/unittest.py",
+      [
+        "TestCaseFunction"
+      ]
+    ]
+  ],
+  "PytestWarning": [
+    [
+      "src/_pytest/warning_types.py",
+      [
+        "PytestWarning"
+      ]
+    ]
+  ],
+  "PytestAssertRewriteWarning": [
+    [
+      "src/_pytest/warning_types.py",
+      [
+        "PytestAssertRewriteWarning"
+      ]
+    ]
+  ],
+  "PytestCacheWarning": [
+    [
+      "src/_pytest/warning_types.py",
+      [
+        "PytestCacheWarning"
+      ]
+    ]
+  ],
+  "PytestConfigWarning": [
+    [
+      "src/_pytest/warning_types.py",
+      [
+        "PytestConfigWarning"
+      ]
+    ]
+  ],
+  "PytestCollectionWarning": [
+    [
+      "src/_pytest/warning_types.py",
+      [
+        "PytestCollectionWarning"
+      ]
+    ]
+  ],
+  "PytestDeprecationWarning": [
+    [
+      "src/_pytest/warning_types.py",
+      [
+        "PytestDeprecationWarning"
+      ]
+    ]
+  ],
+  "PytestExperimentalApiWarning": [
+    [
+      "src/_pytest/warning_types.py",
+      [
+        "PytestExperimentalApiWarning"
+      ]
+    ]
+  ],
+  "PytestUnhandledCoroutineWarning": [
+    [
+      "src/_pytest/warning_types.py",
+      [
+        "PytestUnhandledCoroutineWarning"
+      ]
+    ]
+  ],
+  "PytestUnknownMarkWarning": [
+    [
+      "src/_pytest/warning_types.py",
+      [
+        "PytestUnknownMarkWarning"
+      ]
+    ]
+  ],
+  "UnformattedWarning": [
+    [
+      "src/_pytest/warning_types.py",
+      [
+        "UnformattedWarning"
+      ]
+    ]
+  ],
+  "DummyEntryPoint": [
+    [
+      "testing/acceptance_test.py",
+      [
+        "TestGeneralUsage",
+        "test_early_load_setuptools_name",
+        "DummyEntryPoint"
+      ]
+    ],
+    [
+      "testing/test_config.py",
+      [
+        "test_plugin_preparse_prevents_setuptools_loading",
+        "DummyEntryPoint"
+      ]
+    ],
+    [
+      "testing/test_config.py",
+      [
+        "test_disable_plugin_autoload",
+        "DummyEntryPoint"
+      ]
+    ]
+  ],
+  "DummyDist": [
+    [
+      "testing/acceptance_test.py",
+      [
+        "TestGeneralUsage",
+        "test_early_load_setuptools_name",
+        "DummyDist"
+      ]
+    ]
+  ],
+  "TestGeneralUsage": [
+    [
+      "testing/acceptance_test.py",
+      [
+        "TestGeneralUsage"
+      ]
+    ]
+  ],
+  "TestInvocationVariants": [
+    [
+      "testing/acceptance_test.py",
+      [
+        "TestInvocationVariants"
+      ]
+    ]
+  ],
+  "TestDurations": [
+    [
+      "testing/acceptance_test.py",
+      [
+        "TestDurations"
+      ]
+    ]
+  ],
+  "TestDurationWithFixture": [
+    [
+      "testing/acceptance_test.py",
+      [
+        "TestDurationWithFixture"
+      ]
+    ]
+  ],
+  "TestExceptionInfo": [
+    [
+      "testing/code/test_code.py",
+      [
+        "TestExceptionInfo"
+      ]
+    ]
+  ],
+  "TestTracebackEntry": [
+    [
+      "testing/code/test_code.py",
+      [
+        "TestTracebackEntry"
+      ]
+    ]
+  ],
+  "TestReprFuncArgs": [
+    [
+      "testing/code/test_code.py",
+      [
+        "TestReprFuncArgs"
+      ]
+    ]
+  ],
+  "TestTraceback_f_g_h": [
+    [
+      "testing/code/test_excinfo.py",
+      [
+        "TestTraceback_f_g_h"
+      ]
+    ]
+  ],
+  "raw": [
+    [
+      "testing/code/test_excinfo.py",
+      [
+        "TestFormattedExcinfo",
+        "test_repr_source_failing_fullsource",
+        "FakeCode",
+        "raw"
+      ]
+    ]
+  ],
+  "FakeCode": [
+    [
+      "testing/code/test_excinfo.py",
+      [
+        "TestFormattedExcinfo",
+        "test_repr_source_failing_fullsource",
+        "FakeCode"
+      ]
+    ]
+  ],
+  "FakeFrame": [
+    [
+      "testing/code/test_excinfo.py",
+      [
+        "TestFormattedExcinfo",
+        "test_repr_source_failing_fullsource",
+        "FakeFrame"
+      ]
+    ]
+  ],
+  "FakeTracebackEntry": [
+    [
+      "testing/code/test_excinfo.py",
+      [
+        "TestFormattedExcinfo",
+        "test_repr_source_failing_fullsource",
+        "FakeTracebackEntry"
+      ]
+    ]
+  ],
+  "FakeExcinfo": [
+    [
+      "testing/code/test_excinfo.py",
+      [
+        "TestFormattedExcinfo",
+        "test_repr_source_failing_fullsource",
+        "FakeExcinfo"
+      ]
+    ]
+  ],
+  "FakeRawTB": [
+    [
+      "testing/code/test_excinfo.py",
+      [
+        "TestFormattedExcinfo",
+        "test_repr_source_failing_fullsource",
+        "FakeRawTB"
+      ]
+    ]
+  ],
+  "TestFormattedExcinfo": [
+    [
+      "testing/code/test_excinfo.py",
+      [
+        "TestFormattedExcinfo"
+      ]
+    ]
+  ],
+  "numpy_like": [
+    [
+      "testing/code/test_excinfo.py",
+      [
+        "test_exception_repr_extraction_error_on_recursion",
+        "numpy_like"
+      ]
+    ]
+  ],
+  "TestAccesses": [
+    [
+      "testing/code/test_source.py",
+      [
+        "TestAccesses"
+      ]
+    ]
+  ],
+  "TestSourceParsingAndCompiling": [
+    [
+      "testing/code/test_source.py",
+      [
+        "TestSourceParsingAndCompiling"
+      ]
+    ]
+  ],
+  "A": [
+    [
+      "testing/code/test_source.py",
+      [
+        "test_getfslineno",
+        "A"
+      ]
+    ]
+  ],
+  "B": [
+    [
+      "testing/code/test_source.py",
+      [
+        "test_getfslineno",
+        "B"
+      ]
+    ]
+  ],
+  "TestTry": [
+    [
+      "testing/code/test_source.py",
+      [
+        "TestTry"
+      ]
+    ]
+  ],
+  "TestTryFinally": [
+    [
+      "testing/code/test_source.py",
+      [
+        "TestTryFinally"
+      ]
+    ]
+  ],
+  "TestIf": [
+    [
+      "testing/code/test_source.py",
+      [
+        "TestIf"
+      ]
+    ]
+  ],
+  "TWMock": [
+    [
+      "testing/conftest.py",
+      [
+        "tw_mock",
+        "TWMock"
+      ]
+    ]
+  ],
+  "pytest_something": [
+    [
+      "testing/example_scripts/config/collect_pytest_prefix/conftest.py",
+      [
+        "pytest_something"
+      ]
+    ]
+  ],
+  "CustomItem": [
+    [
+      "testing/example_scripts/fixtures/custom_item/conftest.py",
+      [
+        "CustomItem"
+      ]
+    ]
+  ],
+  "TestSpam": [
+    [
+      "testing/example_scripts/fixtures/fill_fixtures/test_extend_fixture_module_class.py",
+      [
+        "TestSpam"
+      ]
+    ]
+  ],
+  "MyFile": [
+    [
+      "testing/example_scripts/issue88_initial_file_multinodes/conftest.py",
+      [
+        "MyFile"
+      ]
+    ]
+  ],
+  "MyItem": [
+    [
+      "testing/example_scripts/issue88_initial_file_multinodes/conftest.py",
+      [
+        "MyItem"
+      ]
+    ]
+  ],
+  "TestSomethingElse": [
+    [
+      "testing/example_scripts/unittest/test_parametrized_fixture_error_message.py",
+      [
+        "TestSomethingElse"
+      ]
+    ]
+  ],
+  "Base": [
+    [
+      "testing/example_scripts/unittest/test_setup_skip.py",
+      [
+        "Base"
+      ]
+    ],
+    [
+      "testing/example_scripts/unittest/test_setup_skip_class.py",
+      [
+        "Base"
+      ]
+    ],
+    [
+      "testing/example_scripts/unittest/test_setup_skip_module.py",
+      [
+        "Base"
+      ]
+    ]
+  ],
+  "Test": [
+    [
+      "testing/example_scripts/unittest/test_setup_skip.py",
+      [
+        "Test"
+      ]
+    ],
+    [
+      "testing/example_scripts/unittest/test_setup_skip_class.py",
+      [
+        "Test"
+      ]
+    ]
+  ],
+  "option": [
+    [
+      "testing/logging/test_formatter.py",
+      [
+        "test_coloredlogformatter",
+        "ColorConfig",
+        "option"
+      ]
+    ]
+  ],
+  "ColorConfig": [
+    [
+      "testing/logging/test_formatter.py",
+      [
+        "test_coloredlogformatter",
+        "ColorConfig"
+      ]
+    ]
+  ],
+  "MockCaptureManager": [
+    [
+      "testing/logging/test_reporting.py",
+      [
+        "test_live_logging_suspends_capture",
+        "MockCaptureManager"
+      ]
+    ]
+  ],
+  "DummyTerminal": [
+    [
+      "testing/logging/test_reporting.py",
+      [
+        "test_live_logging_suspends_capture",
+        "DummyTerminal"
+      ]
+    ]
+  ],
+  "MyDocTestRunner": [
+    [
+      "testing/python/approx.py",
+      [
+        "MyDocTestRunner"
+      ]
+    ]
+  ],
+  "TestApprox": [
+    [
+      "testing/python/approx.py",
+      [
+        "TestApprox"
+      ]
+    ]
+  ],
+  "TestModule": [
+    [
+      "testing/python/collect.py",
+      [
+        "TestModule"
+      ]
+    ]
+  ],
+  "TestFunction": [
+    [
+      "testing/python/collect.py",
+      [
+        "TestFunction"
+      ]
+    ]
+  ],
+  "TestSorting": [
+    [
+      "testing/python/collect.py",
+      [
+        "TestSorting"
+      ]
+    ]
+  ],
+  "TestConftestCustomization": [
+    [
+      "testing/python/collect.py",
+      [
+        "TestConftestCustomization"
+      ]
+    ]
+  ],
+  "TestTracebackCutting": [
+    [
+      "testing/python/collect.py",
+      [
+        "TestTracebackCutting"
+      ]
+    ]
+  ],
+  "TestReportInfo": [
+    [
+      "testing/python/collect.py",
+      [
+        "TestReportInfo"
+      ]
+    ]
+  ],
+  "TestFillFixtures": [
+    [
+      "testing/python/fixtures.py",
+      [
+        "TestFillFixtures"
+      ]
+    ]
+  ],
+  "TestRequestBasic": [
+    [
+      "testing/python/fixtures.py",
+      [
+        "TestRequestBasic"
+      ]
+    ]
+  ],
+  "TestRequestMarking": [
+    [
+      "testing/python/fixtures.py",
+      [
+        "TestRequestMarking"
+      ]
+    ]
+  ],
+  "TestFixtureUsages": [
+    [
+      "testing/python/fixtures.py",
+      [
+        "TestFixtureUsages"
+      ]
+    ]
+  ],
+  "TestFixtureManagerParseFactories": [
+    [
+      "testing/python/fixtures.py",
+      [
+        "TestFixtureManagerParseFactories"
+      ]
+    ]
+  ],
+  "TestAutouseDiscovery": [
+    [
+      "testing/python/fixtures.py",
+      [
+        "TestAutouseDiscovery"
+      ]
+    ]
+  ],
+  "TestAutouseManagement": [
+    [
+      "testing/python/fixtures.py",
+      [
+        "TestAutouseManagement"
+      ]
+    ]
+  ],
+  "TestFixtureMarker": [
+    [
+      "testing/python/fixtures.py",
+      [
+        "TestFixtureMarker"
+      ]
+    ]
+  ],
+  "TestRequestScopeAccess": [
+    [
+      "testing/python/fixtures.py",
+      [
+        "TestRequestScopeAccess"
+      ]
+    ]
+  ],
+  "TestErrors": [
+    [
+      "testing/python/fixtures.py",
+      [
+        "TestErrors"
+      ]
+    ]
+  ],
+  "TestShowFixtures": [
+    [
+      "testing/python/fixtures.py",
+      [
+        "TestShowFixtures"
+      ]
+    ]
+  ],
+  "TestContextManagerFixtureFuncs": [
+    [
+      "testing/python/fixtures.py",
+      [
+        "TestContextManagerFixtureFuncs"
+      ]
+    ]
+  ],
+  "TestParameterizedSubRequest": [
+    [
+      "testing/python/fixtures.py",
+      [
+        "TestParameterizedSubRequest"
+      ]
+    ]
+  ],
+  "TestScopeOrdering": [
+    [
+      "testing/python/fixtures.py",
+      [
+        "TestScopeOrdering"
+      ]
+    ]
+  ],
+  "TestOEJSKITSpecials": [
+    [
+      "testing/python/integration.py",
+      [
+        "TestOEJSKITSpecials"
+      ]
+    ]
+  ],
+  "TestMockDecoration": [
+    [
+      "testing/python/integration.py",
+      [
+        "TestMockDecoration"
+      ]
+    ]
+  ],
+  "TestReRunTests": [
+    [
+      "testing/python/integration.py",
+      [
+        "TestReRunTests"
+      ]
+    ]
+  ],
+  "TestNoselikeTestAttribute": [
+    [
+      "testing/python/integration.py",
+      [
+        "TestNoselikeTestAttribute"
+      ]
+    ]
+  ],
+  "TestParameterize": [
+    [
+      "testing/python/integration.py",
+      [
+        "TestParameterize"
+      ]
+    ]
+  ],
+  "DummyFixtureDef": [
+    [
+      "testing/python/metafunc.py",
+      [
+        "TestMetafunc",
+        "test_find_parametrized_scope",
+        "DummyFixtureDef"
+      ]
+    ]
+  ],
+  "MockConfig": [
+    [
+      "testing/python/metafunc.py",
+      [
+        "TestMetafunc",
+        "test_unicode_idval_with_config",
+        "MockConfig"
+      ]
+    ],
+    [
+      "testing/python/metafunc.py",
+      [
+        "TestMetafunc",
+        "test_idmaker_with_idfn_and_config",
+        "MockConfig"
+      ]
+    ],
+    [
+      "testing/python/metafunc.py",
+      [
+        "TestMetafunc",
+        "test_idmaker_with_ids_and_config",
+        "MockConfig"
+      ]
+    ]
+  ],
+  "TestMetafunc": [
+    [
+      "testing/python/metafunc.py",
+      [
+        "TestMetafunc"
+      ]
+    ]
+  ],
+  "TestMetafuncFunctional": [
+    [
+      "testing/python/metafunc.py",
+      [
+        "TestMetafuncFunctional"
+      ]
+    ]
+  ],
+  "TestMetafuncFunctionalAuto": [
+    [
+      "testing/python/metafunc.py",
+      [
+        "TestMetafuncFunctionalAuto"
+      ]
+    ]
+  ],
+  "TestMarkersWithParametrization": [
+    [
+      "testing/python/metafunc.py",
+      [
+        "TestMarkersWithParametrization"
+      ]
+    ]
+  ],
+  "T": [
+    [
+      "testing/python/raises.py",
+      [
+        "TestRaises",
+        "test_raises_cyclic_reference",
+        "T"
+      ]
+    ]
+  ],
+  "FilesCompleter": [
+    [
+      "testing/test_argcomplete.py",
+      [
+        "FilesCompleter"
+      ]
+    ]
+  ],
+  "TestArgComplete": [
+    [
+      "testing/test_argcomplete.py",
+      [
+        "TestArgComplete"
+      ]
+    ]
+  ],
+  "TestImportHookInstallation": [
+    [
+      "testing/test_assertion.py",
+      [
+        "TestImportHookInstallation"
+      ]
+    ]
+  ],
+  "TestBinReprIntegration": [
+    [
+      "testing/test_assertion.py",
+      [
+        "TestBinReprIntegration"
+      ]
+    ]
+  ],
+  "TestSequence": [
+    [
+      "testing/test_assertion.py",
+      [
+        "TestAssert_reprcompare",
+        "test_Sequence",
+        "TestSequence"
+      ]
+    ]
+  ],
+  "TestAssert_reprcompare": [
+    [
+      "testing/test_assertion.py",
+      [
+        "TestAssert_reprcompare"
+      ]
+    ]
+  ],
+  "TestAssert_reprcompare_dataclass": [
+    [
+      "testing/test_assertion.py",
+      [
+        "TestAssert_reprcompare_dataclass"
+      ]
+    ]
+  ],
+  "TestAssert_reprcompare_attrsclass": [
+    [
+      "testing/test_assertion.py",
+      [
+        "TestAssert_reprcompare_attrsclass"
+      ]
+    ]
+  ],
+  "TestFormatExplanation": [
+    [
+      "testing/test_assertion.py",
+      [
+        "TestFormatExplanation"
+      ]
+    ]
+  ],
+  "TestTruncateExplanation": [
+    [
+      "testing/test_assertion.py",
+      [
+        "TestTruncateExplanation"
+      ]
+    ]
+  ],
+  "X": [
+    [
+      "testing/test_assertrewrite.py",
+      [
+        "TestAssertionRewrite",
+        "test_name",
+        "X"
+      ]
+    ],
+    [
+      "testing/test_terminal.py",
+      [
+        "test_skip_reasons_folding",
+        "X"
+      ]
+    ]
+  ],
+  "Y": [
+    [
+      "testing/test_assertrewrite.py",
+      [
+        "TestAssertionRewrite",
+        "test_dont_rewrite_if_hasattr_fails",
+        "Y"
+      ]
+    ]
+  ],
+  "TestAssertionRewrite": [
+    [
+      "testing/test_assertrewrite.py",
+      [
+        "TestAssertionRewrite"
+      ]
+    ]
+  ],
+  "TestRewriteOnImport": [
+    [
+      "testing/test_assertrewrite.py",
+      [
+        "TestRewriteOnImport"
+      ]
+    ]
+  ],
+  "TestAssertionRewriteHookDetails": [
+    [
+      "testing/test_assertrewrite.py",
+      [
+        "TestAssertionRewriteHookDetails"
+      ]
+    ]
+  ],
+  "TestIssue925": [
+    [
+      "testing/test_assertrewrite.py",
+      [
+        "TestIssue925"
+      ]
+    ]
+  ],
+  "TestIssue2121": [
+    [
+      "testing/test_assertrewrite.py",
+      [
+        "TestIssue2121"
+      ]
+    ]
+  ],
+  "StubSession": [
+    [
+      "testing/test_assertrewrite.py",
+      [
+        "TestEarlyRewriteBailout",
+        "hook",
+        "StubSession"
+      ]
+    ]
+  ],
+  "TestEarlyRewriteBailout": [
+    [
+      "testing/test_assertrewrite.py",
+      [
+        "TestEarlyRewriteBailout"
+      ]
+    ]
+  ],
+  "TestAssertionPass": [
+    [
+      "testing/test_assertrewrite.py",
+      [
+        "TestAssertionPass"
+      ]
+    ]
+  ],
+  "TestNewAPI": [
+    [
+      "testing/test_cacheprovider.py",
+      [
+        "TestNewAPI"
+      ]
+    ]
+  ],
+  "TestLastFailed": [
+    [
+      "testing/test_cacheprovider.py",
+      [
+        "TestLastFailed"
+      ]
+    ]
+  ],
+  "TestNewFirst": [
+    [
+      "testing/test_cacheprovider.py",
+      [
+        "TestNewFirst"
+      ]
+    ]
+  ],
+  "TestReadme": [
+    [
+      "testing/test_cacheprovider.py",
+      [
+        "TestReadme"
+      ]
+    ]
+  ],
+  "TestCaptureManager": [
+    [
+      "testing/test_capture.py",
+      [
+        "TestCaptureManager"
+      ]
+    ]
+  ],
+  "TestPerTestCapturing": [
+    [
+      "testing/test_capture.py",
+      [
+        "TestPerTestCapturing"
+      ]
+    ]
+  ],
+  "TestLoggingInteraction": [
+    [
+      "testing/test_capture.py",
+      [
+        "TestLoggingInteraction"
+      ]
+    ]
+  ],
+  "TestCaptureFixture": [
+    [
+      "testing/test_capture.py",
+      [
+        "TestCaptureFixture"
+      ]
+    ]
+  ],
+  "TestCaptureIO": [
+    [
+      "testing/test_capture.py",
+      [
+        "TestCaptureIO"
+      ]
+    ]
+  ],
+  "TestFDCapture": [
+    [
+      "testing/test_capture.py",
+      [
+        "TestFDCapture"
+      ]
+    ]
+  ],
+  "TestStdCapture": [
+    [
+      "testing/test_capture.py",
+      [
+        "TestStdCapture"
+      ]
+    ]
+  ],
+  "TestStdCaptureFD": [
+    [
+      "testing/test_capture.py",
+      [
+        "TestStdCaptureFD"
+      ]
+    ]
+  ],
+  "TestStdCaptureFDinvalidFD": [
+    [
+      "testing/test_capture.py",
+      [
+        "TestStdCaptureFDinvalidFD"
+      ]
+    ]
+  ],
+  "TestCollector": [
+    [
+      "testing/test_collection.py",
+      [
+        "TestCollector"
+      ]
+    ]
+  ],
+  "TestCollectFS": [
+    [
+      "testing/test_collection.py",
+      [
+        "TestCollectFS"
+      ]
+    ]
+  ],
+  "TestCollectPluginHookRelay": [
+    [
+      "testing/test_collection.py",
+      [
+        "TestCollectPluginHookRelay"
+      ]
+    ]
+  ],
+  "TestPrunetraceback": [
+    [
+      "testing/test_collection.py",
+      [
+        "TestPrunetraceback"
+      ]
+    ]
+  ],
+  "TestCustomConftests": [
+    [
+      "testing/test_collection.py",
+      [
+        "TestCustomConftests"
+      ]
+    ]
+  ],
+  "TestSession": [
+    [
+      "testing/test_collection.py",
+      [
+        "TestSession"
+      ]
+    ]
+  ],
+  "Test_getinitialnodes": [
+    [
+      "testing/test_collection.py",
+      [
+        "Test_getinitialnodes"
+      ]
+    ]
+  ],
+  "Test_genitems": [
+    [
+      "testing/test_collection.py",
+      [
+        "Test_genitems"
+      ]
+    ]
+  ],
+  "TestNodekeywords": [
+    [
+      "testing/test_collection.py",
+      [
+        "TestNodekeywords"
+      ]
+    ]
+  ],
+  "ErrorsHelper": [
+    [
+      "testing/test_compat.py",
+      [
+        "ErrorsHelper"
+      ]
+    ]
+  ],
+  "TestParseIni": [
+    [
+      "testing/test_config.py",
+      [
+        "TestParseIni"
+      ]
+    ]
+  ],
+  "TestConfigCmdlineParsing": [
+    [
+      "testing/test_config.py",
+      [
+        "TestConfigCmdlineParsing"
+      ]
+    ]
+  ],
+  "TestConfigAPI": [
+    [
+      "testing/test_config.py",
+      [
+        "TestConfigAPI"
+      ]
+    ]
+  ],
+  "TestConfigFromdictargs": [
+    [
+      "testing/test_config.py",
+      [
+        "TestConfigFromdictargs"
+      ]
+    ]
+  ],
+  "EntryPoint": [
+    [
+      "testing/test_config.py",
+      [
+        "test_preparse_ordering_with_setuptools",
+        "EntryPoint"
+      ]
+    ]
+  ],
+  "Dist": [
+    [
+      "testing/test_config.py",
+      [
+        "test_preparse_ordering_with_setuptools",
+        "Dist"
+      ]
+    ]
+  ],
+  "Distribution": [
+    [
+      "testing/test_config.py",
+      [
+        "test_plugin_preparse_prevents_setuptools_loading",
+        "Distribution"
+      ]
+    ],
+    [
+      "testing/test_config.py",
+      [
+        "test_disable_plugin_autoload",
+        "Distribution"
+      ]
+    ]
+  ],
+  "PseudoPlugin": [
+    [
+      "testing/test_config.py",
+      [
+        "test_disable_plugin_autoload",
+        "PseudoPlugin"
+      ]
+    ]
+  ],
+  "TestRootdir": [
+    [
+      "testing/test_config.py",
+      [
+        "TestRootdir"
+      ]
+    ]
+  ],
+  "TestOverrideIniArgs": [
+    [
+      "testing/test_config.py",
+      [
+        "TestOverrideIniArgs"
+      ]
+    ]
+  ],
+  "TestSetupCfg": [
+    [
+      "testing/test_config.py",
+      [
+        "TestSetupCfg"
+      ]
+    ]
+  ],
+  "TestPytestPluginsVariable": [
+    [
+      "testing/test_config.py",
+      [
+        "TestPytestPluginsVariable"
+      ]
+    ]
+  ],
+  "TestConftestValueAccessGlobal": [
+    [
+      "testing/test_conftest.py",
+      [
+        "TestConftestValueAccessGlobal"
+      ]
+    ]
+  ],
+  "TestConftestVisibility": [
+    [
+      "testing/test_conftest.py",
+      [
+        "TestConftestVisibility"
+      ]
+    ]
+  ],
+  "TestDoctests": [
+    [
+      "testing/test_doctest.py",
+      [
+        "TestDoctests"
+      ]
+    ]
+  ],
+  "TestLiterals": [
+    [
+      "testing/test_doctest.py",
+      [
+        "TestLiterals"
+      ]
+    ]
+  ],
+  "TestDoctestSkips": [
+    [
+      "testing/test_doctest.py",
+      [
+        "TestDoctestSkips"
+      ]
+    ]
+  ],
+  "TestDoctestAutoUseFixtures": [
+    [
+      "testing/test_doctest.py",
+      [
+        "TestDoctestAutoUseFixtures"
+      ]
+    ]
+  ],
+  "TestDoctestNamespaceFixture": [
+    [
+      "testing/test_doctest.py",
+      [
+        "TestDoctestNamespaceFixture"
+      ]
+    ]
+  ],
+  "TestDoctestReportingOption": [
+    [
+      "testing/test_doctest.py",
+      [
+        "TestDoctestReportingOption"
+      ]
+    ]
+  ],
+  "Broken": [
+    [
+      "testing/test_doctest.py",
+      [
+        "Broken"
+      ]
+    ]
+  ],
+  "DomNode": [
+    [
+      "testing/test_junitxml.py",
+      [
+        "DomNode"
+      ]
+    ]
+  ],
+  "TestPython": [
+    [
+      "testing/test_junitxml.py",
+      [
+        "TestPython"
+      ]
+    ]
+  ],
+  "TestNonPython": [
+    [
+      "testing/test_junitxml.py",
+      [
+        "TestNonPython"
+      ]
+    ]
+  ],
+  "Report": [
+    [
+      "testing/test_junitxml.py",
+      [
+        "test_unicode_issue368",
+        "Report"
+      ]
+    ],
+    [
+      "testing/test_junitxml.py",
+      [
+        "test_global_properties",
+        "Report"
+      ]
+    ]
+  ],
+  "TestMark": [
+    [
+      "testing/test_mark.py",
+      [
+        "TestMark"
+      ]
+    ]
+  ],
+  "TestFunctional": [
+    [
+      "testing/test_mark.py",
+      [
+        "TestFunctional"
+      ]
+    ]
+  ],
+  "TestKeywordSelection": [
+    [
+      "testing/test_mark.py",
+      [
+        "TestKeywordSelection"
+      ]
+    ]
+  ],
+  "TestMarkDecorator": [
+    [
+      "testing/test_mark.py",
+      [
+        "TestMarkDecorator"
+      ]
+    ]
+  ],
+  "TestSetattrWithImportPath": [
+    [
+      "testing/test_monkeypatch.py",
+      [
+        "TestSetattrWithImportPath"
+      ]
+    ]
+  ],
+  "TestEnvironWarnings": [
+    [
+      "testing/test_monkeypatch.py",
+      [
+        "TestEnvironWarnings"
+      ]
+    ]
+  ],
+  "SampleNew": [
+    [
+      "testing/test_monkeypatch.py",
+      [
+        "SampleNew"
+      ]
+    ]
+  ],
+  "SampleNewInherit": [
+    [
+      "testing/test_monkeypatch.py",
+      [
+        "SampleNewInherit"
+      ]
+    ]
+  ],
+  "SampleOld": [
+    [
+      "testing/test_monkeypatch.py",
+      [
+        "SampleOld"
+      ]
+    ]
+  ],
+  "SampleOldInherit": [
+    [
+      "testing/test_monkeypatch.py",
+      [
+        "SampleOldInherit"
+      ]
+    ]
+  ],
+  "TestParser": [
+    [
+      "testing/test_parseopt.py",
+      [
+        "TestParser"
+      ]
+    ]
+  ],
+  "TestPasteCapture": [
+    [
+      "testing/test_pastebin.py",
+      [
+        "TestPasteCapture"
+      ]
+    ]
+  ],
+  "TestPaste": [
+    [
+      "testing/test_pastebin.py",
+      [
+        "TestPaste"
+      ]
+    ]
+  ],
+  "TestPort": [
+    [
+      "testing/test_pathlib.py",
+      [
+        "TestPort"
+      ]
+    ]
+  ],
+  "TestPDB": [
+    [
+      "testing/test_pdb.py",
+      [
+        "TestPDB"
+      ]
+    ]
+  ],
+  "TestDebuggingBreakpoints": [
+    [
+      "testing/test_pdb.py",
+      [
+        "TestDebuggingBreakpoints"
+      ]
+    ]
+  ],
+  "TestTraceOption": [
+    [
+      "testing/test_pdb.py",
+      [
+        "TestTraceOption"
+      ]
+    ]
+  ],
+  "api1": [
+    [
+      "testing/test_pluginmanager.py",
+      [
+        "TestPytestPluginInteractions",
+        "test_hook_tracing",
+        "api1"
+      ]
+    ]
+  ],
+  "api2": [
+    [
+      "testing/test_pluginmanager.py",
+      [
+        "TestPytestPluginInteractions",
+        "test_hook_tracing",
+        "api2"
+      ]
+    ]
+  ],
+  "TestPytestPluginInteractions": [
+    [
+      "testing/test_pluginmanager.py",
+      [
+        "TestPytestPluginInteractions"
+      ]
+    ]
+  ],
+  "TestPytestPluginManager": [
+    [
+      "testing/test_pluginmanager.py",
+      [
+        "TestPytestPluginManager"
+      ]
+    ]
+  ],
+  "TestPytestPluginManagerBootstrapming": [
+    [
+      "testing/test_pluginmanager.py",
+      [
+        "TestPytestPluginManagerBootstrapming"
+      ]
+    ]
+  ],
+  "rep": [
+    [
+      "testing/test_pytester.py",
+      [
+        "test_make_hook_recorder",
+        "rep"
+      ]
+    ],
+    [
+      "testing/test_terminal.py",
+      [
+        "test_line_with_reprcrash",
+        "rep"
+      ]
+    ]
+  ],
+  "rep_1": [
+    [
+      "testing/test_pytester.py",
+      [
+        "test_make_hook_recorder",
+        "rep_1"
+      ]
+    ]
+  ],
+  "TestInlineRunModulesCleanup": [
+    [
+      "testing/test_pytester.py",
+      [
+        "TestInlineRunModulesCleanup"
+      ]
+    ]
+  ],
+  "TestSysModulesSnapshot": [
+    [
+      "testing/test_pytester.py",
+      [
+        "TestSysModulesSnapshot"
+      ]
+    ]
+  ],
+  "TestSysPathsSnapshot": [
+    [
+      "testing/test_pytester.py",
+      [
+        "TestSysPathsSnapshot"
+      ]
+    ]
+  ],
+  "TestWarningsRecorderChecker": [
+    [
+      "testing/test_recwarn.py",
+      [
+        "TestWarningsRecorderChecker"
+      ]
+    ]
+  ],
+  "TestDeprecatedCall": [
+    [
+      "testing/test_recwarn.py",
+      [
+        "TestDeprecatedCall"
+      ]
+    ]
+  ],
+  "TestWarns": [
+    [
+      "testing/test_recwarn.py",
+      [
+        "TestWarns"
+      ]
+    ]
+  ],
+  "TestReportSerialization": [
+    [
+      "testing/test_reports.py",
+      [
+        "TestReportSerialization"
+      ]
+    ]
+  ],
+  "TestHooks": [
+    [
+      "testing/test_reports.py",
+      [
+        "TestHooks"
+      ]
+    ]
+  ],
+  "TestWithFunctionIntegration": [
+    [
+      "testing/test_resultlog.py",
+      [
+        "TestWithFunctionIntegration"
+      ]
+    ]
+  ],
+  "TestSetupState": [
+    [
+      "testing/test_runner.py",
+      [
+        "TestSetupState"
+      ]
+    ]
+  ],
+  "BaseFunctionalTests": [
+    [
+      "testing/test_runner.py",
+      [
+        "BaseFunctionalTests"
+      ]
+    ]
+  ],
+  "TestExecutionNonForked": [
+    [
+      "testing/test_runner.py",
+      [
+        "TestExecutionNonForked"
+      ]
+    ]
+  ],
+  "TestExecutionForked": [
+    [
+      "testing/test_runner.py",
+      [
+        "TestExecutionForked"
+      ]
+    ]
+  ],
+  "TestSessionReports": [
+    [
+      "testing/test_runner.py",
+      [
+        "TestSessionReports"
+      ]
+    ]
+  ],
+  "ItemMightRaise": [
+    [
+      "testing/test_runner.py",
+      [
+        "test_store_except_info_on_error",
+        "ItemMightRaise"
+      ]
+    ]
+  ],
+  "TestReportContents": [
+    [
+      "testing/test_runner.py",
+      [
+        "TestReportContents"
+      ]
+    ]
+  ],
+  "SessionTests": [
+    [
+      "testing/test_session.py",
+      [
+        "SessionTests"
+      ]
+    ]
+  ],
+  "TestNewSession": [
+    [
+      "testing/test_session.py",
+      [
+        "TestNewSession"
+      ]
+    ]
+  ],
+  "TestEvaluator": [
+    [
+      "testing/test_skipping.py",
+      [
+        "TestEvaluator"
+      ]
+    ]
+  ],
+  "TestXFail": [
+    [
+      "testing/test_skipping.py",
+      [
+        "TestXFail"
+      ]
+    ]
+  ],
+  "TestXFailwithSetupTeardown": [
+    [
+      "testing/test_skipping.py",
+      [
+        "TestXFailwithSetupTeardown"
+      ]
+    ]
+  ],
+  "TestSkip": [
+    [
+      "testing/test_skipping.py",
+      [
+        "TestSkip"
+      ]
+    ]
+  ],
+  "TestSkipif": [
+    [
+      "testing/test_skipping.py",
+      [
+        "TestSkipif"
+      ]
+    ]
+  ],
+  "TestBooleanCondition": [
+    [
+      "testing/test_skipping.py",
+      [
+        "TestBooleanCondition"
+      ]
+    ]
+  ],
+  "Option": [
+    [
+      "testing/test_terminal.py",
+      [
+        "Option"
+      ]
+    ],
+    [
+      "testing/test_terminal.py",
+      [
+        "test_getreportopt",
+        "Config",
+        "Option"
+      ]
+    ]
+  ],
+  "TestTerminal": [
+    [
+      "testing/test_terminal.py",
+      [
+        "TestTerminal"
+      ]
+    ]
+  ],
+  "TestCollectonly": [
+    [
+      "testing/test_terminal.py",
+      [
+        "TestCollectonly"
+      ]
+    ]
+  ],
+  "TestFixtureReporting": [
+    [
+      "testing/test_terminal.py",
+      [
+        "TestFixtureReporting"
+      ]
+    ]
+  ],
+  "TestTerminalFunctional": [
+    [
+      "testing/test_terminal.py",
+      [
+        "TestTerminalFunctional"
+      ]
+    ]
+  ],
+  "TestGenericReporting": [
+    [
+      "testing/test_terminal.py",
+      [
+        "TestGenericReporting"
+      ]
+    ]
+  ],
+  "TestClassicOutputStyle": [
+    [
+      "testing/test_terminal.py",
+      [
+        "TestClassicOutputStyle"
+      ]
+    ]
+  ],
+  "TestProgressOutputStyle": [
+    [
+      "testing/test_terminal.py",
+      [
+        "TestProgressOutputStyle"
+      ]
+    ]
+  ],
+  "TestProgressWithTeardown": [
+    [
+      "testing/test_terminal.py",
+      [
+        "TestProgressWithTeardown"
+      ]
+    ]
+  ],
+  "config": [
+    [
+      "testing/test_terminal.py",
+      [
+        "test_line_with_reprcrash",
+        "config"
+      ]
+    ]
+  ],
+  "reprcrash": [
+    [
+      "testing/test_terminal.py",
+      [
+        "test_line_with_reprcrash",
+        "rep",
+        "longrepr",
+        "reprcrash"
+      ]
+    ]
+  ],
+  "longrepr": [
+    [
+      "testing/test_terminal.py",
+      [
+        "test_line_with_reprcrash",
+        "rep",
+        "longrepr"
+      ]
+    ]
+  ],
+  "FakeConfig": [
+    [
+      "testing/test_tmpdir.py",
+      [
+        "FakeConfig"
+      ]
+    ]
+  ],
+  "TestTempdirHandler": [
+    [
+      "testing/test_tmpdir.py",
+      [
+        "TestTempdirHandler"
+      ]
+    ]
+  ],
+  "TestConfigTmpdir": [
+    [
+      "testing/test_tmpdir.py",
+      [
+        "TestConfigTmpdir"
+      ]
+    ]
+  ],
+  "TestNumberedDir": [
+    [
+      "testing/test_tmpdir.py",
+      [
+        "TestNumberedDir"
+      ]
+    ]
+  ],
+  "TestRmRf": [
+    [
+      "testing/test_tmpdir.py",
+      [
+        "TestRmRf"
+      ]
+    ]
+  ],
+  "TestTrialUnittest": [
+    [
+      "testing/test_unittest.py",
+      [
+        "TestTrialUnittest"
+      ]
+    ]
+  ],
+  "WarningCollector": [
+    [
+      "testing/test_warnings.py",
+      [
+        "test_warning_captured_hook",
+        "WarningCollector"
+      ]
+    ]
+  ],
+  "TestDeprecationWarningsByDefault": [
+    [
+      "testing/test_warnings.py",
+      [
+        "TestDeprecationWarningsByDefault"
+      ]
+    ]
+  ],
+  "TestAssertionWarnings": [
+    [
+      "testing/test_warnings.py",
+      [
+        "TestAssertionWarnings"
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,8672 @@
+{
+  "QueryReference": [
+    [
+      "doc/sphinxext/custom_roles.py",
+      [
+        "QueryReference"
+      ]
+    ]
+  ],
+  "MplExplicitOrder": [
+    [
+      "doc/sphinxext/gallery_order.py",
+      [
+        "MplExplicitOrder"
+      ]
+    ]
+  ],
+  "MplExplicitSubOrder": [
+    [
+      "doc/sphinxext/gallery_order.py",
+      [
+        "MplExplicitSubOrder"
+      ]
+    ]
+  ],
+  "MathSymbolTableDirective": [
+    [
+      "doc/sphinxext/math_symbol_table.py",
+      [
+        "MathSymbolTableDirective"
+      ]
+    ]
+  ],
+  "MissingReferenceFilter": [
+    [
+      "doc/sphinxext/missing_references.py",
+      [
+        "MissingReferenceFilter"
+      ]
+    ]
+  ],
+  "MyCairoCffi": [
+    [
+      "doc/sphinxext/mock_gui_toolkits.py",
+      [
+        "MyCairoCffi"
+      ]
+    ]
+  ],
+  "RedirectFromDomain": [
+    [
+      "doc/sphinxext/redirect_from.py",
+      [
+        "RedirectFromDomain"
+      ]
+    ]
+  ],
+  "RedirectFrom": [
+    [
+      "doc/sphinxext/redirect_from.py",
+      [
+        "RedirectFrom"
+      ]
+    ]
+  ],
+  "UpdateDist": [
+    [
+      "examples/animation/bayes_update.py",
+      [
+        "UpdateDist"
+      ]
+    ]
+  ],
+  "PauseAnimation": [
+    [
+      "examples/animation/pause_resume.py",
+      [
+        "PauseAnimation"
+      ]
+    ]
+  ],
+  "Scope": [
+    [
+      "examples/animation/strip_chart.py",
+      [
+        "Scope"
+      ]
+    ]
+  ],
+  "Cursor": [
+    [
+      "examples/event_handling/cursor_demo.py",
+      [
+        "Cursor"
+      ]
+    ],
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "Cursor"
+      ]
+    ]
+  ],
+  "BlittedCursor": [
+    [
+      "examples/event_handling/cursor_demo.py",
+      [
+        "BlittedCursor"
+      ]
+    ]
+  ],
+  "SnappingCursor": [
+    [
+      "examples/event_handling/cursor_demo.py",
+      [
+        "SnappingCursor"
+      ]
+    ]
+  ],
+  "PointBrowser": [
+    [
+      "examples/event_handling/data_browser.py",
+      [
+        "PointBrowser"
+      ]
+    ]
+  ],
+  "IndexTracker": [
+    [
+      "examples/event_handling/image_slices_viewer.py",
+      [
+        "IndexTracker"
+      ]
+    ]
+  ],
+  "Datum": [
+    [
+      "examples/event_handling/lasso_demo.py",
+      [
+        "Datum"
+      ]
+    ]
+  ],
+  "LassoManager": [
+    [
+      "examples/event_handling/lasso_demo.py",
+      [
+        "LassoManager"
+      ]
+    ]
+  ],
+  "EventHandler": [
+    [
+      "examples/event_handling/looking_glass.py",
+      [
+        "EventHandler"
+      ]
+    ]
+  ],
+  "PathInteractor": [
+    [
+      "examples/event_handling/path_editor.py",
+      [
+        "PathInteractor"
+      ]
+    ]
+  ],
+  "PolygonInteractor": [
+    [
+      "examples/event_handling/poly_editor.py",
+      [
+        "PolygonInteractor"
+      ]
+    ]
+  ],
+  "Pad": [
+    [
+      "examples/event_handling/pong_sgskip.py",
+      [
+        "Pad"
+      ]
+    ]
+  ],
+  "Puck": [
+    [
+      "examples/event_handling/pong_sgskip.py",
+      [
+        "Puck"
+      ]
+    ]
+  ],
+  "Game": [
+    [
+      "examples/event_handling/pong_sgskip.py",
+      [
+        "Game"
+      ]
+    ]
+  ],
+  "DataDisplayDownsampler": [
+    [
+      "examples/event_handling/resample.py",
+      [
+        "DataDisplayDownsampler"
+      ]
+    ]
+  ],
+  "UpdatingRect": [
+    [
+      "examples/event_handling/viewlims.py",
+      [
+        "UpdatingRect"
+      ]
+    ]
+  ],
+  "MandelbrotDisplay": [
+    [
+      "examples/event_handling/viewlims.py",
+      [
+        "MandelbrotDisplay"
+      ]
+    ]
+  ],
+  "MidpointNormalize": [
+    [
+      "examples/images_contours_and_fields/colormap_normalizations.py",
+      [
+        "MidpointNormalize"
+      ]
+    ],
+    [
+      "tutorials/colors/colormapnorms.py",
+      [
+        "MidpointNormalize"
+      ]
+    ]
+  ],
+  "AnchoredSizeBar": [
+    [
+      "examples/misc/anchored_artists.py",
+      [
+        "AnchoredSizeBar"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axes_grid1/anchored_artists.py",
+      [
+        "AnchoredSizeBar"
+      ]
+    ]
+  ],
+  "ThetaFormatter": [
+    [
+      "examples/misc/custom_projection.py",
+      [
+        "GeoAxes",
+        "ThetaFormatter"
+      ]
+    ],
+    [
+      "lib/matplotlib/projections/geo.py",
+      [
+        "GeoAxes",
+        "ThetaFormatter"
+      ]
+    ],
+    [
+      "lib/matplotlib/projections/polar.py",
+      [
+        "ThetaFormatter"
+      ]
+    ]
+  ],
+  "GeoAxes": [
+    [
+      "examples/misc/custom_projection.py",
+      [
+        "GeoAxes"
+      ]
+    ],
+    [
+      "lib/matplotlib/projections/geo.py",
+      [
+        "GeoAxes"
+      ]
+    ]
+  ],
+  "HammerTransform": [
+    [
+      "examples/misc/custom_projection.py",
+      [
+        "HammerAxes",
+        "HammerTransform"
+      ]
+    ],
+    [
+      "lib/matplotlib/projections/geo.py",
+      [
+        "HammerAxes",
+        "HammerTransform"
+      ]
+    ]
+  ],
+  "InvertedHammerTransform": [
+    [
+      "examples/misc/custom_projection.py",
+      [
+        "HammerAxes",
+        "InvertedHammerTransform"
+      ]
+    ],
+    [
+      "lib/matplotlib/projections/geo.py",
+      [
+        "HammerAxes",
+        "InvertedHammerTransform"
+      ]
+    ]
+  ],
+  "HammerAxes": [
+    [
+      "examples/misc/custom_projection.py",
+      [
+        "HammerAxes"
+      ]
+    ],
+    [
+      "lib/matplotlib/projections/geo.py",
+      [
+        "HammerAxes"
+      ]
+    ]
+  ],
+  "BaseFilter": [
+    [
+      "examples/misc/demo_agg_filter.py",
+      [
+        "BaseFilter"
+      ]
+    ],
+    [
+      "lib/matplotlib/tests/test_agg.py",
+      [
+        "test_agg_filter",
+        "BaseFilter"
+      ]
+    ]
+  ],
+  "OffsetFilter": [
+    [
+      "examples/misc/demo_agg_filter.py",
+      [
+        "OffsetFilter"
+      ]
+    ],
+    [
+      "lib/matplotlib/tests/test_agg.py",
+      [
+        "test_agg_filter",
+        "OffsetFilter"
+      ]
+    ]
+  ],
+  "GaussianFilter": [
+    [
+      "examples/misc/demo_agg_filter.py",
+      [
+        "GaussianFilter"
+      ]
+    ],
+    [
+      "lib/matplotlib/tests/test_agg.py",
+      [
+        "test_agg_filter",
+        "GaussianFilter"
+      ]
+    ]
+  ],
+  "DropShadowFilter": [
+    [
+      "examples/misc/demo_agg_filter.py",
+      [
+        "DropShadowFilter"
+      ]
+    ],
+    [
+      "lib/matplotlib/tests/test_agg.py",
+      [
+        "test_agg_filter",
+        "DropShadowFilter"
+      ]
+    ]
+  ],
+  "LightFilter": [
+    [
+      "examples/misc/demo_agg_filter.py",
+      [
+        "LightFilter"
+      ]
+    ]
+  ],
+  "GrowFilter": [
+    [
+      "examples/misc/demo_agg_filter.py",
+      [
+        "GrowFilter"
+      ]
+    ]
+  ],
+  "FilteredArtistList": [
+    [
+      "examples/misc/demo_agg_filter.py",
+      [
+        "FilteredArtistList"
+      ]
+    ]
+  ],
+  "RibbonBox": [
+    [
+      "examples/misc/demo_ribbon_box.py",
+      [
+        "RibbonBox"
+      ]
+    ]
+  ],
+  "RibbonBoxImage": [
+    [
+      "examples/misc/demo_ribbon_box.py",
+      [
+        "RibbonBoxImage"
+      ]
+    ]
+  ],
+  "ProcessPlotter": [
+    [
+      "examples/misc/multiprocess_sgskip.py",
+      [
+        "ProcessPlotter"
+      ]
+    ]
+  ],
+  "NBPlot": [
+    [
+      "examples/misc/multiprocess_sgskip.py",
+      [
+        "NBPlot"
+      ]
+    ]
+  ],
+  "BubbleChart": [
+    [
+      "examples/misc/packed_bubbles.py",
+      [
+        "BubbleChart"
+      ]
+    ]
+  ],
+  "MercatorLatitudeTransform": [
+    [
+      "examples/scales/custom_scale.py",
+      [
+        "MercatorLatitudeScale",
+        "MercatorLatitudeTransform"
+      ]
+    ]
+  ],
+  "InvertedMercatorLatitudeTransform": [
+    [
+      "examples/scales/custom_scale.py",
+      [
+        "MercatorLatitudeScale",
+        "InvertedMercatorLatitudeTransform"
+      ]
+    ]
+  ],
+  "MercatorLatitudeScale": [
+    [
+      "examples/scales/custom_scale.py",
+      [
+        "MercatorLatitudeScale"
+      ]
+    ]
+  ],
+  "RadarTransform": [
+    [
+      "examples/specialty_plots/radar_chart.py",
+      [
+        "radar_factory",
+        "RadarTransform"
+      ]
+    ]
+  ],
+  "RadarAxes": [
+    [
+      "examples/specialty_plots/radar_chart.py",
+      [
+        "radar_factory",
+        "RadarAxes"
+      ]
+    ]
+  ],
+  "SkewXTick": [
+    [
+      "examples/specialty_plots/skewt.py",
+      [
+        "SkewXTick"
+      ]
+    ],
+    [
+      "lib/matplotlib/tests/test_skew.py",
+      [
+        "SkewXTick"
+      ]
+    ]
+  ],
+  "SkewXAxis": [
+    [
+      "examples/specialty_plots/skewt.py",
+      [
+        "SkewXAxis"
+      ]
+    ],
+    [
+      "lib/matplotlib/tests/test_skew.py",
+      [
+        "SkewXAxis"
+      ]
+    ]
+  ],
+  "SkewSpine": [
+    [
+      "examples/specialty_plots/skewt.py",
+      [
+        "SkewSpine"
+      ]
+    ],
+    [
+      "lib/matplotlib/tests/test_skew.py",
+      [
+        "SkewSpine"
+      ]
+    ]
+  ],
+  "SkewXAxes": [
+    [
+      "examples/specialty_plots/skewt.py",
+      [
+        "SkewXAxes"
+      ]
+    ],
+    [
+      "lib/matplotlib/tests/test_skew.py",
+      [
+        "SkewXAxes"
+      ]
+    ]
+  ],
+  "WatermarkFigure": [
+    [
+      "examples/subplots_axes_and_figures/custom_figure_class.py",
+      [
+        "WatermarkFigure"
+      ]
+    ]
+  ],
+  "AngleAnnotation": [
+    [
+      "examples/text_labels_and_annotations/angle_annotation.py",
+      [
+        "AngleAnnotation"
+      ]
+    ]
+  ],
+  "PathClippedImagePatch": [
+    [
+      "examples/text_labels_and_annotations/demo_text_path.py",
+      [
+        "PathClippedImagePatch"
+      ]
+    ]
+  ],
+  "HandlerDashedLines": [
+    [
+      "examples/text_labels_and_annotations/legend_demo.py",
+      [
+        "HandlerDashedLines"
+      ]
+    ]
+  ],
+  "MyLine": [
+    [
+      "examples/text_labels_and_annotations/line_with_text.py",
+      [
+        "MyLine"
+      ]
+    ]
+  ],
+  "MyFormatter": [
+    [
+      "examples/ticks/date_index_formatter.py",
+      [
+        "MyFormatter"
+      ]
+    ]
+  ],
+  "ProxyDelegate": [
+    [
+      "examples/units/basic_units.py",
+      [
+        "ProxyDelegate"
+      ]
+    ]
+  ],
+  "TaggedValueMeta": [
+    [
+      "examples/units/basic_units.py",
+      [
+        "TaggedValueMeta"
+      ]
+    ]
+  ],
+  "PassThroughProxy": [
+    [
+      "examples/units/basic_units.py",
+      [
+        "PassThroughProxy"
+      ]
+    ]
+  ],
+  "ConvertArgsProxy": [
+    [
+      "examples/units/basic_units.py",
+      [
+        "ConvertArgsProxy"
+      ]
+    ]
+  ],
+  "ConvertReturnProxy": [
+    [
+      "examples/units/basic_units.py",
+      [
+        "ConvertReturnProxy"
+      ]
+    ]
+  ],
+  "ConvertAllProxy": [
+    [
+      "examples/units/basic_units.py",
+      [
+        "ConvertAllProxy"
+      ]
+    ]
+  ],
+  "TaggedValue": [
+    [
+      "examples/units/basic_units.py",
+      [
+        "TaggedValue"
+      ]
+    ]
+  ],
+  "BasicUnit": [
+    [
+      "examples/units/basic_units.py",
+      [
+        "BasicUnit"
+      ]
+    ]
+  ],
+  "UnitResolver": [
+    [
+      "examples/units/basic_units.py",
+      [
+        "UnitResolver"
+      ]
+    ]
+  ],
+  "BasicUnitConverter": [
+    [
+      "examples/units/basic_units.py",
+      [
+        "BasicUnitConverter"
+      ]
+    ]
+  ],
+  "Foo": [
+    [
+      "examples/units/evans_test.py",
+      [
+        "Foo"
+      ]
+    ]
+  ],
+  "FooConverter": [
+    [
+      "examples/units/evans_test.py",
+      [
+        "FooConverter"
+      ]
+    ]
+  ],
+  "ApplicationWindow": [
+    [
+      "examples/user_interfaces/embedding_in_qt_sgskip.py",
+      [
+        "ApplicationWindow"
+      ]
+    ]
+  ],
+  "CanvasFrame": [
+    [
+      "examples/user_interfaces/embedding_in_wx2_sgskip.py",
+      [
+        "CanvasFrame"
+      ]
+    ],
+    [
+      "examples/user_interfaces/embedding_in_wx4_sgskip.py",
+      [
+        "CanvasFrame"
+      ]
+    ],
+    [
+      "examples/user_interfaces/mathtext_wx_sgskip.py",
+      [
+        "CanvasFrame"
+      ]
+    ],
+    [
+      "examples/user_interfaces/wxcursor_demo_sgskip.py",
+      [
+        "CanvasFrame"
+      ]
+    ]
+  ],
+  "App": [
+    [
+      "examples/user_interfaces/embedding_in_wx2_sgskip.py",
+      [
+        "App"
+      ]
+    ],
+    [
+      "examples/user_interfaces/embedding_in_wx4_sgskip.py",
+      [
+        "App"
+      ]
+    ],
+    [
+      "examples/user_interfaces/fourier_demo_wx_sgskip.py",
+      [
+        "App"
+      ]
+    ],
+    [
+      "examples/user_interfaces/wxcursor_demo_sgskip.py",
+      [
+        "App"
+      ]
+    ]
+  ],
+  "PlotPanel": [
+    [
+      "examples/user_interfaces/embedding_in_wx3_sgskip.py",
+      [
+        "PlotPanel"
+      ]
+    ]
+  ],
+  "MyApp": [
+    [
+      "examples/user_interfaces/embedding_in_wx3_sgskip.py",
+      [
+        "MyApp"
+      ]
+    ],
+    [
+      "examples/user_interfaces/mathtext_wx_sgskip.py",
+      [
+        "MyApp"
+      ]
+    ]
+  ],
+  "MyNavigationToolbar": [
+    [
+      "examples/user_interfaces/embedding_in_wx4_sgskip.py",
+      [
+        "MyNavigationToolbar"
+      ]
+    ]
+  ],
+  "Plot": [
+    [
+      "examples/user_interfaces/embedding_in_wx5_sgskip.py",
+      [
+        "Plot"
+      ]
+    ]
+  ],
+  "PlotNotebook": [
+    [
+      "examples/user_interfaces/embedding_in_wx5_sgskip.py",
+      [
+        "PlotNotebook"
+      ]
+    ]
+  ],
+  "MainPage": [
+    [
+      "examples/user_interfaces/embedding_webagg_sgskip.py",
+      [
+        "MyApplication",
+        "MainPage"
+      ]
+    ]
+  ],
+  "MplJs": [
+    [
+      "examples/user_interfaces/embedding_webagg_sgskip.py",
+      [
+        "MyApplication",
+        "MplJs"
+      ]
+    ],
+    [
+      "lib/matplotlib/backends/backend_webagg.py",
+      [
+        "WebAggApplication",
+        "MplJs"
+      ]
+    ]
+  ],
+  "Download": [
+    [
+      "examples/user_interfaces/embedding_webagg_sgskip.py",
+      [
+        "MyApplication",
+        "Download"
+      ]
+    ],
+    [
+      "lib/matplotlib/backends/backend_webagg.py",
+      [
+        "WebAggApplication",
+        "Download"
+      ]
+    ]
+  ],
+  "WebSocket": [
+    [
+      "examples/user_interfaces/embedding_webagg_sgskip.py",
+      [
+        "MyApplication",
+        "WebSocket"
+      ]
+    ],
+    [
+      "lib/matplotlib/backends/backend_webagg.py",
+      [
+        "WebAggApplication",
+        "WebSocket"
+      ]
+    ]
+  ],
+  "MyApplication": [
+    [
+      "examples/user_interfaces/embedding_webagg_sgskip.py",
+      [
+        "MyApplication"
+      ]
+    ]
+  ],
+  "Knob": [
+    [
+      "examples/user_interfaces/fourier_demo_wx_sgskip.py",
+      [
+        "Knob"
+      ]
+    ]
+  ],
+  "Param": [
+    [
+      "examples/user_interfaces/fourier_demo_wx_sgskip.py",
+      [
+        "Param"
+      ]
+    ]
+  ],
+  "SliderGroup": [
+    [
+      "examples/user_interfaces/fourier_demo_wx_sgskip.py",
+      [
+        "SliderGroup"
+      ]
+    ]
+  ],
+  "FourierDemoFrame": [
+    [
+      "examples/user_interfaces/fourier_demo_wx_sgskip.py",
+      [
+        "FourierDemoFrame"
+      ]
+    ]
+  ],
+  "DataManager": [
+    [
+      "examples/user_interfaces/gtk3_spreadsheet_sgskip.py",
+      [
+        "DataManager"
+      ]
+    ],
+    [
+      "examples/user_interfaces/gtk4_spreadsheet_sgskip.py",
+      [
+        "DataManager"
+      ]
+    ]
+  ],
+  "Window1Signals": [
+    [
+      "examples/user_interfaces/mpl_with_glade3_sgskip.py",
+      [
+        "Window1Signals"
+      ]
+    ]
+  ],
+  "ListTools": [
+    [
+      "examples/user_interfaces/toolmanager_sgskip.py",
+      [
+        "ListTools"
+      ]
+    ]
+  ],
+  "GroupHideTool": [
+    [
+      "examples/user_interfaces/toolmanager_sgskip.py",
+      [
+        "GroupHideTool"
+      ]
+    ]
+  ],
+  "MyStyle": [
+    [
+      "examples/userdemo/custom_boxstyle01.py",
+      [
+        "MyStyle"
+      ]
+    ]
+  ],
+  "AnnotatedCursor": [
+    [
+      "examples/widgets/annotated_cursor.py",
+      [
+        "AnnotatedCursor"
+      ]
+    ]
+  ],
+  "Index": [
+    [
+      "examples/widgets/buttons.py",
+      [
+        "Index"
+      ]
+    ]
+  ],
+  "SelectFromCollection": [
+    [
+      "examples/widgets/lasso_selector_demo_sgskip.py",
+      [
+        "SelectFromCollection"
+      ]
+    ],
+    [
+      "examples/widgets/polygon_selector_demo.py",
+      [
+        "SelectFromCollection"
+      ]
+    ]
+  ],
+  "ItemProperties": [
+    [
+      "examples/widgets/menu.py",
+      [
+        "ItemProperties"
+      ]
+    ]
+  ],
+  "MenuItem": [
+    [
+      "examples/widgets/menu.py",
+      [
+        "MenuItem"
+      ]
+    ]
+  ],
+  "Menu": [
+    [
+      "examples/widgets/menu.py",
+      [
+        "Menu"
+      ]
+    ]
+  ],
+  "__getattr__": [
+    [
+      "lib/matplotlib/__init__.py",
+      [
+        "__getattr__"
+      ]
+    ],
+    [
+      "lib/matplotlib/backends/backend_gtk3.py",
+      [
+        "__getattr__"
+      ]
+    ],
+    [
+      "lib/matplotlib/backends/backend_pgf.py",
+      [
+        "__getattr__"
+      ]
+    ],
+    [
+      "lib/matplotlib/backends/backend_qt.py",
+      [
+        "__getattr__"
+      ]
+    ],
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "__getattr__"
+      ]
+    ],
+    [
+      "lib/matplotlib/backends/qt_compat.py",
+      [
+        "__getattr__"
+      ]
+    ],
+    [
+      "lib/matplotlib/cbook/__init__.py",
+      [
+        "__getattr__"
+      ]
+    ],
+    [
+      "lib/matplotlib/cm.py",
+      [
+        "__getattr__"
+      ]
+    ],
+    [
+      "lib/matplotlib/style/core.py",
+      [
+        "__getattr__"
+      ]
+    ]
+  ],
+  "ExecutableNotFoundError": [
+    [
+      "lib/matplotlib/__init__.py",
+      [
+        "ExecutableNotFoundError"
+      ]
+    ]
+  ],
+  "RcParams": [
+    [
+      "lib/matplotlib/__init__.py",
+      [
+        "RcParams"
+      ]
+    ]
+  ],
+  "AFM": [
+    [
+      "lib/matplotlib/_afm.py",
+      [
+        "AFM"
+      ]
+    ]
+  ],
+  "classproperty": [
+    [
+      "lib/matplotlib/_api/__init__.py",
+      [
+        "classproperty"
+      ]
+    ]
+  ],
+  "MatplotlibDeprecationWarning": [
+    [
+      "lib/matplotlib/_api/deprecation.py",
+      [
+        "MatplotlibDeprecationWarning"
+      ]
+    ]
+  ],
+  "_deprecated_property": [
+    [
+      "lib/matplotlib/_api/deprecation.py",
+      [
+        "deprecated",
+        "deprecate",
+        "if_isinstance_obj_type_",
+        "elif_isinstance_obj_pro",
+        "_deprecated_property"
+      ]
+    ]
+  ],
+  "deprecate_privatize_attribute": [
+    [
+      "lib/matplotlib/_api/deprecation.py",
+      [
+        "deprecate_privatize_attribute"
+      ]
+    ]
+  ],
+  "_deprecated_parameter_class": [
+    [
+      "lib/matplotlib/_api/deprecation.py",
+      [
+        "_deprecated_parameter_class"
+      ]
+    ]
+  ],
+  "Substitution": [
+    [
+      "lib/matplotlib/_docstring.py",
+      [
+        "Substitution"
+      ]
+    ]
+  ],
+  "_ArtistKwdocLoader": [
+    [
+      "lib/matplotlib/_docstring.py",
+      [
+        "_ArtistKwdocLoader"
+      ]
+    ]
+  ],
+  "_ArtistPropertiesSubstitution": [
+    [
+      "lib/matplotlib/_docstring.py",
+      [
+        "_ArtistPropertiesSubstitution"
+      ]
+    ]
+  ],
+  "_AutoStringNameEnum": [
+    [
+      "lib/matplotlib/_enums.py",
+      [
+        "_AutoStringNameEnum"
+      ]
+    ]
+  ],
+  "JoinStyle": [
+    [
+      "lib/matplotlib/_enums.py",
+      [
+        "JoinStyle"
+      ]
+    ]
+  ],
+  "CapStyle": [
+    [
+      "lib/matplotlib/_enums.py",
+      [
+        "CapStyle"
+      ]
+    ]
+  ],
+  "FontconfigPatternParser": [
+    [
+      "lib/matplotlib/_fontconfig_pattern.py",
+      [
+        "FontconfigPatternParser"
+      ]
+    ]
+  ],
+  "LayoutGrid": [
+    [
+      "lib/matplotlib/_layoutgrid.py",
+      [
+        "LayoutGrid"
+      ]
+    ]
+  ],
+  "Output": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Output"
+      ]
+    ]
+  ],
+  "Fonts": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Fonts"
+      ]
+    ]
+  ],
+  "TruetypeFonts": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "TruetypeFonts"
+      ]
+    ]
+  ],
+  "BakomaFonts": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "BakomaFonts"
+      ]
+    ]
+  ],
+  "UnicodeFonts": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "UnicodeFonts"
+      ]
+    ]
+  ],
+  "DejaVuFonts": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "DejaVuFonts"
+      ]
+    ]
+  ],
+  "DejaVuSerifFonts": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "DejaVuSerifFonts"
+      ]
+    ]
+  ],
+  "DejaVuSansFonts": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "DejaVuSansFonts"
+      ]
+    ]
+  ],
+  "StixFonts": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "StixFonts"
+      ]
+    ]
+  ],
+  "StixSansFonts": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "StixSansFonts"
+      ]
+    ]
+  ],
+  "FontConstantsBase": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "FontConstantsBase"
+      ]
+    ]
+  ],
+  "ComputerModernFontConstants": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "ComputerModernFontConstants"
+      ]
+    ]
+  ],
+  "STIXFontConstants": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "STIXFontConstants"
+      ]
+    ]
+  ],
+  "STIXSansFontConstants": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "STIXSansFontConstants"
+      ]
+    ]
+  ],
+  "DejaVuSerifFontConstants": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "DejaVuSerifFontConstants"
+      ]
+    ]
+  ],
+  "DejaVuSansFontConstants": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "DejaVuSansFontConstants"
+      ]
+    ]
+  ],
+  "Node": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Node"
+      ]
+    ]
+  ],
+  "Box": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Box"
+      ]
+    ]
+  ],
+  "Vbox": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Vbox"
+      ]
+    ]
+  ],
+  "Hbox": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Hbox"
+      ]
+    ]
+  ],
+  "Char": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Char"
+      ]
+    ]
+  ],
+  "Accent": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Accent"
+      ]
+    ]
+  ],
+  "List": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "List"
+      ]
+    ]
+  ],
+  "Hlist": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Hlist"
+      ]
+    ]
+  ],
+  "Vlist": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Vlist"
+      ]
+    ]
+  ],
+  "Rule": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Rule"
+      ]
+    ]
+  ],
+  "Hrule": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Hrule"
+      ]
+    ]
+  ],
+  "Vrule": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Vrule"
+      ]
+    ]
+  ],
+  "Glue": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Glue"
+      ]
+    ]
+  ],
+  "HCentered": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "HCentered"
+      ]
+    ]
+  ],
+  "VCentered": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "VCentered"
+      ]
+    ]
+  ],
+  "Kern": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Kern"
+      ]
+    ]
+  ],
+  "AutoHeightChar": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "AutoHeightChar"
+      ]
+    ]
+  ],
+  "AutoWidthChar": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "AutoWidthChar"
+      ]
+    ]
+  ],
+  "ParserState": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "ParserState"
+      ]
+    ]
+  ],
+  "_MathStyle": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Parser",
+        "_MathStyle"
+      ]
+    ]
+  ],
+  "Parser": [
+    [
+      "lib/matplotlib/_mathtext.py",
+      [
+        "Parser"
+      ]
+    ]
+  ],
+  "Gcf": [
+    [
+      "lib/matplotlib/_pylab_helpers.py",
+      [
+        "Gcf"
+      ]
+    ]
+  ],
+  "_Token": [
+    [
+      "lib/matplotlib/_type1font.py",
+      [
+        "_Token"
+      ]
+    ]
+  ],
+  "_NameToken": [
+    [
+      "lib/matplotlib/_type1font.py",
+      [
+        "_NameToken"
+      ]
+    ]
+  ],
+  "_BooleanToken": [
+    [
+      "lib/matplotlib/_type1font.py",
+      [
+        "_BooleanToken"
+      ]
+    ]
+  ],
+  "_KeywordToken": [
+    [
+      "lib/matplotlib/_type1font.py",
+      [
+        "_KeywordToken"
+      ]
+    ]
+  ],
+  "_DelimiterToken": [
+    [
+      "lib/matplotlib/_type1font.py",
+      [
+        "_DelimiterToken"
+      ]
+    ]
+  ],
+  "_WhitespaceToken": [
+    [
+      "lib/matplotlib/_type1font.py",
+      [
+        "_WhitespaceToken"
+      ]
+    ]
+  ],
+  "_StringToken": [
+    [
+      "lib/matplotlib/_type1font.py",
+      [
+        "_StringToken"
+      ]
+    ]
+  ],
+  "_BinaryToken": [
+    [
+      "lib/matplotlib/_type1font.py",
+      [
+        "_BinaryToken"
+      ]
+    ]
+  ],
+  "_NumberToken": [
+    [
+      "lib/matplotlib/_type1font.py",
+      [
+        "_NumberToken"
+      ]
+    ]
+  ],
+  "_BalancedExpression": [
+    [
+      "lib/matplotlib/_type1font.py",
+      [
+        "_BalancedExpression"
+      ]
+    ]
+  ],
+  "Type1Font": [
+    [
+      "lib/matplotlib/_type1font.py",
+      [
+        "Type1Font"
+      ]
+    ]
+  ],
+  "MovieWriterRegistry": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "MovieWriterRegistry"
+      ]
+    ]
+  ],
+  "AbstractMovieWriter": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "AbstractMovieWriter"
+      ]
+    ]
+  ],
+  "MovieWriter": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "MovieWriter"
+      ]
+    ]
+  ],
+  "FileMovieWriter": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "FileMovieWriter"
+      ]
+    ]
+  ],
+  "PillowWriter": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "PillowWriter"
+      ]
+    ]
+  ],
+  "FFMpegBase": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "FFMpegBase"
+      ]
+    ]
+  ],
+  "FFMpegWriter": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "FFMpegWriter"
+      ]
+    ]
+  ],
+  "FFMpegFileWriter": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "FFMpegFileWriter"
+      ]
+    ]
+  ],
+  "ImageMagickBase": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "ImageMagickBase"
+      ]
+    ]
+  ],
+  "ImageMagickWriter": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "ImageMagickWriter"
+      ]
+    ]
+  ],
+  "ImageMagickFileWriter": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "ImageMagickFileWriter"
+      ]
+    ]
+  ],
+  "HTMLWriter": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "HTMLWriter"
+      ]
+    ]
+  ],
+  "Animation": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "Animation"
+      ]
+    ]
+  ],
+  "TimedAnimation": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "TimedAnimation"
+      ]
+    ]
+  ],
+  "ArtistAnimation": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "ArtistAnimation"
+      ]
+    ]
+  ],
+  "FuncAnimation": [
+    [
+      "lib/matplotlib/animation.py",
+      [
+        "FuncAnimation"
+      ]
+    ]
+  ],
+  "_Unset": [
+    [
+      "lib/matplotlib/artist.py",
+      [
+        "_Unset"
+      ]
+    ]
+  ],
+  "Artist": [
+    [
+      "lib/matplotlib/artist.py",
+      [
+        "Artist"
+      ]
+    ]
+  ],
+  "ArtistInspector": [
+    [
+      "lib/matplotlib/artist.py",
+      [
+        "ArtistInspector"
+      ]
+    ]
+  ],
+  "Axes": [
+    [
+      "lib/matplotlib/axes/_axes.py",
+      [
+        "Axes"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axes_grid1/mpl_axes.py",
+      [
+        "Axes"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/axislines.py",
+      [
+        "Axes"
+      ]
+    ]
+  ],
+  "_axis_method_wrapper": [
+    [
+      "lib/matplotlib/axes/_base.py",
+      [
+        "_axis_method_wrapper"
+      ]
+    ]
+  ],
+  "_TransformedBoundsLocator": [
+    [
+      "lib/matplotlib/axes/_base.py",
+      [
+        "_TransformedBoundsLocator"
+      ]
+    ]
+  ],
+  "_process_plot_var_args": [
+    [
+      "lib/matplotlib/axes/_base.py",
+      [
+        "_process_plot_var_args"
+      ]
+    ]
+  ],
+  "ArtistList": [
+    [
+      "lib/matplotlib/axes/_base.py",
+      [
+        "_AxesBase",
+        "ArtistList"
+      ]
+    ]
+  ],
+  "_AxesBase": [
+    [
+      "lib/matplotlib/axes/_base.py",
+      [
+        "_AxesBase"
+      ]
+    ]
+  ],
+  "SecondaryAxis": [
+    [
+      "lib/matplotlib/axes/_secondary_axes.py",
+      [
+        "SecondaryAxis"
+      ]
+    ]
+  ],
+  "SubplotBase": [
+    [
+      "lib/matplotlib/axes/_subplots.py",
+      [
+        "SubplotBase"
+      ]
+    ]
+  ],
+  "Tick": [
+    [
+      "lib/matplotlib/axis.py",
+      [
+        "Tick"
+      ]
+    ]
+  ],
+  "XTick": [
+    [
+      "lib/matplotlib/axis.py",
+      [
+        "XTick"
+      ]
+    ]
+  ],
+  "YTick": [
+    [
+      "lib/matplotlib/axis.py",
+      [
+        "YTick"
+      ]
+    ]
+  ],
+  "Ticker": [
+    [
+      "lib/matplotlib/axis.py",
+      [
+        "Ticker"
+      ]
+    ]
+  ],
+  "_LazyTickList": [
+    [
+      "lib/matplotlib/axis.py",
+      [
+        "_LazyTickList"
+      ]
+    ]
+  ],
+  "Axis": [
+    [
+      "lib/matplotlib/axis.py",
+      [
+        "Axis"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/mplot3d/axis3d.py",
+      [
+        "Axis"
+      ]
+    ]
+  ],
+  "XAxis": [
+    [
+      "lib/matplotlib/axis.py",
+      [
+        "XAxis"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/mplot3d/axis3d.py",
+      [
+        "XAxis"
+      ]
+    ]
+  ],
+  "YAxis": [
+    [
+      "lib/matplotlib/axis.py",
+      [
+        "YAxis"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/mplot3d/axis3d.py",
+      [
+        "YAxis"
+      ]
+    ]
+  ],
+  "RendererBase": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "RendererBase"
+      ]
+    ]
+  ],
+  "GraphicsContextBase": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "GraphicsContextBase"
+      ]
+    ]
+  ],
+  "TimerBase": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "TimerBase"
+      ]
+    ]
+  ],
+  "Event": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "Event"
+      ]
+    ]
+  ],
+  "DrawEvent": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "DrawEvent"
+      ]
+    ]
+  ],
+  "ResizeEvent": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "ResizeEvent"
+      ]
+    ]
+  ],
+  "CloseEvent": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "CloseEvent"
+      ]
+    ]
+  ],
+  "LocationEvent": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "LocationEvent"
+      ]
+    ]
+  ],
+  "MouseButton": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "MouseButton"
+      ]
+    ]
+  ],
+  "MouseEvent": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "MouseEvent"
+      ]
+    ]
+  ],
+  "PickEvent": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "PickEvent"
+      ]
+    ]
+  ],
+  "KeyEvent": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "KeyEvent"
+      ]
+    ]
+  ],
+  "Done": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "_get_renderer",
+        "Done"
+      ]
+    ]
+  ],
+  "FigureCanvasBase": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "FigureCanvasBase"
+      ]
+    ]
+  ],
+  "NonGuiException": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "NonGuiException"
+      ]
+    ]
+  ],
+  "FigureManagerBase": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "FigureManagerBase"
+      ]
+    ]
+  ],
+  "_Mode": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "_Mode"
+      ]
+    ]
+  ],
+  "NavigationToolbar2": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "NavigationToolbar2"
+      ]
+    ]
+  ],
+  "ToolContainerBase": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "ToolContainerBase"
+      ]
+    ]
+  ],
+  "_Backend": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "_Backend"
+      ]
+    ]
+  ],
+  "ShowBase": [
+    [
+      "lib/matplotlib/backend_bases.py",
+      [
+        "ShowBase"
+      ]
+    ]
+  ],
+  "ToolEvent": [
+    [
+      "lib/matplotlib/backend_managers.py",
+      [
+        "ToolEvent"
+      ]
+    ]
+  ],
+  "ToolTriggerEvent": [
+    [
+      "lib/matplotlib/backend_managers.py",
+      [
+        "ToolTriggerEvent"
+      ]
+    ]
+  ],
+  "ToolManagerMessageEvent": [
+    [
+      "lib/matplotlib/backend_managers.py",
+      [
+        "ToolManagerMessageEvent"
+      ]
+    ]
+  ],
+  "ToolManager": [
+    [
+      "lib/matplotlib/backend_managers.py",
+      [
+        "ToolManager"
+      ]
+    ]
+  ],
+  "Cursors": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "Cursors"
+      ]
+    ]
+  ],
+  "ToolBase": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolBase"
+      ]
+    ]
+  ],
+  "ToolToggleBase": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolToggleBase"
+      ]
+    ]
+  ],
+  "SetCursorBase": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "SetCursorBase"
+      ]
+    ]
+  ],
+  "ToolCursorPosition": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolCursorPosition"
+      ]
+    ]
+  ],
+  "RubberbandBase": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "RubberbandBase"
+      ]
+    ]
+  ],
+  "ToolQuit": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolQuit"
+      ]
+    ]
+  ],
+  "ToolQuitAll": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolQuitAll"
+      ]
+    ]
+  ],
+  "ToolGrid": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolGrid"
+      ]
+    ]
+  ],
+  "ToolMinorGrid": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolMinorGrid"
+      ]
+    ]
+  ],
+  "ToolFullScreen": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolFullScreen"
+      ]
+    ]
+  ],
+  "AxisScaleBase": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "AxisScaleBase"
+      ]
+    ]
+  ],
+  "ToolYScale": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolYScale"
+      ]
+    ]
+  ],
+  "ToolXScale": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolXScale"
+      ]
+    ]
+  ],
+  "ToolViewsPositions": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolViewsPositions"
+      ]
+    ]
+  ],
+  "ViewsPositionsBase": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ViewsPositionsBase"
+      ]
+    ]
+  ],
+  "ToolHome": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolHome"
+      ]
+    ]
+  ],
+  "ToolBack": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolBack"
+      ]
+    ]
+  ],
+  "ToolForward": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolForward"
+      ]
+    ]
+  ],
+  "ConfigureSubplotsBase": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ConfigureSubplotsBase"
+      ]
+    ]
+  ],
+  "SaveFigureBase": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "SaveFigureBase"
+      ]
+    ]
+  ],
+  "ZoomPanBase": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ZoomPanBase"
+      ]
+    ]
+  ],
+  "ToolZoom": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolZoom"
+      ]
+    ]
+  ],
+  "ToolPan": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolPan"
+      ]
+    ]
+  ],
+  "ToolHelpBase": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolHelpBase"
+      ]
+    ]
+  ],
+  "ToolCopyToClipboardBase": [
+    [
+      "lib/matplotlib/backend_tools.py",
+      [
+        "ToolCopyToClipboardBase"
+      ]
+    ]
+  ],
+  "TimerGTK": [
+    [
+      "lib/matplotlib/backends/_backend_gtk.py",
+      [
+        "TimerGTK"
+      ]
+    ]
+  ],
+  "_FigureManagerGTK": [
+    [
+      "lib/matplotlib/backends/_backend_gtk.py",
+      [
+        "_FigureManagerGTK"
+      ]
+    ]
+  ],
+  "_NavigationToolbar2GTK": [
+    [
+      "lib/matplotlib/backends/_backend_gtk.py",
+      [
+        "_NavigationToolbar2GTK"
+      ]
+    ]
+  ],
+  "RubberbandGTK": [
+    [
+      "lib/matplotlib/backends/_backend_gtk.py",
+      [
+        "RubberbandGTK"
+      ]
+    ]
+  ],
+  "ConfigureSubplotsGTK": [
+    [
+      "lib/matplotlib/backends/_backend_gtk.py",
+      [
+        "ConfigureSubplotsGTK"
+      ]
+    ]
+  ],
+  "_BackendGTK": [
+    [
+      "lib/matplotlib/backends/_backend_gtk.py",
+      [
+        "_BackendGTK"
+      ]
+    ]
+  ],
+  "CharacterTracker": [
+    [
+      "lib/matplotlib/backends/_backend_pdf_ps.py",
+      [
+        "CharacterTracker"
+      ]
+    ]
+  ],
+  "RendererPDFPSBase": [
+    [
+      "lib/matplotlib/backends/_backend_pdf_ps.py",
+      [
+        "RendererPDFPSBase"
+      ]
+    ]
+  ],
+  "TimerTk": [
+    [
+      "lib/matplotlib/backends/_backend_tk.py",
+      [
+        "TimerTk"
+      ]
+    ]
+  ],
+  "FigureCanvasTk": [
+    [
+      "lib/matplotlib/backends/_backend_tk.py",
+      [
+        "FigureCanvasTk"
+      ]
+    ]
+  ],
+  "FigureManagerTk": [
+    [
+      "lib/matplotlib/backends/_backend_tk.py",
+      [
+        "FigureManagerTk"
+      ]
+    ]
+  ],
+  "NavigationToolbar2Tk": [
+    [
+      "lib/matplotlib/backends/_backend_tk.py",
+      [
+        "NavigationToolbar2Tk"
+      ]
+    ]
+  ],
+  "ToolTip": [
+    [
+      "lib/matplotlib/backends/_backend_tk.py",
+      [
+        "ToolTip"
+      ]
+    ]
+  ],
+  "RubberbandTk": [
+    [
+      "lib/matplotlib/backends/_backend_tk.py",
+      [
+        "RubberbandTk"
+      ]
+    ]
+  ],
+  "SetCursorTk": [
+    [
+      "lib/matplotlib/backends/_backend_tk.py",
+      [
+        "SetCursorTk"
+      ]
+    ]
+  ],
+  "ToolbarTk": [
+    [
+      "lib/matplotlib/backends/_backend_tk.py",
+      [
+        "ToolbarTk"
+      ]
+    ]
+  ],
+  "SaveFigureTk": [
+    [
+      "lib/matplotlib/backends/_backend_tk.py",
+      [
+        "SaveFigureTk"
+      ]
+    ]
+  ],
+  "ConfigureSubplotsTk": [
+    [
+      "lib/matplotlib/backends/_backend_tk.py",
+      [
+        "ConfigureSubplotsTk"
+      ]
+    ]
+  ],
+  "HelpTk": [
+    [
+      "lib/matplotlib/backends/_backend_tk.py",
+      [
+        "HelpTk"
+      ]
+    ]
+  ],
+  "_BackendTk": [
+    [
+      "lib/matplotlib/backends/_backend_tk.py",
+      [
+        "_BackendTk"
+      ]
+    ]
+  ],
+  "RendererAgg": [
+    [
+      "lib/matplotlib/backends/backend_agg.py",
+      [
+        "RendererAgg"
+      ]
+    ]
+  ],
+  "FigureCanvasAgg": [
+    [
+      "lib/matplotlib/backends/backend_agg.py",
+      [
+        "FigureCanvasAgg"
+      ]
+    ]
+  ],
+  "_BackendAgg": [
+    [
+      "lib/matplotlib/backends/backend_agg.py",
+      [
+        "_BackendAgg"
+      ]
+    ]
+  ],
+  "RendererCairo": [
+    [
+      "lib/matplotlib/backends/backend_cairo.py",
+      [
+        "RendererCairo"
+      ]
+    ]
+  ],
+  "GraphicsContextCairo": [
+    [
+      "lib/matplotlib/backends/backend_cairo.py",
+      [
+        "GraphicsContextCairo"
+      ]
+    ]
+  ],
+  "_CairoRegion": [
+    [
+      "lib/matplotlib/backends/backend_cairo.py",
+      [
+        "_CairoRegion"
+      ]
+    ]
+  ],
+  "FigureCanvasCairo": [
+    [
+      "lib/matplotlib/backends/backend_cairo.py",
+      [
+        "FigureCanvasCairo"
+      ]
+    ]
+  ],
+  "_RendererGTKCairo": [
+    [
+      "lib/matplotlib/backends/backend_cairo.py",
+      [
+        "_RendererGTKCairo"
+      ]
+    ]
+  ],
+  "_BackendCairo": [
+    [
+      "lib/matplotlib/backends/backend_cairo.py",
+      [
+        "_BackendCairo"
+      ]
+    ]
+  ],
+  "FigureCanvasGTK3": [
+    [
+      "lib/matplotlib/backends/backend_gtk3.py",
+      [
+        "FigureCanvasGTK3"
+      ]
+    ]
+  ],
+  "NavigationToolbar2GTK3": [
+    [
+      "lib/matplotlib/backends/backend_gtk3.py",
+      [
+        "NavigationToolbar2GTK3"
+      ]
+    ]
+  ],
+  "ToolbarGTK3": [
+    [
+      "lib/matplotlib/backends/backend_gtk3.py",
+      [
+        "ToolbarGTK3"
+      ]
+    ]
+  ],
+  "SaveFigureGTK3": [
+    [
+      "lib/matplotlib/backends/backend_gtk3.py",
+      [
+        "SaveFigureGTK3"
+      ]
+    ]
+  ],
+  "SetCursorGTK3": [
+    [
+      "lib/matplotlib/backends/backend_gtk3.py",
+      [
+        "SetCursorGTK3"
+      ]
+    ]
+  ],
+  "HelpGTK3": [
+    [
+      "lib/matplotlib/backends/backend_gtk3.py",
+      [
+        "HelpGTK3"
+      ]
+    ]
+  ],
+  "ToolCopyToClipboardGTK3": [
+    [
+      "lib/matplotlib/backends/backend_gtk3.py",
+      [
+        "ToolCopyToClipboardGTK3"
+      ]
+    ]
+  ],
+  "FigureManagerGTK3": [
+    [
+      "lib/matplotlib/backends/backend_gtk3.py",
+      [
+        "FigureManagerGTK3"
+      ]
+    ]
+  ],
+  "_BackendGTK3": [
+    [
+      "lib/matplotlib/backends/backend_gtk3.py",
+      [
+        "_BackendGTK3"
+      ]
+    ]
+  ],
+  "FigureCanvasGTK3Agg": [
+    [
+      "lib/matplotlib/backends/backend_gtk3agg.py",
+      [
+        "FigureCanvasGTK3Agg"
+      ]
+    ]
+  ],
+  "FigureManagerGTK3Agg": [
+    [
+      "lib/matplotlib/backends/backend_gtk3agg.py",
+      [
+        "FigureManagerGTK3Agg"
+      ]
+    ]
+  ],
+  "_BackendGTK3Cairo": [
+    [
+      "lib/matplotlib/backends/backend_gtk3agg.py",
+      [
+        "_BackendGTK3Cairo"
+      ]
+    ],
+    [
+      "lib/matplotlib/backends/backend_gtk3cairo.py",
+      [
+        "_BackendGTK3Cairo"
+      ]
+    ]
+  ],
+  "FigureCanvasGTK3Cairo": [
+    [
+      "lib/matplotlib/backends/backend_gtk3cairo.py",
+      [
+        "FigureCanvasGTK3Cairo"
+      ]
+    ]
+  ],
+  "FigureCanvasGTK4": [
+    [
+      "lib/matplotlib/backends/backend_gtk4.py",
+      [
+        "FigureCanvasGTK4"
+      ]
+    ]
+  ],
+  "NavigationToolbar2GTK4": [
+    [
+      "lib/matplotlib/backends/backend_gtk4.py",
+      [
+        "NavigationToolbar2GTK4"
+      ]
+    ]
+  ],
+  "ToolbarGTK4": [
+    [
+      "lib/matplotlib/backends/backend_gtk4.py",
+      [
+        "ToolbarGTK4"
+      ]
+    ]
+  ],
+  "SaveFigureGTK4": [
+    [
+      "lib/matplotlib/backends/backend_gtk4.py",
+      [
+        "SaveFigureGTK4"
+      ]
+    ]
+  ],
+  "HelpGTK4": [
+    [
+      "lib/matplotlib/backends/backend_gtk4.py",
+      [
+        "HelpGTK4"
+      ]
+    ]
+  ],
+  "ToolCopyToClipboardGTK4": [
+    [
+      "lib/matplotlib/backends/backend_gtk4.py",
+      [
+        "ToolCopyToClipboardGTK4"
+      ]
+    ]
+  ],
+  "FigureManagerGTK4": [
+    [
+      "lib/matplotlib/backends/backend_gtk4.py",
+      [
+        "FigureManagerGTK4"
+      ]
+    ]
+  ],
+  "_BackendGTK4": [
+    [
+      "lib/matplotlib/backends/backend_gtk4.py",
+      [
+        "_BackendGTK4"
+      ]
+    ]
+  ],
+  "FigureCanvasGTK4Agg": [
+    [
+      "lib/matplotlib/backends/backend_gtk4agg.py",
+      [
+        "FigureCanvasGTK4Agg"
+      ]
+    ]
+  ],
+  "FigureManagerGTK4Agg": [
+    [
+      "lib/matplotlib/backends/backend_gtk4agg.py",
+      [
+        "FigureManagerGTK4Agg"
+      ]
+    ]
+  ],
+  "_BackendGTK4Agg": [
+    [
+      "lib/matplotlib/backends/backend_gtk4agg.py",
+      [
+        "_BackendGTK4Agg"
+      ]
+    ]
+  ],
+  "FigureCanvasGTK4Cairo": [
+    [
+      "lib/matplotlib/backends/backend_gtk4cairo.py",
+      [
+        "FigureCanvasGTK4Cairo"
+      ]
+    ]
+  ],
+  "_BackendGTK4Cairo": [
+    [
+      "lib/matplotlib/backends/backend_gtk4cairo.py",
+      [
+        "_BackendGTK4Cairo"
+      ]
+    ]
+  ],
+  "TimerMac": [
+    [
+      "lib/matplotlib/backends/backend_macosx.py",
+      [
+        "TimerMac"
+      ]
+    ]
+  ],
+  "FigureCanvasMac": [
+    [
+      "lib/matplotlib/backends/backend_macosx.py",
+      [
+        "FigureCanvasMac"
+      ]
+    ]
+  ],
+  "NavigationToolbar2Mac": [
+    [
+      "lib/matplotlib/backends/backend_macosx.py",
+      [
+        "NavigationToolbar2Mac"
+      ]
+    ]
+  ],
+  "FigureManagerMac": [
+    [
+      "lib/matplotlib/backends/backend_macosx.py",
+      [
+        "FigureManagerMac"
+      ]
+    ]
+  ],
+  "_BackendMac": [
+    [
+      "lib/matplotlib/backends/backend_macosx.py",
+      [
+        "_BackendMac"
+      ]
+    ]
+  ],
+  "MixedModeRenderer": [
+    [
+      "lib/matplotlib/backends/backend_mixed.py",
+      [
+        "MixedModeRenderer"
+      ]
+    ]
+  ],
+  "NavigationIPy": [
+    [
+      "lib/matplotlib/backends/backend_nbagg.py",
+      [
+        "NavigationIPy"
+      ]
+    ]
+  ],
+  "FigureManagerNbAgg": [
+    [
+      "lib/matplotlib/backends/backend_nbagg.py",
+      [
+        "FigureManagerNbAgg"
+      ]
+    ]
+  ],
+  "FigureCanvasNbAgg": [
+    [
+      "lib/matplotlib/backends/backend_nbagg.py",
+      [
+        "FigureCanvasNbAgg"
+      ]
+    ]
+  ],
+  "CommSocket": [
+    [
+      "lib/matplotlib/backends/backend_nbagg.py",
+      [
+        "CommSocket"
+      ]
+    ]
+  ],
+  "_BackendNbAgg": [
+    [
+      "lib/matplotlib/backends/backend_nbagg.py",
+      [
+        "_BackendNbAgg"
+      ]
+    ]
+  ],
+  "Reference": [
+    [
+      "lib/matplotlib/backends/backend_pdf.py",
+      [
+        "Reference"
+      ]
+    ]
+  ],
+  "Name": [
+    [
+      "lib/matplotlib/backends/backend_pdf.py",
+      [
+        "Name"
+      ]
+    ]
+  ],
+  "Operator": [
+    [
+      "lib/matplotlib/backends/backend_pdf.py",
+      [
+        "Operator"
+      ]
+    ]
+  ],
+  "Verbatim": [
+    [
+      "lib/matplotlib/backends/backend_pdf.py",
+      [
+        "Verbatim"
+      ]
+    ]
+  ],
+  "Op": [
+    [
+      "lib/matplotlib/backends/backend_pdf.py",
+      [
+        "Op"
+      ]
+    ]
+  ],
+  "Stream": [
+    [
+      "lib/matplotlib/backends/backend_pdf.py",
+      [
+        "Stream"
+      ]
+    ]
+  ],
+  "PdfFile": [
+    [
+      "lib/matplotlib/backends/backend_pdf.py",
+      [
+        "PdfFile"
+      ]
+    ]
+  ],
+  "RendererPdf": [
+    [
+      "lib/matplotlib/backends/backend_pdf.py",
+      [
+        "RendererPdf"
+      ]
+    ]
+  ],
+  "GraphicsContextPdf": [
+    [
+      "lib/matplotlib/backends/backend_pdf.py",
+      [
+        "GraphicsContextPdf"
+      ]
+    ]
+  ],
+  "PdfPages": [
+    [
+      "lib/matplotlib/backends/backend_pdf.py",
+      [
+        "PdfPages"
+      ]
+    ],
+    [
+      "lib/matplotlib/backends/backend_pgf.py",
+      [
+        "PdfPages"
+      ]
+    ]
+  ],
+  "FigureCanvasPdf": [
+    [
+      "lib/matplotlib/backends/backend_pdf.py",
+      [
+        "FigureCanvasPdf"
+      ]
+    ]
+  ],
+  "_BackendPdf": [
+    [
+      "lib/matplotlib/backends/backend_pdf.py",
+      [
+        "_BackendPdf"
+      ]
+    ]
+  ],
+  "LatexError": [
+    [
+      "lib/matplotlib/backends/backend_pgf.py",
+      [
+        "LatexError"
+      ]
+    ]
+  ],
+  "LatexManager": [
+    [
+      "lib/matplotlib/backends/backend_pgf.py",
+      [
+        "LatexManager"
+      ]
+    ]
+  ],
+  "RendererPgf": [
+    [
+      "lib/matplotlib/backends/backend_pgf.py",
+      [
+        "RendererPgf"
+      ]
+    ]
+  ],
+  "FigureCanvasPgf": [
+    [
+      "lib/matplotlib/backends/backend_pgf.py",
+      [
+        "FigureCanvasPgf"
+      ]
+    ]
+  ],
+  "_BackendPgf": [
+    [
+      "lib/matplotlib/backends/backend_pgf.py",
+      [
+        "_BackendPgf"
+      ]
+    ]
+  ],
+  "PsBackendHelper": [
+    [
+      "lib/matplotlib/backends/backend_ps.py",
+      [
+        "PsBackendHelper"
+      ]
+    ]
+  ],
+  "RendererPS": [
+    [
+      "lib/matplotlib/backends/backend_ps.py",
+      [
+        "RendererPS"
+      ]
+    ]
+  ],
+  "_Orientation": [
+    [
+      "lib/matplotlib/backends/backend_ps.py",
+      [
+        "_Orientation"
+      ]
+    ]
+  ],
+  "FigureCanvasPS": [
+    [
+      "lib/matplotlib/backends/backend_ps.py",
+      [
+        "FigureCanvasPS"
+      ]
+    ]
+  ],
+  "_BackendPS": [
+    [
+      "lib/matplotlib/backends/backend_ps.py",
+      [
+        "_BackendPS"
+      ]
+    ]
+  ],
+  "TimerQT": [
+    [
+      "lib/matplotlib/backends/backend_qt.py",
+      [
+        "TimerQT"
+      ]
+    ]
+  ],
+  "FigureCanvasQT": [
+    [
+      "lib/matplotlib/backends/backend_qt.py",
+      [
+        "FigureCanvasQT"
+      ]
+    ]
+  ],
+  "MainWindow": [
+    [
+      "lib/matplotlib/backends/backend_qt.py",
+      [
+        "MainWindow"
+      ]
+    ]
+  ],
+  "FigureManagerQT": [
+    [
+      "lib/matplotlib/backends/backend_qt.py",
+      [
+        "FigureManagerQT"
+      ]
+    ]
+  ],
+  "NavigationToolbar2QT": [
+    [
+      "lib/matplotlib/backends/backend_qt.py",
+      [
+        "NavigationToolbar2QT"
+      ]
+    ]
+  ],
+  "SubplotToolQt": [
+    [
+      "lib/matplotlib/backends/backend_qt.py",
+      [
+        "SubplotToolQt"
+      ]
+    ]
+  ],
+  "ToolbarQt": [
+    [
+      "lib/matplotlib/backends/backend_qt.py",
+      [
+        "ToolbarQt"
+      ]
+    ]
+  ],
+  "ConfigureSubplotsQt": [
+    [
+      "lib/matplotlib/backends/backend_qt.py",
+      [
+        "ConfigureSubplotsQt"
+      ]
+    ]
+  ],
+  "SaveFigureQt": [
+    [
+      "lib/matplotlib/backends/backend_qt.py",
+      [
+        "SaveFigureQt"
+      ]
+    ]
+  ],
+  "SetCursorQt": [
+    [
+      "lib/matplotlib/backends/backend_qt.py",
+      [
+        "SetCursorQt"
+      ]
+    ]
+  ],
+  "RubberbandQt": [
+    [
+      "lib/matplotlib/backends/backend_qt.py",
+      [
+        "RubberbandQt"
+      ]
+    ]
+  ],
+  "HelpQt": [
+    [
+      "lib/matplotlib/backends/backend_qt.py",
+      [
+        "HelpQt"
+      ]
+    ]
+  ],
+  "ToolCopyToClipboardQT": [
+    [
+      "lib/matplotlib/backends/backend_qt.py",
+      [
+        "ToolCopyToClipboardQT"
+      ]
+    ]
+  ],
+  "_BackendQT": [
+    [
+      "lib/matplotlib/backends/backend_qt.py",
+      [
+        "_BackendQT"
+      ]
+    ]
+  ],
+  "_BackendQT5": [
+    [
+      "lib/matplotlib/backends/backend_qt5.py",
+      [
+        "_BackendQT5"
+      ]
+    ]
+  ],
+  "_BackendQT5Agg": [
+    [
+      "lib/matplotlib/backends/backend_qt5agg.py",
+      [
+        "_BackendQT5Agg"
+      ]
+    ]
+  ],
+  "_BackendQT5Cairo": [
+    [
+      "lib/matplotlib/backends/backend_qt5cairo.py",
+      [
+        "_BackendQT5Cairo"
+      ]
+    ]
+  ],
+  "FigureCanvasQTAgg": [
+    [
+      "lib/matplotlib/backends/backend_qtagg.py",
+      [
+        "FigureCanvasQTAgg"
+      ]
+    ]
+  ],
+  "_BackendQTAgg": [
+    [
+      "lib/matplotlib/backends/backend_qtagg.py",
+      [
+        "_BackendQTAgg"
+      ]
+    ]
+  ],
+  "FigureCanvasQTCairo": [
+    [
+      "lib/matplotlib/backends/backend_qtcairo.py",
+      [
+        "FigureCanvasQTCairo"
+      ]
+    ]
+  ],
+  "_BackendQTCairo": [
+    [
+      "lib/matplotlib/backends/backend_qtcairo.py",
+      [
+        "_BackendQTCairo"
+      ]
+    ]
+  ],
+  "XMLWriter": [
+    [
+      "lib/matplotlib/backends/backend_svg.py",
+      [
+        "XMLWriter"
+      ]
+    ]
+  ],
+  "RendererSVG": [
+    [
+      "lib/matplotlib/backends/backend_svg.py",
+      [
+        "RendererSVG"
+      ]
+    ]
+  ],
+  "FigureCanvasSVG": [
+    [
+      "lib/matplotlib/backends/backend_svg.py",
+      [
+        "FigureCanvasSVG"
+      ]
+    ]
+  ],
+  "_BackendSVG": [
+    [
+      "lib/matplotlib/backends/backend_svg.py",
+      [
+        "_BackendSVG"
+      ]
+    ]
+  ],
+  "RendererTemplate": [
+    [
+      "lib/matplotlib/backends/backend_template.py",
+      [
+        "RendererTemplate"
+      ]
+    ]
+  ],
+  "GraphicsContextTemplate": [
+    [
+      "lib/matplotlib/backends/backend_template.py",
+      [
+        "GraphicsContextTemplate"
+      ]
+    ]
+  ],
+  "FigureManagerTemplate": [
+    [
+      "lib/matplotlib/backends/backend_template.py",
+      [
+        "FigureManagerTemplate"
+      ]
+    ]
+  ],
+  "FigureCanvasTemplate": [
+    [
+      "lib/matplotlib/backends/backend_template.py",
+      [
+        "FigureCanvasTemplate"
+      ]
+    ]
+  ],
+  "FigureCanvasTkAgg": [
+    [
+      "lib/matplotlib/backends/backend_tkagg.py",
+      [
+        "FigureCanvasTkAgg"
+      ]
+    ]
+  ],
+  "_BackendTkAgg": [
+    [
+      "lib/matplotlib/backends/backend_tkagg.py",
+      [
+        "_BackendTkAgg"
+      ]
+    ]
+  ],
+  "FigureCanvasTkCairo": [
+    [
+      "lib/matplotlib/backends/backend_tkcairo.py",
+      [
+        "FigureCanvasTkCairo"
+      ]
+    ]
+  ],
+  "_BackendTkCairo": [
+    [
+      "lib/matplotlib/backends/backend_tkcairo.py",
+      [
+        "_BackendTkCairo"
+      ]
+    ]
+  ],
+  "ServerThread": [
+    [
+      "lib/matplotlib/backends/backend_webagg.py",
+      [
+        "ServerThread"
+      ]
+    ]
+  ],
+  "FigureManagerWebAgg": [
+    [
+      "lib/matplotlib/backends/backend_webagg.py",
+      [
+        "FigureManagerWebAgg"
+      ]
+    ],
+    [
+      "lib/matplotlib/backends/backend_webagg_core.py",
+      [
+        "FigureManagerWebAgg"
+      ]
+    ]
+  ],
+  "FigureCanvasWebAgg": [
+    [
+      "lib/matplotlib/backends/backend_webagg.py",
+      [
+        "FigureCanvasWebAgg"
+      ]
+    ]
+  ],
+  "FavIcon": [
+    [
+      "lib/matplotlib/backends/backend_webagg.py",
+      [
+        "WebAggApplication",
+        "FavIcon"
+      ]
+    ]
+  ],
+  "SingleFigurePage": [
+    [
+      "lib/matplotlib/backends/backend_webagg.py",
+      [
+        "WebAggApplication",
+        "SingleFigurePage"
+      ]
+    ]
+  ],
+  "AllFiguresPage": [
+    [
+      "lib/matplotlib/backends/backend_webagg.py",
+      [
+        "WebAggApplication",
+        "AllFiguresPage"
+      ]
+    ]
+  ],
+  "WebAggApplication": [
+    [
+      "lib/matplotlib/backends/backend_webagg.py",
+      [
+        "WebAggApplication"
+      ]
+    ]
+  ],
+  "_BackendWebAgg": [
+    [
+      "lib/matplotlib/backends/backend_webagg.py",
+      [
+        "_BackendWebAgg"
+      ]
+    ]
+  ],
+  "TimerTornado": [
+    [
+      "lib/matplotlib/backends/backend_webagg_core.py",
+      [
+        "TimerTornado"
+      ]
+    ]
+  ],
+  "TimerAsyncio": [
+    [
+      "lib/matplotlib/backends/backend_webagg_core.py",
+      [
+        "TimerAsyncio"
+      ]
+    ]
+  ],
+  "FigureCanvasWebAggCore": [
+    [
+      "lib/matplotlib/backends/backend_webagg_core.py",
+      [
+        "FigureCanvasWebAggCore"
+      ]
+    ]
+  ],
+  "NavigationToolbar2WebAgg": [
+    [
+      "lib/matplotlib/backends/backend_webagg_core.py",
+      [
+        "NavigationToolbar2WebAgg"
+      ]
+    ]
+  ],
+  "_BackendWebAggCoreAgg": [
+    [
+      "lib/matplotlib/backends/backend_webagg_core.py",
+      [
+        "_BackendWebAggCoreAgg"
+      ]
+    ]
+  ],
+  "TimerWx": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "TimerWx"
+      ]
+    ]
+  ],
+  "RendererWx": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "RendererWx"
+      ]
+    ]
+  ],
+  "GraphicsContextWx": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "GraphicsContextWx"
+      ]
+    ]
+  ],
+  "_FigureCanvasWxBase": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "_FigureCanvasWxBase"
+      ]
+    ]
+  ],
+  "FigureCanvasWx": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "FigureCanvasWx"
+      ]
+    ]
+  ],
+  "FigureFrameWx": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "FigureFrameWx"
+      ]
+    ]
+  ],
+  "FigureManagerWx": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "FigureManagerWx"
+      ]
+    ]
+  ],
+  "NavigationToolbar2Wx": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "NavigationToolbar2Wx"
+      ]
+    ]
+  ],
+  "ToolbarWx": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "ToolbarWx"
+      ]
+    ]
+  ],
+  "ConfigureSubplotsWx": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "ConfigureSubplotsWx"
+      ]
+    ]
+  ],
+  "SaveFigureWx": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "SaveFigureWx"
+      ]
+    ]
+  ],
+  "SetCursorWx": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "SetCursorWx"
+      ]
+    ]
+  ],
+  "RubberbandWx": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "RubberbandWx"
+      ]
+    ]
+  ],
+  "_HelpDialog": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "_HelpDialog"
+      ]
+    ]
+  ],
+  "HelpWx": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "HelpWx"
+      ]
+    ]
+  ],
+  "ToolCopyToClipboardWx": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "ToolCopyToClipboardWx"
+      ]
+    ]
+  ],
+  "_BackendWx": [
+    [
+      "lib/matplotlib/backends/backend_wx.py",
+      [
+        "_BackendWx"
+      ]
+    ]
+  ],
+  "FigureFrameWxAgg": [
+    [
+      "lib/matplotlib/backends/backend_wxagg.py",
+      [
+        "FigureFrameWxAgg"
+      ]
+    ]
+  ],
+  "FigureCanvasWxAgg": [
+    [
+      "lib/matplotlib/backends/backend_wxagg.py",
+      [
+        "FigureCanvasWxAgg"
+      ]
+    ]
+  ],
+  "_BackendWxAgg": [
+    [
+      "lib/matplotlib/backends/backend_wxagg.py",
+      [
+        "_BackendWxAgg"
+      ]
+    ]
+  ],
+  "FigureFrameWxCairo": [
+    [
+      "lib/matplotlib/backends/backend_wxcairo.py",
+      [
+        "FigureFrameWxCairo"
+      ]
+    ]
+  ],
+  "FigureCanvasWxCairo": [
+    [
+      "lib/matplotlib/backends/backend_wxcairo.py",
+      [
+        "FigureCanvasWxCairo"
+      ]
+    ]
+  ],
+  "_BackendWxCairo": [
+    [
+      "lib/matplotlib/backends/backend_wxcairo.py",
+      [
+        "_BackendWxCairo"
+      ]
+    ]
+  ],
+  "ColorButton": [
+    [
+      "lib/matplotlib/backends/qt_editor/_formlayout.py",
+      [
+        "ColorButton"
+      ]
+    ]
+  ],
+  "ColorLayout": [
+    [
+      "lib/matplotlib/backends/qt_editor/_formlayout.py",
+      [
+        "ColorLayout"
+      ]
+    ]
+  ],
+  "FontLayout": [
+    [
+      "lib/matplotlib/backends/qt_editor/_formlayout.py",
+      [
+        "FontLayout"
+      ]
+    ]
+  ],
+  "FormWidget": [
+    [
+      "lib/matplotlib/backends/qt_editor/_formlayout.py",
+      [
+        "FormWidget"
+      ]
+    ]
+  ],
+  "FormComboWidget": [
+    [
+      "lib/matplotlib/backends/qt_editor/_formlayout.py",
+      [
+        "FormComboWidget"
+      ]
+    ]
+  ],
+  "FormTabWidget": [
+    [
+      "lib/matplotlib/backends/qt_editor/_formlayout.py",
+      [
+        "FormTabWidget"
+      ]
+    ]
+  ],
+  "FormDialog": [
+    [
+      "lib/matplotlib/backends/qt_editor/_formlayout.py",
+      [
+        "FormDialog"
+      ]
+    ]
+  ],
+  "NonIntersectingPathException": [
+    [
+      "lib/matplotlib/bezier.py",
+      [
+        "NonIntersectingPathException"
+      ]
+    ]
+  ],
+  "BezierSegment": [
+    [
+      "lib/matplotlib/bezier.py",
+      [
+        "BezierSegment"
+      ]
+    ]
+  ],
+  "BlockingInput": [
+    [
+      "lib/matplotlib/blocking_input.py",
+      [
+        "BlockingInput"
+      ]
+    ]
+  ],
+  "BlockingMouseInput": [
+    [
+      "lib/matplotlib/blocking_input.py",
+      [
+        "BlockingMouseInput"
+      ]
+    ]
+  ],
+  "BlockingContourLabeler": [
+    [
+      "lib/matplotlib/blocking_input.py",
+      [
+        "BlockingContourLabeler"
+      ]
+    ]
+  ],
+  "BlockingKeyMouseInput": [
+    [
+      "lib/matplotlib/blocking_input.py",
+      [
+        "BlockingKeyMouseInput"
+      ]
+    ]
+  ],
+  "StrCategoryConverter": [
+    [
+      "lib/matplotlib/category.py",
+      [
+        "StrCategoryConverter"
+      ]
+    ]
+  ],
+  "StrCategoryLocator": [
+    [
+      "lib/matplotlib/category.py",
+      [
+        "StrCategoryLocator"
+      ]
+    ]
+  ],
+  "StrCategoryFormatter": [
+    [
+      "lib/matplotlib/category.py",
+      [
+        "StrCategoryFormatter"
+      ]
+    ]
+  ],
+  "UnitData": [
+    [
+      "lib/matplotlib/category.py",
+      [
+        "UnitData"
+      ]
+    ]
+  ],
+  "_StrongRef": [
+    [
+      "lib/matplotlib/cbook/__init__.py",
+      [
+        "_StrongRef"
+      ]
+    ]
+  ],
+  "CallbackRegistry": [
+    [
+      "lib/matplotlib/cbook/__init__.py",
+      [
+        "CallbackRegistry"
+      ]
+    ]
+  ],
+  "silent_list": [
+    [
+      "lib/matplotlib/cbook/__init__.py",
+      [
+        "silent_list"
+      ]
+    ]
+  ],
+  "maxdict": [
+    [
+      "lib/matplotlib/cbook/__init__.py",
+      [
+        "maxdict"
+      ]
+    ]
+  ],
+  "Stack": [
+    [
+      "lib/matplotlib/cbook/__init__.py",
+      [
+        "Stack"
+      ]
+    ]
+  ],
+  "Grouper": [
+    [
+      "lib/matplotlib/cbook/__init__.py",
+      [
+        "Grouper"
+      ]
+    ]
+  ],
+  "_GrouperMethodForwarder": [
+    [
+      "lib/matplotlib/cbook/__init__.py",
+      [
+        "GrouperView",
+        "_GrouperMethodForwarder"
+      ]
+    ]
+  ],
+  "GrouperView": [
+    [
+      "lib/matplotlib/cbook/__init__.py",
+      [
+        "GrouperView"
+      ]
+    ]
+  ],
+  "_OrderedSet": [
+    [
+      "lib/matplotlib/cbook/__init__.py",
+      [
+        "_OrderedSet"
+      ]
+    ]
+  ],
+  "ColormapRegistry": [
+    [
+      "lib/matplotlib/cm.py",
+      [
+        "ColormapRegistry"
+      ]
+    ]
+  ],
+  "ScalarMappable": [
+    [
+      "lib/matplotlib/cm.py",
+      [
+        "ScalarMappable"
+      ]
+    ]
+  ],
+  "Collection": [
+    [
+      "lib/matplotlib/collections.py",
+      [
+        "Collection"
+      ]
+    ]
+  ],
+  "_CollectionWithSizes": [
+    [
+      "lib/matplotlib/collections.py",
+      [
+        "_CollectionWithSizes"
+      ]
+    ]
+  ],
+  "PathCollection": [
+    [
+      "lib/matplotlib/collections.py",
+      [
+        "PathCollection"
+      ]
+    ]
+  ],
+  "PolyCollection": [
+    [
+      "lib/matplotlib/collections.py",
+      [
+        "PolyCollection"
+      ]
+    ]
+  ],
+  "BrokenBarHCollection": [
+    [
+      "lib/matplotlib/collections.py",
+      [
+        "BrokenBarHCollection"
+      ]
+    ]
+  ],
+  "RegularPolyCollection": [
+    [
+      "lib/matplotlib/collections.py",
+      [
+        "RegularPolyCollection"
+      ]
+    ]
+  ],
+  "StarPolygonCollection": [
+    [
+      "lib/matplotlib/collections.py",
+      [
+        "StarPolygonCollection"
+      ]
+    ]
+  ],
+  "AsteriskPolygonCollection": [
+    [
+      "lib/matplotlib/collections.py",
+      [
+        "AsteriskPolygonCollection"
+      ]
+    ]
+  ],
+  "LineCollection": [
+    [
+      "lib/matplotlib/collections.py",
+      [
+        "LineCollection"
+      ]
+    ]
+  ],
+  "EventCollection": [
+    [
+      "lib/matplotlib/collections.py",
+      [
+        "EventCollection"
+      ]
+    ]
+  ],
+  "CircleCollection": [
+    [
+      "lib/matplotlib/collections.py",
+      [
+        "CircleCollection"
+      ]
+    ]
+  ],
+  "EllipseCollection": [
+    [
+      "lib/matplotlib/collections.py",
+      [
+        "EllipseCollection"
+      ]
+    ]
+  ],
+  "PatchCollection": [
+    [
+      "lib/matplotlib/collections.py",
+      [
+        "PatchCollection"
+      ]
+    ]
+  ],
+  "TriMesh": [
+    [
+      "lib/matplotlib/collections.py",
+      [
+        "TriMesh"
+      ]
+    ]
+  ],
+  "QuadMesh": [
+    [
+      "lib/matplotlib/collections.py",
+      [
+        "QuadMesh"
+      ]
+    ]
+  ],
+  "_ColorbarSpine": [
+    [
+      "lib/matplotlib/colorbar.py",
+      [
+        "_ColorbarSpine"
+      ]
+    ]
+  ],
+  "_ColorbarAxesLocator": [
+    [
+      "lib/matplotlib/colorbar.py",
+      [
+        "_ColorbarAxesLocator"
+      ]
+    ]
+  ],
+  "Colorbar": [
+    [
+      "lib/matplotlib/colorbar.py",
+      [
+        "Colorbar"
+      ]
+    ]
+  ],
+  "_ColorMapping": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "_ColorMapping"
+      ]
+    ]
+  ],
+  "ColorSequenceRegistry": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "ColorSequenceRegistry"
+      ]
+    ]
+  ],
+  "ColorConverter": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "ColorConverter"
+      ]
+    ]
+  ],
+  "Colormap": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "Colormap"
+      ]
+    ]
+  ],
+  "LinearSegmentedColormap": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "LinearSegmentedColormap"
+      ]
+    ]
+  ],
+  "ListedColormap": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "ListedColormap"
+      ]
+    ]
+  ],
+  "Normalize": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "Normalize"
+      ]
+    ]
+  ],
+  "TwoSlopeNorm": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "TwoSlopeNorm"
+      ]
+    ]
+  ],
+  "CenteredNorm": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "CenteredNorm"
+      ]
+    ]
+  ],
+  "Norm": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "_make_norm_from_scale",
+        "Norm"
+      ]
+    ]
+  ],
+  "FuncNorm": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "FuncNorm"
+      ]
+    ]
+  ],
+  "SymLogNorm": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "SymLogNorm"
+      ]
+    ]
+  ],
+  "AsinhNorm": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "AsinhNorm"
+      ]
+    ]
+  ],
+  "PowerNorm": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "PowerNorm"
+      ]
+    ]
+  ],
+  "BoundaryNorm": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "BoundaryNorm"
+      ]
+    ]
+  ],
+  "NoNorm": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "NoNorm"
+      ]
+    ]
+  ],
+  "LightSource": [
+    [
+      "lib/matplotlib/colors.py",
+      [
+        "LightSource"
+      ]
+    ]
+  ],
+  "Container": [
+    [
+      "lib/matplotlib/container.py",
+      [
+        "Container"
+      ]
+    ]
+  ],
+  "BarContainer": [
+    [
+      "lib/matplotlib/container.py",
+      [
+        "BarContainer"
+      ]
+    ]
+  ],
+  "ErrorbarContainer": [
+    [
+      "lib/matplotlib/container.py",
+      [
+        "ErrorbarContainer"
+      ]
+    ]
+  ],
+  "StemContainer": [
+    [
+      "lib/matplotlib/container.py",
+      [
+        "StemContainer"
+      ]
+    ]
+  ],
+  "ClabelText": [
+    [
+      "lib/matplotlib/contour.py",
+      [
+        "ClabelText"
+      ]
+    ]
+  ],
+  "ContourLabeler": [
+    [
+      "lib/matplotlib/contour.py",
+      [
+        "ContourLabeler"
+      ]
+    ]
+  ],
+  "ContourSet": [
+    [
+      "lib/matplotlib/contour.py",
+      [
+        "ContourSet"
+      ]
+    ]
+  ],
+  "QuadContourSet": [
+    [
+      "lib/matplotlib/contour.py",
+      [
+        "QuadContourSet"
+      ]
+    ]
+  ],
+  "DateFormatter": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "DateFormatter"
+      ]
+    ]
+  ],
+  "ConciseDateFormatter": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "ConciseDateFormatter"
+      ]
+    ]
+  ],
+  "AutoDateFormatter": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "AutoDateFormatter"
+      ]
+    ]
+  ],
+  "rrulewrapper": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "rrulewrapper"
+      ]
+    ]
+  ],
+  "DateLocator": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "DateLocator"
+      ]
+    ]
+  ],
+  "RRuleLocator": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "RRuleLocator"
+      ]
+    ]
+  ],
+  "AutoDateLocator": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "AutoDateLocator"
+      ]
+    ]
+  ],
+  "YearLocator": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "YearLocator"
+      ]
+    ]
+  ],
+  "MonthLocator": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "MonthLocator"
+      ]
+    ]
+  ],
+  "WeekdayLocator": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "WeekdayLocator"
+      ]
+    ]
+  ],
+  "DayLocator": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "DayLocator"
+      ]
+    ]
+  ],
+  "HourLocator": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "HourLocator"
+      ]
+    ]
+  ],
+  "MinuteLocator": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "MinuteLocator"
+      ]
+    ]
+  ],
+  "SecondLocator": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "SecondLocator"
+      ]
+    ]
+  ],
+  "MicrosecondLocator": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "MicrosecondLocator"
+      ]
+    ]
+  ],
+  "DateConverter": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "DateConverter"
+      ]
+    ]
+  ],
+  "ConciseDateConverter": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "ConciseDateConverter"
+      ]
+    ]
+  ],
+  "_SwitchableDateConverter": [
+    [
+      "lib/matplotlib/dates.py",
+      [
+        "_SwitchableDateConverter"
+      ]
+    ]
+  ],
+  "Text": [
+    [
+      "lib/matplotlib/dviread.py",
+      [
+        "Text"
+      ]
+    ],
+    [
+      "lib/matplotlib/text.py",
+      [
+        "Text"
+      ]
+    ]
+  ],
+  "Dvi": [
+    [
+      "lib/matplotlib/dviread.py",
+      [
+        "Dvi"
+      ]
+    ]
+  ],
+  "DviFont": [
+    [
+      "lib/matplotlib/dviread.py",
+      [
+        "DviFont"
+      ]
+    ]
+  ],
+  "Vf": [
+    [
+      "lib/matplotlib/dviread.py",
+      [
+        "Vf"
+      ]
+    ]
+  ],
+  "Tfm": [
+    [
+      "lib/matplotlib/dviread.py",
+      [
+        "Tfm"
+      ]
+    ]
+  ],
+  "PsfontsMap": [
+    [
+      "lib/matplotlib/dviread.py",
+      [
+        "PsfontsMap"
+      ]
+    ]
+  ],
+  "_LuatexKpsewhich": [
+    [
+      "lib/matplotlib/dviread.py",
+      [
+        "_LuatexKpsewhich"
+      ]
+    ]
+  ],
+  "_AxesStack": [
+    [
+      "lib/matplotlib/figure.py",
+      [
+        "_AxesStack"
+      ]
+    ]
+  ],
+  "SubplotParams": [
+    [
+      "lib/matplotlib/figure.py",
+      [
+        "SubplotParams"
+      ]
+    ]
+  ],
+  "FigureBase": [
+    [
+      "lib/matplotlib/figure.py",
+      [
+        "FigureBase"
+      ]
+    ]
+  ],
+  "SubFigure": [
+    [
+      "lib/matplotlib/figure.py",
+      [
+        "SubFigure"
+      ]
+    ]
+  ],
+  "Figure": [
+    [
+      "lib/matplotlib/figure.py",
+      [
+        "Figure"
+      ]
+    ]
+  ],
+  "FontProperties": [
+    [
+      "lib/matplotlib/font_manager.py",
+      [
+        "FontProperties"
+      ]
+    ]
+  ],
+  "_JSONEncoder": [
+    [
+      "lib/matplotlib/font_manager.py",
+      [
+        "_JSONEncoder"
+      ]
+    ]
+  ],
+  "FontManager": [
+    [
+      "lib/matplotlib/font_manager.py",
+      [
+        "FontManager"
+      ]
+    ]
+  ],
+  "GridSpecBase": [
+    [
+      "lib/matplotlib/gridspec.py",
+      [
+        "GridSpecBase"
+      ]
+    ]
+  ],
+  "GridSpec": [
+    [
+      "lib/matplotlib/gridspec.py",
+      [
+        "GridSpec"
+      ]
+    ]
+  ],
+  "GridSpecFromSubplotSpec": [
+    [
+      "lib/matplotlib/gridspec.py",
+      [
+        "GridSpecFromSubplotSpec"
+      ]
+    ]
+  ],
+  "SubplotSpec": [
+    [
+      "lib/matplotlib/gridspec.py",
+      [
+        "SubplotSpec"
+      ]
+    ]
+  ],
+  "HatchPatternBase": [
+    [
+      "lib/matplotlib/hatch.py",
+      [
+        "HatchPatternBase"
+      ]
+    ]
+  ],
+  "HorizontalHatch": [
+    [
+      "lib/matplotlib/hatch.py",
+      [
+        "HorizontalHatch"
+      ]
+    ]
+  ],
+  "VerticalHatch": [
+    [
+      "lib/matplotlib/hatch.py",
+      [
+        "VerticalHatch"
+      ]
+    ]
+  ],
+  "NorthEastHatch": [
+    [
+      "lib/matplotlib/hatch.py",
+      [
+        "NorthEastHatch"
+      ]
+    ]
+  ],
+  "SouthEastHatch": [
+    [
+      "lib/matplotlib/hatch.py",
+      [
+        "SouthEastHatch"
+      ]
+    ]
+  ],
+  "Shapes": [
+    [
+      "lib/matplotlib/hatch.py",
+      [
+        "Shapes"
+      ]
+    ]
+  ],
+  "Circles": [
+    [
+      "lib/matplotlib/hatch.py",
+      [
+        "Circles"
+      ]
+    ]
+  ],
+  "SmallCircles": [
+    [
+      "lib/matplotlib/hatch.py",
+      [
+        "SmallCircles"
+      ]
+    ]
+  ],
+  "LargeCircles": [
+    [
+      "lib/matplotlib/hatch.py",
+      [
+        "LargeCircles"
+      ]
+    ]
+  ],
+  "SmallFilledCircles": [
+    [
+      "lib/matplotlib/hatch.py",
+      [
+        "SmallFilledCircles"
+      ]
+    ]
+  ],
+  "Stars": [
+    [
+      "lib/matplotlib/hatch.py",
+      [
+        "Stars"
+      ]
+    ]
+  ],
+  "_ImageBase": [
+    [
+      "lib/matplotlib/image.py",
+      [
+        "_ImageBase"
+      ]
+    ]
+  ],
+  "AxesImage": [
+    [
+      "lib/matplotlib/image.py",
+      [
+        "AxesImage"
+      ]
+    ]
+  ],
+  "NonUniformImage": [
+    [
+      "lib/matplotlib/image.py",
+      [
+        "NonUniformImage"
+      ]
+    ]
+  ],
+  "PcolorImage": [
+    [
+      "lib/matplotlib/image.py",
+      [
+        "PcolorImage"
+      ]
+    ]
+  ],
+  "FigureImage": [
+    [
+      "lib/matplotlib/image.py",
+      [
+        "FigureImage"
+      ]
+    ]
+  ],
+  "BboxImage": [
+    [
+      "lib/matplotlib/image.py",
+      [
+        "BboxImage"
+      ]
+    ]
+  ],
+  "LayoutEngine": [
+    [
+      "lib/matplotlib/layout_engine.py",
+      [
+        "LayoutEngine"
+      ]
+    ]
+  ],
+  "PlaceHolderLayoutEngine": [
+    [
+      "lib/matplotlib/layout_engine.py",
+      [
+        "PlaceHolderLayoutEngine"
+      ]
+    ]
+  ],
+  "TightLayoutEngine": [
+    [
+      "lib/matplotlib/layout_engine.py",
+      [
+        "TightLayoutEngine"
+      ]
+    ]
+  ],
+  "ConstrainedLayoutEngine": [
+    [
+      "lib/matplotlib/layout_engine.py",
+      [
+        "ConstrainedLayoutEngine"
+      ]
+    ]
+  ],
+  "DraggableLegend": [
+    [
+      "lib/matplotlib/legend.py",
+      [
+        "DraggableLegend"
+      ]
+    ]
+  ],
+  "Legend": [
+    [
+      "lib/matplotlib/legend.py",
+      [
+        "Legend"
+      ]
+    ]
+  ],
+  "HandlerBase": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "HandlerBase"
+      ]
+    ]
+  ],
+  "HandlerNpoints": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "HandlerNpoints"
+      ]
+    ]
+  ],
+  "HandlerNpointsYoffsets": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "HandlerNpointsYoffsets"
+      ]
+    ]
+  ],
+  "HandlerLine2DCompound": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "HandlerLine2DCompound"
+      ]
+    ]
+  ],
+  "_Line2DHandleList": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "_Line2DHandleList"
+      ]
+    ]
+  ],
+  "HandlerLine2D": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "HandlerLine2D"
+      ]
+    ]
+  ],
+  "HandlerPatch": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "HandlerPatch"
+      ]
+    ]
+  ],
+  "HandlerStepPatch": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "HandlerStepPatch"
+      ]
+    ]
+  ],
+  "HandlerLineCollection": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "HandlerLineCollection"
+      ]
+    ]
+  ],
+  "HandlerRegularPolyCollection": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "HandlerRegularPolyCollection"
+      ]
+    ]
+  ],
+  "HandlerPathCollection": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "HandlerPathCollection"
+      ]
+    ]
+  ],
+  "HandlerCircleCollection": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "HandlerCircleCollection"
+      ]
+    ]
+  ],
+  "HandlerErrorbar": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "HandlerErrorbar"
+      ]
+    ]
+  ],
+  "HandlerStem": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "HandlerStem"
+      ]
+    ]
+  ],
+  "HandlerTuple": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "HandlerTuple"
+      ]
+    ]
+  ],
+  "HandlerPolyCollection": [
+    [
+      "lib/matplotlib/legend_handler.py",
+      [
+        "HandlerPolyCollection"
+      ]
+    ]
+  ],
+  "Line2D": [
+    [
+      "lib/matplotlib/lines.py",
+      [
+        "Line2D"
+      ]
+    ]
+  ],
+  "_AxLine": [
+    [
+      "lib/matplotlib/lines.py",
+      [
+        "_AxLine"
+      ]
+    ]
+  ],
+  "VertexSelector": [
+    [
+      "lib/matplotlib/lines.py",
+      [
+        "VertexSelector"
+      ]
+    ]
+  ],
+  "MarkerStyle": [
+    [
+      "lib/matplotlib/markers.py",
+      [
+        "MarkerStyle"
+      ]
+    ]
+  ],
+  "MathtextBackend": [
+    [
+      "lib/matplotlib/mathtext.py",
+      [
+        "MathtextBackend"
+      ]
+    ]
+  ],
+  "MathtextBackendAgg": [
+    [
+      "lib/matplotlib/mathtext.py",
+      [
+        "MathtextBackendAgg"
+      ]
+    ]
+  ],
+  "MathtextBackendPath": [
+    [
+      "lib/matplotlib/mathtext.py",
+      [
+        "MathtextBackendPath"
+      ]
+    ]
+  ],
+  "MathTextWarning": [
+    [
+      "lib/matplotlib/mathtext.py",
+      [
+        "MathTextWarning"
+      ]
+    ]
+  ],
+  "MathTextParser": [
+    [
+      "lib/matplotlib/mathtext.py",
+      [
+        "MathTextParser"
+      ]
+    ]
+  ],
+  "GaussianKDE": [
+    [
+      "lib/matplotlib/mlab.py",
+      [
+        "GaussianKDE"
+      ]
+    ]
+  ],
+  "OffsetBox": [
+    [
+      "lib/matplotlib/offsetbox.py",
+      [
+        "OffsetBox"
+      ]
+    ]
+  ],
+  "PackerBase": [
+    [
+      "lib/matplotlib/offsetbox.py",
+      [
+        "PackerBase"
+      ]
+    ]
+  ],
+  "VPacker": [
+    [
+      "lib/matplotlib/offsetbox.py",
+      [
+        "VPacker"
+      ]
+    ]
+  ],
+  "HPacker": [
+    [
+      "lib/matplotlib/offsetbox.py",
+      [
+        "HPacker"
+      ]
+    ]
+  ],
+  "PaddedBox": [
+    [
+      "lib/matplotlib/offsetbox.py",
+      [
+        "PaddedBox"
+      ]
+    ]
+  ],
+  "DrawingArea": [
+    [
+      "lib/matplotlib/offsetbox.py",
+      [
+        "DrawingArea"
+      ]
+    ]
+  ],
+  "TextArea": [
+    [
+      "lib/matplotlib/offsetbox.py",
+      [
+        "TextArea"
+      ]
+    ]
+  ],
+  "AuxTransformBox": [
+    [
+      "lib/matplotlib/offsetbox.py",
+      [
+        "AuxTransformBox"
+      ]
+    ]
+  ],
+  "AnchoredOffsetbox": [
+    [
+      "lib/matplotlib/offsetbox.py",
+      [
+        "AnchoredOffsetbox"
+      ]
+    ]
+  ],
+  "AnchoredText": [
+    [
+      "lib/matplotlib/offsetbox.py",
+      [
+        "AnchoredText"
+      ]
+    ]
+  ],
+  "OffsetImage": [
+    [
+      "lib/matplotlib/offsetbox.py",
+      [
+        "OffsetImage"
+      ]
+    ]
+  ],
+  "AnnotationBbox": [
+    [
+      "lib/matplotlib/offsetbox.py",
+      [
+        "AnnotationBbox"
+      ]
+    ]
+  ],
+  "DraggableBase": [
+    [
+      "lib/matplotlib/offsetbox.py",
+      [
+        "DraggableBase"
+      ]
+    ]
+  ],
+  "DraggableOffsetBox": [
+    [
+      "lib/matplotlib/offsetbox.py",
+      [
+        "DraggableOffsetBox"
+      ]
+    ]
+  ],
+  "DraggableAnnotation": [
+    [
+      "lib/matplotlib/offsetbox.py",
+      [
+        "DraggableAnnotation"
+      ]
+    ]
+  ],
+  "Patch": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "Patch"
+      ]
+    ]
+  ],
+  "Shadow": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "Shadow"
+      ]
+    ]
+  ],
+  "Rectangle": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "Rectangle"
+      ]
+    ]
+  ],
+  "RegularPolygon": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "RegularPolygon"
+      ]
+    ]
+  ],
+  "PathPatch": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "PathPatch"
+      ]
+    ]
+  ],
+  "StepPatch": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "StepPatch"
+      ]
+    ]
+  ],
+  "Polygon": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "Polygon"
+      ]
+    ]
+  ],
+  "Wedge": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "Wedge"
+      ]
+    ],
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "Wedge"
+      ]
+    ]
+  ],
+  "Arrow": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "Arrow"
+      ]
+    ]
+  ],
+  "FancyArrow": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "FancyArrow"
+      ]
+    ]
+  ],
+  "CirclePolygon": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "CirclePolygon"
+      ]
+    ]
+  ],
+  "Ellipse": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "Ellipse"
+      ]
+    ]
+  ],
+  "Annulus": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "Annulus"
+      ]
+    ]
+  ],
+  "Circle": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "Circle"
+      ]
+    ],
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "BoxStyle",
+        "Circle"
+      ]
+    ]
+  ],
+  "Arc": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "Arc"
+      ]
+    ],
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ConnectionStyle",
+        "Arc"
+      ]
+    ]
+  ],
+  "_Style": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "_Style"
+      ]
+    ]
+  ],
+  "Square": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "BoxStyle",
+        "Square"
+      ]
+    ]
+  ],
+  "LArrow": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "BoxStyle",
+        "LArrow"
+      ]
+    ]
+  ],
+  "RArrow": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "BoxStyle",
+        "RArrow"
+      ]
+    ]
+  ],
+  "DArrow": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "BoxStyle",
+        "DArrow"
+      ]
+    ]
+  ],
+  "Round": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "BoxStyle",
+        "Round"
+      ]
+    ]
+  ],
+  "Round4": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "BoxStyle",
+        "Round4"
+      ]
+    ]
+  ],
+  "Sawtooth": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "BoxStyle",
+        "Sawtooth"
+      ]
+    ]
+  ],
+  "Roundtooth": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "BoxStyle",
+        "Roundtooth"
+      ]
+    ]
+  ],
+  "BoxStyle": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "BoxStyle"
+      ]
+    ]
+  ],
+  "SimpleEvent": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ConnectionStyle",
+        "_Base",
+        "SimpleEvent"
+      ]
+    ]
+  ],
+  "_Base": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ConnectionStyle",
+        "_Base"
+      ]
+    ],
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "_Base"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_size.py",
+      [
+        "_Base"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/axisline_style.py",
+      [
+        "AxislineStyle",
+        "_Base"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/axislines.py",
+      [
+        "AxisArtistHelper",
+        "_Base"
+      ]
+    ]
+  ],
+  "Arc3": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ConnectionStyle",
+        "Arc3"
+      ]
+    ]
+  ],
+  "Angle3": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ConnectionStyle",
+        "Angle3"
+      ]
+    ]
+  ],
+  "Angle": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ConnectionStyle",
+        "Angle"
+      ]
+    ]
+  ],
+  "Bar": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ConnectionStyle",
+        "Bar"
+      ]
+    ]
+  ],
+  "ConnectionStyle": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ConnectionStyle"
+      ]
+    ]
+  ],
+  "_Curve": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "_Curve"
+      ]
+    ]
+  ],
+  "Curve": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "Curve"
+      ]
+    ]
+  ],
+  "CurveA": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "CurveA"
+      ]
+    ]
+  ],
+  "CurveB": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "CurveB"
+      ]
+    ]
+  ],
+  "CurveAB": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "CurveAB"
+      ]
+    ]
+  ],
+  "CurveFilledA": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "CurveFilledA"
+      ]
+    ]
+  ],
+  "CurveFilledB": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "CurveFilledB"
+      ]
+    ]
+  ],
+  "CurveFilledAB": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "CurveFilledAB"
+      ]
+    ]
+  ],
+  "BracketA": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "BracketA"
+      ]
+    ]
+  ],
+  "BracketB": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "BracketB"
+      ]
+    ]
+  ],
+  "BracketAB": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "BracketAB"
+      ]
+    ]
+  ],
+  "BarAB": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "BarAB"
+      ]
+    ]
+  ],
+  "BracketCurve": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "BracketCurve"
+      ]
+    ]
+  ],
+  "CurveBracket": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "CurveBracket"
+      ]
+    ]
+  ],
+  "Simple": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "Simple"
+      ]
+    ]
+  ],
+  "Fancy": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle",
+        "Fancy"
+      ]
+    ]
+  ],
+  "ArrowStyle": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ArrowStyle"
+      ]
+    ]
+  ],
+  "FancyBboxPatch": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "FancyBboxPatch"
+      ]
+    ]
+  ],
+  "FancyArrowPatch": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "FancyArrowPatch"
+      ]
+    ]
+  ],
+  "ConnectionPatch": [
+    [
+      "lib/matplotlib/patches.py",
+      [
+        "ConnectionPatch"
+      ]
+    ]
+  ],
+  "Path": [
+    [
+      "lib/matplotlib/path.py",
+      [
+        "Path"
+      ]
+    ]
+  ],
+  "AbstractPathEffect": [
+    [
+      "lib/matplotlib/patheffects.py",
+      [
+        "AbstractPathEffect"
+      ]
+    ]
+  ],
+  "PathEffectRenderer": [
+    [
+      "lib/matplotlib/patheffects.py",
+      [
+        "PathEffectRenderer"
+      ]
+    ]
+  ],
+  "Normal": [
+    [
+      "lib/matplotlib/patheffects.py",
+      [
+        "Normal"
+      ]
+    ]
+  ],
+  "withEffect": [
+    [
+      "lib/matplotlib/patheffects.py",
+      [
+        "_subclass_with_normal",
+        "withEffect"
+      ]
+    ]
+  ],
+  "Stroke": [
+    [
+      "lib/matplotlib/patheffects.py",
+      [
+        "Stroke"
+      ]
+    ]
+  ],
+  "SimplePatchShadow": [
+    [
+      "lib/matplotlib/patheffects.py",
+      [
+        "SimplePatchShadow"
+      ]
+    ]
+  ],
+  "SimpleLineShadow": [
+    [
+      "lib/matplotlib/patheffects.py",
+      [
+        "SimpleLineShadow"
+      ]
+    ]
+  ],
+  "PathPatchEffect": [
+    [
+      "lib/matplotlib/patheffects.py",
+      [
+        "PathPatchEffect"
+      ]
+    ]
+  ],
+  "TickedStroke": [
+    [
+      "lib/matplotlib/patheffects.py",
+      [
+        "TickedStroke"
+      ]
+    ]
+  ],
+  "ProjectionRegistry": [
+    [
+      "lib/matplotlib/projections/__init__.py",
+      [
+        "ProjectionRegistry"
+      ]
+    ]
+  ],
+  "_GeoTransform": [
+    [
+      "lib/matplotlib/projections/geo.py",
+      [
+        "_GeoTransform"
+      ]
+    ]
+  ],
+  "AitoffTransform": [
+    [
+      "lib/matplotlib/projections/geo.py",
+      [
+        "AitoffAxes",
+        "AitoffTransform"
+      ]
+    ]
+  ],
+  "InvertedAitoffTransform": [
+    [
+      "lib/matplotlib/projections/geo.py",
+      [
+        "AitoffAxes",
+        "InvertedAitoffTransform"
+      ]
+    ]
+  ],
+  "AitoffAxes": [
+    [
+      "lib/matplotlib/projections/geo.py",
+      [
+        "AitoffAxes"
+      ]
+    ]
+  ],
+  "MollweideTransform": [
+    [
+      "lib/matplotlib/projections/geo.py",
+      [
+        "MollweideAxes",
+        "MollweideTransform"
+      ]
+    ]
+  ],
+  "InvertedMollweideTransform": [
+    [
+      "lib/matplotlib/projections/geo.py",
+      [
+        "MollweideAxes",
+        "InvertedMollweideTransform"
+      ]
+    ]
+  ],
+  "MollweideAxes": [
+    [
+      "lib/matplotlib/projections/geo.py",
+      [
+        "MollweideAxes"
+      ]
+    ]
+  ],
+  "LambertTransform": [
+    [
+      "lib/matplotlib/projections/geo.py",
+      [
+        "LambertAxes",
+        "LambertTransform"
+      ]
+    ]
+  ],
+  "InvertedLambertTransform": [
+    [
+      "lib/matplotlib/projections/geo.py",
+      [
+        "LambertAxes",
+        "InvertedLambertTransform"
+      ]
+    ]
+  ],
+  "LambertAxes": [
+    [
+      "lib/matplotlib/projections/geo.py",
+      [
+        "LambertAxes"
+      ]
+    ]
+  ],
+  "PolarTransform": [
+    [
+      "lib/matplotlib/projections/polar.py",
+      [
+        "PolarTransform"
+      ]
+    ]
+  ],
+  "PolarAffine": [
+    [
+      "lib/matplotlib/projections/polar.py",
+      [
+        "PolarAffine"
+      ]
+    ]
+  ],
+  "InvertedPolarTransform": [
+    [
+      "lib/matplotlib/projections/polar.py",
+      [
+        "InvertedPolarTransform"
+      ]
+    ]
+  ],
+  "_AxisWrapper": [
+    [
+      "lib/matplotlib/projections/polar.py",
+      [
+        "_AxisWrapper"
+      ]
+    ]
+  ],
+  "ThetaLocator": [
+    [
+      "lib/matplotlib/projections/polar.py",
+      [
+        "ThetaLocator"
+      ]
+    ]
+  ],
+  "ThetaTick": [
+    [
+      "lib/matplotlib/projections/polar.py",
+      [
+        "ThetaTick"
+      ]
+    ]
+  ],
+  "ThetaAxis": [
+    [
+      "lib/matplotlib/projections/polar.py",
+      [
+        "ThetaAxis"
+      ]
+    ]
+  ],
+  "RadialLocator": [
+    [
+      "lib/matplotlib/projections/polar.py",
+      [
+        "RadialLocator"
+      ]
+    ]
+  ],
+  "_ThetaShift": [
+    [
+      "lib/matplotlib/projections/polar.py",
+      [
+        "_ThetaShift"
+      ]
+    ]
+  ],
+  "RadialTick": [
+    [
+      "lib/matplotlib/projections/polar.py",
+      [
+        "RadialTick"
+      ]
+    ]
+  ],
+  "RadialAxis": [
+    [
+      "lib/matplotlib/projections/polar.py",
+      [
+        "RadialAxis"
+      ]
+    ]
+  ],
+  "_WedgeBbox": [
+    [
+      "lib/matplotlib/projections/polar.py",
+      [
+        "_WedgeBbox"
+      ]
+    ]
+  ],
+  "PolarAxes": [
+    [
+      "lib/matplotlib/projections/polar.py",
+      [
+        "PolarAxes"
+      ]
+    ]
+  ],
+  "backend_mod": [
+    [
+      "lib/matplotlib/pyplot.py",
+      [
+        "switch_backend",
+        "backend_mod"
+      ]
+    ]
+  ],
+  "QuiverKey": [
+    [
+      "lib/matplotlib/quiver.py",
+      [
+        "QuiverKey"
+      ]
+    ]
+  ],
+  "Quiver": [
+    [
+      "lib/matplotlib/quiver.py",
+      [
+        "Quiver"
+      ]
+    ]
+  ],
+  "Barbs": [
+    [
+      "lib/matplotlib/quiver.py",
+      [
+        "Barbs"
+      ]
+    ]
+  ],
+  "ValidateInStrings": [
+    [
+      "lib/matplotlib/rcsetup.py",
+      [
+        "ValidateInStrings"
+      ]
+    ]
+  ],
+  "_DunderChecker": [
+    [
+      "lib/matplotlib/rcsetup.py",
+      [
+        "_DunderChecker"
+      ]
+    ]
+  ],
+  "_ignorecase": [
+    [
+      "lib/matplotlib/rcsetup.py",
+      [
+        "_ignorecase"
+      ]
+    ]
+  ],
+  "Sankey": [
+    [
+      "lib/matplotlib/sankey.py",
+      [
+        "Sankey"
+      ]
+    ]
+  ],
+  "ScaleBase": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "ScaleBase"
+      ]
+    ]
+  ],
+  "LinearScale": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "LinearScale"
+      ]
+    ]
+  ],
+  "FuncTransform": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "FuncTransform"
+      ]
+    ]
+  ],
+  "FuncScale": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "FuncScale"
+      ]
+    ]
+  ],
+  "LogTransform": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "LogTransform"
+      ]
+    ]
+  ],
+  "InvertedLogTransform": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "InvertedLogTransform"
+      ]
+    ]
+  ],
+  "LogScale": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "LogScale"
+      ]
+    ]
+  ],
+  "FuncScaleLog": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "FuncScaleLog"
+      ]
+    ]
+  ],
+  "SymmetricalLogTransform": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "SymmetricalLogTransform"
+      ]
+    ]
+  ],
+  "InvertedSymmetricalLogTransform": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "InvertedSymmetricalLogTransform"
+      ]
+    ]
+  ],
+  "SymmetricalLogScale": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "SymmetricalLogScale"
+      ]
+    ]
+  ],
+  "AsinhTransform": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "AsinhTransform"
+      ]
+    ]
+  ],
+  "InvertedAsinhTransform": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "InvertedAsinhTransform"
+      ]
+    ]
+  ],
+  "AsinhScale": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "AsinhScale"
+      ]
+    ]
+  ],
+  "LogitTransform": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "LogitTransform"
+      ]
+    ]
+  ],
+  "LogisticTransform": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "LogisticTransform"
+      ]
+    ]
+  ],
+  "LogitScale": [
+    [
+      "lib/matplotlib/scale.py",
+      [
+        "LogitScale"
+      ]
+    ]
+  ],
+  "latex_math": [
+    [
+      "lib/matplotlib/sphinxext/mathmpl.py",
+      [
+        "latex_math"
+      ]
+    ]
+  ],
+  "MathDirective": [
+    [
+      "lib/matplotlib/sphinxext/mathmpl.py",
+      [
+        "MathDirective"
+      ]
+    ]
+  ],
+  "PlotDirective": [
+    [
+      "lib/matplotlib/sphinxext/plot_directive.py",
+      [
+        "PlotDirective"
+      ]
+    ]
+  ],
+  "ImageFile": [
+    [
+      "lib/matplotlib/sphinxext/plot_directive.py",
+      [
+        "ImageFile"
+      ]
+    ]
+  ],
+  "PlotError": [
+    [
+      "lib/matplotlib/sphinxext/plot_directive.py",
+      [
+        "PlotError"
+      ]
+    ]
+  ],
+  "Spine": [
+    [
+      "lib/matplotlib/spines.py",
+      [
+        "Spine"
+      ]
+    ]
+  ],
+  "SpinesProxy": [
+    [
+      "lib/matplotlib/spines.py",
+      [
+        "SpinesProxy"
+      ]
+    ]
+  ],
+  "Spines": [
+    [
+      "lib/matplotlib/spines.py",
+      [
+        "Spines"
+      ]
+    ]
+  ],
+  "StreamplotSet": [
+    [
+      "lib/matplotlib/streamplot.py",
+      [
+        "StreamplotSet"
+      ]
+    ]
+  ],
+  "DomainMap": [
+    [
+      "lib/matplotlib/streamplot.py",
+      [
+        "DomainMap"
+      ]
+    ]
+  ],
+  "Grid": [
+    [
+      "lib/matplotlib/streamplot.py",
+      [
+        "Grid"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_grid.py",
+      [
+        "Grid"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/axes_grid.py",
+      [
+        "Grid"
+      ]
+    ]
+  ],
+  "StreamMask": [
+    [
+      "lib/matplotlib/streamplot.py",
+      [
+        "StreamMask"
+      ]
+    ]
+  ],
+  "InvalidIndexError": [
+    [
+      "lib/matplotlib/streamplot.py",
+      [
+        "InvalidIndexError"
+      ]
+    ]
+  ],
+  "TerminateTrajectory": [
+    [
+      "lib/matplotlib/streamplot.py",
+      [
+        "TerminateTrajectory"
+      ]
+    ]
+  ],
+  "OutOfBounds": [
+    [
+      "lib/matplotlib/streamplot.py",
+      [
+        "OutOfBounds"
+      ]
+    ]
+  ],
+  "Cell": [
+    [
+      "lib/matplotlib/table.py",
+      [
+        "Cell"
+      ]
+    ]
+  ],
+  "Table": [
+    [
+      "lib/matplotlib/table.py",
+      [
+        "Table"
+      ]
+    ]
+  ],
+  "_ConverterError": [
+    [
+      "lib/matplotlib/testing/compare.py",
+      [
+        "_ConverterError"
+      ]
+    ]
+  ],
+  "_Converter": [
+    [
+      "lib/matplotlib/testing/compare.py",
+      [
+        "_Converter"
+      ]
+    ]
+  ],
+  "_GSConverter": [
+    [
+      "lib/matplotlib/testing/compare.py",
+      [
+        "_GSConverter"
+      ]
+    ]
+  ],
+  "_SVGConverter": [
+    [
+      "lib/matplotlib/testing/compare.py",
+      [
+        "_SVGConverter"
+      ]
+    ]
+  ],
+  "_SVGWithMatplotlibFontsConverter": [
+    [
+      "lib/matplotlib/testing/compare.py",
+      [
+        "_SVGWithMatplotlibFontsConverter"
+      ]
+    ]
+  ],
+  "CleanupTestCase": [
+    [
+      "lib/matplotlib/testing/decorators.py",
+      [
+        "CleanupTestCase"
+      ]
+    ]
+  ],
+  "_ImageComparisonBase": [
+    [
+      "lib/matplotlib/testing/decorators.py",
+      [
+        "_ImageComparisonBase"
+      ]
+    ]
+  ],
+  "ImageComparisonFailure": [
+    [
+      "lib/matplotlib/testing/exceptions.py",
+      [
+        "ImageComparisonFailure"
+      ]
+    ]
+  ],
+  "Duration": [
+    [
+      "lib/matplotlib/testing/jpl_units/Duration.py",
+      [
+        "Duration"
+      ]
+    ]
+  ],
+  "Epoch": [
+    [
+      "lib/matplotlib/testing/jpl_units/Epoch.py",
+      [
+        "Epoch"
+      ]
+    ]
+  ],
+  "EpochConverter": [
+    [
+      "lib/matplotlib/testing/jpl_units/EpochConverter.py",
+      [
+        "EpochConverter"
+      ]
+    ]
+  ],
+  "StrConverter": [
+    [
+      "lib/matplotlib/testing/jpl_units/StrConverter.py",
+      [
+        "StrConverter"
+      ]
+    ]
+  ],
+  "UnitDbl": [
+    [
+      "lib/matplotlib/testing/jpl_units/UnitDbl.py",
+      [
+        "UnitDbl"
+      ]
+    ]
+  ],
+  "UnitDblConverter": [
+    [
+      "lib/matplotlib/testing/jpl_units/UnitDblConverter.py",
+      [
+        "UnitDblConverter"
+      ]
+    ]
+  ],
+  "UnitDblFormatter": [
+    [
+      "lib/matplotlib/testing/jpl_units/UnitDblFormatter.py",
+      [
+        "UnitDblFormatter"
+      ]
+    ]
+  ],
+  "NullMovieWriter": [
+    [
+      "lib/matplotlib/tests/test_animation.py",
+      [
+        "NullMovieWriter"
+      ]
+    ]
+  ],
+  "RegisteredNullMovieWriter": [
+    [
+      "lib/matplotlib/tests/test_animation.py",
+      [
+        "RegisteredNullMovieWriter"
+      ]
+    ]
+  ],
+  "Frame": [
+    [
+      "lib/matplotlib/tests/test_animation.py",
+      [
+        "test_funcanimation_cache_frame_data",
+        "Frame"
+      ]
+    ]
+  ],
+  "SubClaAxes": [
+    [
+      "lib/matplotlib/tests/test_axes.py",
+      [
+        "test_subclass_clear_cla",
+        "SubClaAxes"
+      ]
+    ]
+  ],
+  "ClearAxes": [
+    [
+      "lib/matplotlib/tests/test_axes.py",
+      [
+        "test_subclass_clear_cla",
+        "ClearAxes"
+      ]
+    ]
+  ],
+  "ClearSuperAxes": [
+    [
+      "lib/matplotlib/tests/test_axes.py",
+      [
+        "test_subclass_clear_cla",
+        "ClearSuperAxes"
+      ]
+    ]
+  ],
+  "SubClearAxes": [
+    [
+      "lib/matplotlib/tests/test_axes.py",
+      [
+        "test_subclass_clear_cla",
+        "SubClearAxes"
+      ]
+    ]
+  ],
+  "TestScatter": [
+    [
+      "lib/matplotlib/tests/test_axes.py",
+      [
+        "TestScatter"
+      ]
+    ]
+  ],
+  "WaitForStringPopen": [
+    [
+      "lib/matplotlib/tests/test_backend_qt.py",
+      [
+        "WaitForStringPopen"
+      ]
+    ]
+  ],
+  "_Event": [
+    [
+      "lib/matplotlib/tests/test_backend_qt.py",
+      [
+        "test_correct_key",
+        "_Event"
+      ]
+    ]
+  ],
+  "TestUnitData": [
+    [
+      "lib/matplotlib/tests/test_category.py",
+      [
+        "TestUnitData"
+      ]
+    ]
+  ],
+  "FakeAxis": [
+    [
+      "lib/matplotlib/tests/test_category.py",
+      [
+        "FakeAxis"
+      ]
+    ],
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "FakeAxis"
+      ]
+    ]
+  ],
+  "TestStrCategoryConverter": [
+    [
+      "lib/matplotlib/tests/test_category.py",
+      [
+        "TestStrCategoryConverter"
+      ]
+    ]
+  ],
+  "TestStrCategoryLocator": [
+    [
+      "lib/matplotlib/tests/test_category.py",
+      [
+        "TestStrCategoryLocator"
+      ]
+    ]
+  ],
+  "TestStrCategoryFormatter": [
+    [
+      "lib/matplotlib/tests/test_category.py",
+      [
+        "TestStrCategoryFormatter"
+      ]
+    ]
+  ],
+  "TestPlotBytes": [
+    [
+      "lib/matplotlib/tests/test_category.py",
+      [
+        "TestPlotBytes"
+      ]
+    ]
+  ],
+  "TestPlotNumlike": [
+    [
+      "lib/matplotlib/tests/test_category.py",
+      [
+        "TestPlotNumlike"
+      ]
+    ]
+  ],
+  "TestPlotTypes": [
+    [
+      "lib/matplotlib/tests/test_category.py",
+      [
+        "TestPlotTypes"
+      ]
+    ],
+    [
+      "lib/matplotlib/tests/test_preprocess_data.py",
+      [
+        "TestPlotTypes"
+      ]
+    ]
+  ],
+  "Test_delete_masked_points": [
+    [
+      "lib/matplotlib/tests/test_cbook.py",
+      [
+        "Test_delete_masked_points"
+      ]
+    ]
+  ],
+  "Test_boxplot_stats": [
+    [
+      "lib/matplotlib/tests/test_cbook.py",
+      [
+        "Test_boxplot_stats"
+      ]
+    ]
+  ],
+  "Test_callback_registry": [
+    [
+      "lib/matplotlib/tests/test_cbook.py",
+      [
+        "Test_callback_registry"
+      ]
+    ]
+  ],
+  "TestException": [
+    [
+      "lib/matplotlib/tests/test_cbook.py",
+      [
+        "raising_cb_reg",
+        "TestException"
+      ]
+    ]
+  ],
+  "Dummy": [
+    [
+      "lib/matplotlib/tests/test_cbook.py",
+      [
+        "test_reshape2d",
+        "Dummy"
+      ]
+    ]
+  ],
+  "ArraySubclass": [
+    [
+      "lib/matplotlib/tests/test_cbook.py",
+      [
+        "test_reshape2d",
+        "ArraySubclass"
+      ]
+    ]
+  ],
+  "A": [
+    [
+      "lib/matplotlib/tests/test_cbook.py",
+      [
+        "test_setattr_cm",
+        "A"
+      ]
+    ]
+  ],
+  "B": [
+    [
+      "lib/matplotlib/tests/test_cbook.py",
+      [
+        "test_setattr_cm",
+        "B"
+      ]
+    ]
+  ],
+  "SquareCollection": [
+    [
+      "lib/matplotlib/tests/test_collections.py",
+      [
+        "test_regularpolycollection_scale",
+        "SquareCollection"
+      ]
+    ]
+  ],
+  "TestAsinhNorm": [
+    [
+      "lib/matplotlib/tests/test_colors.py",
+      [
+        "TestAsinhNorm"
+      ]
+    ]
+  ],
+  "dt_tzaware": [
+    [
+      "lib/matplotlib/tests/test_dates.py",
+      [
+        "test_date2num_dst",
+        "dt_tzaware"
+      ]
+    ]
+  ],
+  "MyAxes": [
+    [
+      "lib/matplotlib/tests/test_figure.py",
+      [
+        "test_iterability_axes_argument",
+        "MyAxes"
+      ]
+    ]
+  ],
+  "MyClass": [
+    [
+      "lib/matplotlib/tests/test_figure.py",
+      [
+        "test_iterability_axes_argument",
+        "MyClass"
+      ]
+    ]
+  ],
+  "TestSubplotMosaic": [
+    [
+      "lib/matplotlib/tests/test_figure.py",
+      [
+        "TestSubplotMosaic"
+      ]
+    ]
+  ],
+  "QuantityND": [
+    [
+      "lib/matplotlib/tests/test_image.py",
+      [
+        "QuantityND"
+      ]
+    ]
+  ],
+  "TestLegendFunction": [
+    [
+      "lib/matplotlib/tests/test_legend.py",
+      [
+        "TestLegendFunction"
+      ]
+    ]
+  ],
+  "TestLegendFigureFunction": [
+    [
+      "lib/matplotlib/tests/test_legend.py",
+      [
+        "TestLegendFigureFunction"
+      ]
+    ]
+  ],
+  "UnsnappedMarkerStyle": [
+    [
+      "lib/matplotlib/tests/test_marker.py",
+      [
+        "UnsnappedMarkerStyle"
+      ]
+    ]
+  ],
+  "TestStride": [
+    [
+      "lib/matplotlib/tests/test_mlab.py",
+      [
+        "TestStride"
+      ]
+    ]
+  ],
+  "TestDetrend": [
+    [
+      "lib/matplotlib/tests/test_mlab.py",
+      [
+        "TestDetrend"
+      ]
+    ]
+  ],
+  "TestSpectral": [
+    [
+      "lib/matplotlib/tests/test_mlab.py",
+      [
+        "TestSpectral"
+      ]
+    ]
+  ],
+  "TestGaussianKDE": [
+    [
+      "lib/matplotlib/tests/test_mlab.py",
+      [
+        "TestGaussianKDE"
+      ]
+    ]
+  ],
+  "TestGaussianKDECustom": [
+    [
+      "lib/matplotlib/tests/test_mlab.py",
+      [
+        "TestGaussianKDECustom"
+      ]
+    ]
+  ],
+  "TestGaussianKDEEvaluate": [
+    [
+      "lib/matplotlib/tests/test_mlab.py",
+      [
+        "TestGaussianKDEEvaluate"
+      ]
+    ]
+  ],
+  "TransformBlob": [
+    [
+      "lib/matplotlib/tests/test_pickle.py",
+      [
+        "TransformBlob"
+      ]
+    ]
+  ],
+  "TestAsinhScale": [
+    [
+      "lib/matplotlib/tests/test_scale.py",
+      [
+        "TestAsinhScale"
+      ]
+    ]
+  ],
+  "SpineMock": [
+    [
+      "lib/matplotlib/tests/test_spines.py",
+      [
+        "test_spine_class",
+        "SpineMock"
+      ]
+    ]
+  ],
+  "TestMaxNLocator": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestMaxNLocator"
+      ]
+    ]
+  ],
+  "TestLinearLocator": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestLinearLocator"
+      ]
+    ]
+  ],
+  "TestMultipleLocator": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestMultipleLocator"
+      ]
+    ]
+  ],
+  "TestAutoMinorLocator": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestAutoMinorLocator"
+      ]
+    ]
+  ],
+  "TestLogLocator": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestLogLocator"
+      ]
+    ]
+  ],
+  "TestNullLocator": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestNullLocator"
+      ]
+    ]
+  ],
+  "_LogitHelper": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "_LogitHelper"
+      ]
+    ]
+  ],
+  "TestLogitLocator": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestLogitLocator"
+      ]
+    ]
+  ],
+  "TestFixedLocator": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestFixedLocator"
+      ]
+    ]
+  ],
+  "TestIndexLocator": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestIndexLocator"
+      ]
+    ]
+  ],
+  "TestSymmetricalLogLocator": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestSymmetricalLogLocator"
+      ]
+    ]
+  ],
+  "TestAsinhLocator": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestAsinhLocator"
+      ]
+    ]
+  ],
+  "TestScalarFormatter": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestScalarFormatter"
+      ]
+    ]
+  ],
+  "TestLogFormatterExponent": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestLogFormatterExponent"
+      ]
+    ]
+  ],
+  "TestLogFormatterMathtext": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestLogFormatterMathtext"
+      ]
+    ]
+  ],
+  "TestLogFormatterSciNotation": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestLogFormatterSciNotation"
+      ]
+    ]
+  ],
+  "TestLogFormatter": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestLogFormatter"
+      ]
+    ]
+  ],
+  "TestLogitFormatter": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestLogitFormatter"
+      ]
+    ]
+  ],
+  "TestFormatStrFormatter": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestFormatStrFormatter"
+      ]
+    ]
+  ],
+  "TestStrMethodFormatter": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestStrMethodFormatter"
+      ]
+    ]
+  ],
+  "TestEngFormatter": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestEngFormatter"
+      ]
+    ]
+  ],
+  "TestPercentFormatter": [
+    [
+      "lib/matplotlib/tests/test_ticker.py",
+      [
+        "TestPercentFormatter"
+      ]
+    ]
+  ],
+  "AssertingNonAffineTransform": [
+    [
+      "lib/matplotlib/tests/test_transforms.py",
+      [
+        "test_non_affine_caching",
+        "AssertingNonAffineTransform"
+      ]
+    ]
+  ],
+  "NonAffineForTest": [
+    [
+      "lib/matplotlib/tests/test_transforms.py",
+      [
+        "NonAffineForTest"
+      ]
+    ]
+  ],
+  "TestBasicTransform": [
+    [
+      "lib/matplotlib/tests/test_transforms.py",
+      [
+        "TestBasicTransform"
+      ]
+    ]
+  ],
+  "TestTransformPlotInterface": [
+    [
+      "lib/matplotlib/tests/test_transforms.py",
+      [
+        "TestTransformPlotInterface"
+      ]
+    ]
+  ],
+  "TestTriangulationParams": [
+    [
+      "lib/matplotlib/tests/test_triangulation.py",
+      [
+        "TestTriangulationParams"
+      ]
+    ]
+  ],
+  "Quantity": [
+    [
+      "lib/matplotlib/tests/test_units.py",
+      [
+        "Quantity"
+      ]
+    ]
+  ],
+  "Kernel": [
+    [
+      "lib/matplotlib/tests/test_units.py",
+      [
+        "Kernel"
+      ]
+    ]
+  ],
+  "TexManager": [
+    [
+      "lib/matplotlib/texmanager.py",
+      [
+        "TexManager"
+      ]
+    ]
+  ],
+  "OffsetFrom": [
+    [
+      "lib/matplotlib/text.py",
+      [
+        "OffsetFrom"
+      ]
+    ]
+  ],
+  "_AnnotationBase": [
+    [
+      "lib/matplotlib/text.py",
+      [
+        "_AnnotationBase"
+      ]
+    ]
+  ],
+  "Annotation": [
+    [
+      "lib/matplotlib/text.py",
+      [
+        "Annotation"
+      ]
+    ]
+  ],
+  "TextToPath": [
+    [
+      "lib/matplotlib/textpath.py",
+      [
+        "TextToPath"
+      ]
+    ]
+  ],
+  "TextPath": [
+    [
+      "lib/matplotlib/textpath.py",
+      [
+        "TextPath"
+      ]
+    ]
+  ],
+  "_DummyAxis": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "_DummyAxis"
+      ]
+    ]
+  ],
+  "TickHelper": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "TickHelper"
+      ]
+    ]
+  ],
+  "Formatter": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "Formatter"
+      ]
+    ]
+  ],
+  "NullFormatter": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "NullFormatter"
+      ]
+    ]
+  ],
+  "FixedFormatter": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "FixedFormatter"
+      ]
+    ]
+  ],
+  "FuncFormatter": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "FuncFormatter"
+      ]
+    ]
+  ],
+  "FormatStrFormatter": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "FormatStrFormatter"
+      ]
+    ]
+  ],
+  "StrMethodFormatter": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "StrMethodFormatter"
+      ]
+    ]
+  ],
+  "ScalarFormatter": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "ScalarFormatter"
+      ]
+    ]
+  ],
+  "LogFormatter": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "LogFormatter"
+      ]
+    ]
+  ],
+  "LogFormatterExponent": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "LogFormatterExponent"
+      ]
+    ]
+  ],
+  "LogFormatterMathtext": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "LogFormatterMathtext"
+      ]
+    ]
+  ],
+  "LogFormatterSciNotation": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "LogFormatterSciNotation"
+      ]
+    ]
+  ],
+  "LogitFormatter": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "LogitFormatter"
+      ]
+    ]
+  ],
+  "EngFormatter": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "EngFormatter"
+      ]
+    ]
+  ],
+  "PercentFormatter": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "PercentFormatter"
+      ]
+    ]
+  ],
+  "Locator": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "Locator"
+      ]
+    ]
+  ],
+  "IndexLocator": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "IndexLocator"
+      ]
+    ]
+  ],
+  "FixedLocator": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "FixedLocator"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/grid_finder.py",
+      [
+        "FixedLocator"
+      ]
+    ]
+  ],
+  "NullLocator": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "NullLocator"
+      ]
+    ]
+  ],
+  "LinearLocator": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "LinearLocator"
+      ]
+    ]
+  ],
+  "MultipleLocator": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "MultipleLocator"
+      ]
+    ]
+  ],
+  "_Edge_integer": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "_Edge_integer"
+      ]
+    ]
+  ],
+  "MaxNLocator": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "MaxNLocator"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/grid_finder.py",
+      [
+        "MaxNLocator"
+      ]
+    ]
+  ],
+  "LogLocator": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "LogLocator"
+      ]
+    ]
+  ],
+  "SymmetricalLogLocator": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "SymmetricalLogLocator"
+      ]
+    ]
+  ],
+  "AsinhLocator": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "AsinhLocator"
+      ]
+    ]
+  ],
+  "LogitLocator": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "LogitLocator"
+      ]
+    ]
+  ],
+  "AutoLocator": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "AutoLocator"
+      ]
+    ]
+  ],
+  "AutoMinorLocator": [
+    [
+      "lib/matplotlib/ticker.py",
+      [
+        "AutoMinorLocator"
+      ]
+    ]
+  ],
+  "TransformNode": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "TransformNode"
+      ]
+    ]
+  ],
+  "BboxBase": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "BboxBase"
+      ]
+    ]
+  ],
+  "Bbox": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "Bbox"
+      ]
+    ]
+  ],
+  "TransformedBbox": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "TransformedBbox"
+      ]
+    ]
+  ],
+  "LockableBbox": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "LockableBbox"
+      ]
+    ]
+  ],
+  "Transform": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "Transform"
+      ]
+    ]
+  ],
+  "TransformWrapper": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "TransformWrapper"
+      ]
+    ]
+  ],
+  "AffineBase": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "AffineBase"
+      ]
+    ]
+  ],
+  "Affine2DBase": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "Affine2DBase"
+      ]
+    ]
+  ],
+  "Affine2D": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "Affine2D"
+      ]
+    ]
+  ],
+  "IdentityTransform": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "IdentityTransform"
+      ]
+    ]
+  ],
+  "_BlendedMixin": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "_BlendedMixin"
+      ]
+    ]
+  ],
+  "BlendedGenericTransform": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "BlendedGenericTransform"
+      ]
+    ]
+  ],
+  "BlendedAffine2D": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "BlendedAffine2D"
+      ]
+    ]
+  ],
+  "CompositeGenericTransform": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "CompositeGenericTransform"
+      ]
+    ]
+  ],
+  "CompositeAffine2D": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "CompositeAffine2D"
+      ]
+    ]
+  ],
+  "BboxTransform": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "BboxTransform"
+      ]
+    ]
+  ],
+  "BboxTransformTo": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "BboxTransformTo"
+      ]
+    ]
+  ],
+  "BboxTransformToMaxOnly": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "BboxTransformToMaxOnly"
+      ]
+    ]
+  ],
+  "BboxTransformFrom": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "BboxTransformFrom"
+      ]
+    ]
+  ],
+  "ScaledTranslation": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "ScaledTranslation"
+      ]
+    ]
+  ],
+  "AffineDeltaTransform": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "AffineDeltaTransform"
+      ]
+    ]
+  ],
+  "TransformedPath": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "TransformedPath"
+      ]
+    ]
+  ],
+  "TransformedPatchPath": [
+    [
+      "lib/matplotlib/transforms.py",
+      [
+        "TransformedPatchPath"
+      ]
+    ]
+  ],
+  "Triangulation": [
+    [
+      "lib/matplotlib/tri/triangulation.py",
+      [
+        "Triangulation"
+      ]
+    ]
+  ],
+  "TriContourSet": [
+    [
+      "lib/matplotlib/tri/tricontour.py",
+      [
+        "TriContourSet"
+      ]
+    ]
+  ],
+  "TriFinder": [
+    [
+      "lib/matplotlib/tri/trifinder.py",
+      [
+        "TriFinder"
+      ]
+    ]
+  ],
+  "TrapezoidMapTriFinder": [
+    [
+      "lib/matplotlib/tri/trifinder.py",
+      [
+        "TrapezoidMapTriFinder"
+      ]
+    ]
+  ],
+  "TriInterpolator": [
+    [
+      "lib/matplotlib/tri/triinterpolate.py",
+      [
+        "TriInterpolator"
+      ]
+    ]
+  ],
+  "LinearTriInterpolator": [
+    [
+      "lib/matplotlib/tri/triinterpolate.py",
+      [
+        "LinearTriInterpolator"
+      ]
+    ]
+  ],
+  "CubicTriInterpolator": [
+    [
+      "lib/matplotlib/tri/triinterpolate.py",
+      [
+        "CubicTriInterpolator"
+      ]
+    ]
+  ],
+  "_ReducedHCT_Element": [
+    [
+      "lib/matplotlib/tri/triinterpolate.py",
+      [
+        "_ReducedHCT_Element"
+      ]
+    ]
+  ],
+  "_DOF_estimator": [
+    [
+      "lib/matplotlib/tri/triinterpolate.py",
+      [
+        "_DOF_estimator"
+      ]
+    ]
+  ],
+  "_DOF_estimator_user": [
+    [
+      "lib/matplotlib/tri/triinterpolate.py",
+      [
+        "_DOF_estimator_user"
+      ]
+    ]
+  ],
+  "_DOF_estimator_geom": [
+    [
+      "lib/matplotlib/tri/triinterpolate.py",
+      [
+        "_DOF_estimator_geom"
+      ]
+    ]
+  ],
+  "_DOF_estimator_min_E": [
+    [
+      "lib/matplotlib/tri/triinterpolate.py",
+      [
+        "_DOF_estimator_min_E"
+      ]
+    ]
+  ],
+  "_Sparse_Matrix_coo": [
+    [
+      "lib/matplotlib/tri/triinterpolate.py",
+      [
+        "_Sparse_Matrix_coo"
+      ]
+    ]
+  ],
+  "TriRefiner": [
+    [
+      "lib/matplotlib/tri/trirefine.py",
+      [
+        "TriRefiner"
+      ]
+    ]
+  ],
+  "UniformTriRefiner": [
+    [
+      "lib/matplotlib/tri/trirefine.py",
+      [
+        "UniformTriRefiner"
+      ]
+    ]
+  ],
+  "TriAnalyzer": [
+    [
+      "lib/matplotlib/tri/tritools.py",
+      [
+        "TriAnalyzer"
+      ]
+    ]
+  ],
+  "ConversionError": [
+    [
+      "lib/matplotlib/units.py",
+      [
+        "ConversionError"
+      ]
+    ]
+  ],
+  "AxisInfo": [
+    [
+      "lib/matplotlib/units.py",
+      [
+        "AxisInfo"
+      ]
+    ]
+  ],
+  "ConversionInterface": [
+    [
+      "lib/matplotlib/units.py",
+      [
+        "ConversionInterface"
+      ]
+    ]
+  ],
+  "DecimalConverter": [
+    [
+      "lib/matplotlib/units.py",
+      [
+        "DecimalConverter"
+      ]
+    ]
+  ],
+  "Registry": [
+    [
+      "lib/matplotlib/units.py",
+      [
+        "Registry"
+      ]
+    ]
+  ],
+  "LockDraw": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "LockDraw"
+      ]
+    ]
+  ],
+  "Widget": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "Widget"
+      ]
+    ]
+  ],
+  "AxesWidget": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "AxesWidget"
+      ]
+    ]
+  ],
+  "Button": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "Button"
+      ]
+    ]
+  ],
+  "SliderBase": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "SliderBase"
+      ]
+    ]
+  ],
+  "Slider": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "Slider"
+      ]
+    ]
+  ],
+  "RangeSlider": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "RangeSlider"
+      ]
+    ]
+  ],
+  "CheckButtons": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "CheckButtons"
+      ]
+    ]
+  ],
+  "TextBox": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "TextBox"
+      ]
+    ]
+  ],
+  "RadioButtons": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "RadioButtons"
+      ]
+    ]
+  ],
+  "SubplotTool": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "SubplotTool"
+      ]
+    ]
+  ],
+  "MultiCursor": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "MultiCursor"
+      ]
+    ]
+  ],
+  "_SelectorWidget": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "_SelectorWidget"
+      ]
+    ]
+  ],
+  "SpanSelector": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "SpanSelector"
+      ]
+    ]
+  ],
+  "ToolLineHandles": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "ToolLineHandles"
+      ]
+    ]
+  ],
+  "ToolHandles": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "ToolHandles"
+      ]
+    ]
+  ],
+  "RectangleSelector": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "RectangleSelector"
+      ]
+    ]
+  ],
+  "EllipseSelector": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "EllipseSelector"
+      ]
+    ]
+  ],
+  "LassoSelector": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "LassoSelector"
+      ]
+    ]
+  ],
+  "PolygonSelector": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "PolygonSelector"
+      ]
+    ]
+  ],
+  "Lasso": [
+    [
+      "lib/matplotlib/widgets.py",
+      [
+        "Lasso"
+      ]
+    ]
+  ],
+  "AnchoredDrawingArea": [
+    [
+      "lib/mpl_toolkits/axes_grid1/anchored_artists.py",
+      [
+        "AnchoredDrawingArea"
+      ]
+    ]
+  ],
+  "AnchoredAuxTransformBox": [
+    [
+      "lib/mpl_toolkits/axes_grid1/anchored_artists.py",
+      [
+        "AnchoredAuxTransformBox"
+      ]
+    ]
+  ],
+  "AnchoredEllipse": [
+    [
+      "lib/mpl_toolkits/axes_grid1/anchored_artists.py",
+      [
+        "AnchoredEllipse"
+      ]
+    ]
+  ],
+  "AnchoredDirectionArrows": [
+    [
+      "lib/mpl_toolkits/axes_grid1/anchored_artists.py",
+      [
+        "AnchoredDirectionArrows"
+      ]
+    ]
+  ],
+  "Divider": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_divider.py",
+      [
+        "Divider"
+      ]
+    ]
+  ],
+  "AxesLocator": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_divider.py",
+      [
+        "AxesLocator"
+      ]
+    ]
+  ],
+  "SubplotDivider": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_divider.py",
+      [
+        "SubplotDivider"
+      ]
+    ]
+  ],
+  "AxesDivider": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_divider.py",
+      [
+        "AxesDivider"
+      ]
+    ]
+  ],
+  "HBoxDivider": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_divider.py",
+      [
+        "HBoxDivider"
+      ]
+    ]
+  ],
+  "VBoxDivider": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_divider.py",
+      [
+        "VBoxDivider"
+      ]
+    ]
+  ],
+  "CbarAxesBase": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_grid.py",
+      [
+        "CbarAxesBase"
+      ]
+    ]
+  ],
+  "CbarAxes": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_grid.py",
+      [
+        "CbarAxes"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/axes_grid.py",
+      [
+        "CbarAxes"
+      ]
+    ]
+  ],
+  "ImageGrid": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_grid.py",
+      [
+        "ImageGrid"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/axes_grid.py",
+      [
+        "ImageGrid"
+      ]
+    ]
+  ],
+  "RGBAxes": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_rgb.py",
+      [
+        "RGBAxes"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/axes_rgb.py",
+      [
+        "RGBAxes"
+      ]
+    ]
+  ],
+  "Add": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_size.py",
+      [
+        "Add"
+      ]
+    ]
+  ],
+  "AddList": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_size.py",
+      [
+        "AddList"
+      ]
+    ]
+  ],
+  "Fixed": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_size.py",
+      [
+        "Fixed"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/axislines.py",
+      [
+        "AxisArtistHelper",
+        "Fixed"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/axislines.py",
+      [
+        "AxisArtistHelperRectlinear",
+        "Fixed"
+      ]
+    ]
+  ],
+  "Scaled": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_size.py",
+      [
+        "Scaled"
+      ]
+    ]
+  ],
+  "AxesX": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_size.py",
+      [
+        "AxesX"
+      ]
+    ]
+  ],
+  "AxesY": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_size.py",
+      [
+        "AxesY"
+      ]
+    ]
+  ],
+  "MaxExtent": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_size.py",
+      [
+        "MaxExtent"
+      ]
+    ]
+  ],
+  "MaxWidth": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_size.py",
+      [
+        "MaxWidth"
+      ]
+    ]
+  ],
+  "MaxHeight": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_size.py",
+      [
+        "MaxHeight"
+      ]
+    ]
+  ],
+  "Fraction": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_size.py",
+      [
+        "Fraction"
+      ]
+    ]
+  ],
+  "Padded": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_size.py",
+      [
+        "Padded"
+      ]
+    ]
+  ],
+  "SizeFromFunc": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_size.py",
+      [
+        "SizeFromFunc"
+      ]
+    ]
+  ],
+  "GetExtentHelper": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_size.py",
+      [
+        "GetExtentHelper"
+      ]
+    ]
+  ],
+  "_AxesDecorationsSize": [
+    [
+      "lib/mpl_toolkits/axes_grid1/axes_size.py",
+      [
+        "_AxesDecorationsSize"
+      ]
+    ]
+  ],
+  "InsetPosition": [
+    [
+      "lib/mpl_toolkits/axes_grid1/inset_locator.py",
+      [
+        "InsetPosition"
+      ]
+    ]
+  ],
+  "AnchoredLocatorBase": [
+    [
+      "lib/mpl_toolkits/axes_grid1/inset_locator.py",
+      [
+        "AnchoredLocatorBase"
+      ]
+    ]
+  ],
+  "AnchoredSizeLocator": [
+    [
+      "lib/mpl_toolkits/axes_grid1/inset_locator.py",
+      [
+        "AnchoredSizeLocator"
+      ]
+    ]
+  ],
+  "AnchoredZoomLocator": [
+    [
+      "lib/mpl_toolkits/axes_grid1/inset_locator.py",
+      [
+        "AnchoredZoomLocator"
+      ]
+    ]
+  ],
+  "BboxPatch": [
+    [
+      "lib/mpl_toolkits/axes_grid1/inset_locator.py",
+      [
+        "BboxPatch"
+      ]
+    ]
+  ],
+  "BboxConnector": [
+    [
+      "lib/mpl_toolkits/axes_grid1/inset_locator.py",
+      [
+        "BboxConnector"
+      ]
+    ]
+  ],
+  "BboxConnectorPatch": [
+    [
+      "lib/mpl_toolkits/axes_grid1/inset_locator.py",
+      [
+        "BboxConnectorPatch"
+      ]
+    ]
+  ],
+  "_TransformedBboxWithCallback": [
+    [
+      "lib/mpl_toolkits/axes_grid1/inset_locator.py",
+      [
+        "_TransformedBboxWithCallback"
+      ]
+    ]
+  ],
+  "SimpleChainedObjects": [
+    [
+      "lib/mpl_toolkits/axes_grid1/mpl_axes.py",
+      [
+        "SimpleChainedObjects"
+      ]
+    ]
+  ],
+  "AxisDict": [
+    [
+      "lib/mpl_toolkits/axes_grid1/mpl_axes.py",
+      [
+        "Axes",
+        "AxisDict"
+      ]
+    ]
+  ],
+  "SimpleAxisArtist": [
+    [
+      "lib/mpl_toolkits/axes_grid1/mpl_axes.py",
+      [
+        "SimpleAxisArtist"
+      ]
+    ]
+  ],
+  "ParasiteAxesBase": [
+    [
+      "lib/mpl_toolkits/axes_grid1/parasite_axes.py",
+      [
+        "ParasiteAxesBase"
+      ]
+    ]
+  ],
+  "HostAxesBase": [
+    [
+      "lib/mpl_toolkits/axes_grid1/parasite_axes.py",
+      [
+        "HostAxesBase"
+      ]
+    ]
+  ],
+  "LocatorBase": [
+    [
+      "lib/mpl_toolkits/axisartist/angle_helper.py",
+      [
+        "LocatorBase"
+      ]
+    ]
+  ],
+  "LocatorHMS": [
+    [
+      "lib/mpl_toolkits/axisartist/angle_helper.py",
+      [
+        "LocatorHMS"
+      ]
+    ]
+  ],
+  "LocatorHM": [
+    [
+      "lib/mpl_toolkits/axisartist/angle_helper.py",
+      [
+        "LocatorHM"
+      ]
+    ]
+  ],
+  "LocatorH": [
+    [
+      "lib/mpl_toolkits/axisartist/angle_helper.py",
+      [
+        "LocatorH"
+      ]
+    ]
+  ],
+  "LocatorDMS": [
+    [
+      "lib/mpl_toolkits/axisartist/angle_helper.py",
+      [
+        "LocatorDMS"
+      ]
+    ]
+  ],
+  "LocatorDM": [
+    [
+      "lib/mpl_toolkits/axisartist/angle_helper.py",
+      [
+        "LocatorDM"
+      ]
+    ]
+  ],
+  "LocatorD": [
+    [
+      "lib/mpl_toolkits/axisartist/angle_helper.py",
+      [
+        "LocatorD"
+      ]
+    ]
+  ],
+  "FormatterDMS": [
+    [
+      "lib/mpl_toolkits/axisartist/angle_helper.py",
+      [
+        "FormatterDMS"
+      ]
+    ]
+  ],
+  "FormatterHMS": [
+    [
+      "lib/mpl_toolkits/axisartist/angle_helper.py",
+      [
+        "FormatterHMS"
+      ]
+    ]
+  ],
+  "ExtremeFinderCycle": [
+    [
+      "lib/mpl_toolkits/axisartist/angle_helper.py",
+      [
+        "ExtremeFinderCycle"
+      ]
+    ]
+  ],
+  "AttributeCopier": [
+    [
+      "lib/mpl_toolkits/axisartist/axis_artist.py",
+      [
+        "AttributeCopier"
+      ]
+    ]
+  ],
+  "Ticks": [
+    [
+      "lib/mpl_toolkits/axisartist/axis_artist.py",
+      [
+        "Ticks"
+      ]
+    ]
+  ],
+  "LabelBase": [
+    [
+      "lib/mpl_toolkits/axisartist/axis_artist.py",
+      [
+        "LabelBase"
+      ]
+    ]
+  ],
+  "AxisLabel": [
+    [
+      "lib/mpl_toolkits/axisartist/axis_artist.py",
+      [
+        "AxisLabel"
+      ]
+    ]
+  ],
+  "TickLabels": [
+    [
+      "lib/mpl_toolkits/axisartist/axis_artist.py",
+      [
+        "TickLabels"
+      ]
+    ]
+  ],
+  "GridlinesCollection": [
+    [
+      "lib/mpl_toolkits/axisartist/axis_artist.py",
+      [
+        "GridlinesCollection"
+      ]
+    ]
+  ],
+  "AxisArtist": [
+    [
+      "lib/mpl_toolkits/axisartist/axis_artist.py",
+      [
+        "AxisArtist"
+      ]
+    ]
+  ],
+  "SimpleArrow": [
+    [
+      "lib/mpl_toolkits/axisartist/axisline_style.py",
+      [
+        "_FancyAxislineStyle",
+        "SimpleArrow"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/axisline_style.py",
+      [
+        "AxislineStyle",
+        "SimpleArrow"
+      ]
+    ]
+  ],
+  "FilledArrow": [
+    [
+      "lib/mpl_toolkits/axisartist/axisline_style.py",
+      [
+        "_FancyAxislineStyle",
+        "FilledArrow"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/axisline_style.py",
+      [
+        "AxislineStyle",
+        "FilledArrow"
+      ]
+    ]
+  ],
+  "_FancyAxislineStyle": [
+    [
+      "lib/mpl_toolkits/axisartist/axisline_style.py",
+      [
+        "_FancyAxislineStyle"
+      ]
+    ]
+  ],
+  "AxislineStyle": [
+    [
+      "lib/mpl_toolkits/axisartist/axisline_style.py",
+      [
+        "AxislineStyle"
+      ]
+    ]
+  ],
+  "Floating": [
+    [
+      "lib/mpl_toolkits/axisartist/axislines.py",
+      [
+        "AxisArtistHelper",
+        "Floating"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/axislines.py",
+      [
+        "AxisArtistHelperRectlinear",
+        "Floating"
+      ]
+    ]
+  ],
+  "AxisArtistHelper": [
+    [
+      "lib/mpl_toolkits/axisartist/axislines.py",
+      [
+        "AxisArtistHelper"
+      ]
+    ]
+  ],
+  "AxisArtistHelperRectlinear": [
+    [
+      "lib/mpl_toolkits/axisartist/axislines.py",
+      [
+        "AxisArtistHelperRectlinear"
+      ]
+    ]
+  ],
+  "GridHelperBase": [
+    [
+      "lib/mpl_toolkits/axisartist/axislines.py",
+      [
+        "GridHelperBase"
+      ]
+    ]
+  ],
+  "GridHelperRectlinear": [
+    [
+      "lib/mpl_toolkits/axisartist/axislines.py",
+      [
+        "GridHelperRectlinear"
+      ]
+    ]
+  ],
+  "AxesZero": [
+    [
+      "lib/mpl_toolkits/axisartist/axislines.py",
+      [
+        "AxesZero"
+      ]
+    ]
+  ],
+  "FloatingAxisArtistHelper": [
+    [
+      "lib/mpl_toolkits/axisartist/floating_axes.py",
+      [
+        "FloatingAxisArtistHelper"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/grid_helper_curvelinear.py",
+      [
+        "FloatingAxisArtistHelper"
+      ]
+    ]
+  ],
+  "FixedAxisArtistHelper": [
+    [
+      "lib/mpl_toolkits/axisartist/floating_axes.py",
+      [
+        "FixedAxisArtistHelper"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/grid_helper_curvelinear.py",
+      [
+        "FixedAxisArtistHelper"
+      ]
+    ]
+  ],
+  "ExtremeFinderFixed": [
+    [
+      "lib/mpl_toolkits/axisartist/floating_axes.py",
+      [
+        "ExtremeFinderFixed"
+      ]
+    ]
+  ],
+  "GridHelperCurveLinear": [
+    [
+      "lib/mpl_toolkits/axisartist/floating_axes.py",
+      [
+        "GridHelperCurveLinear"
+      ]
+    ],
+    [
+      "lib/mpl_toolkits/axisartist/grid_helper_curvelinear.py",
+      [
+        "GridHelperCurveLinear"
+      ]
+    ]
+  ],
+  "FloatingAxesBase": [
+    [
+      "lib/mpl_toolkits/axisartist/floating_axes.py",
+      [
+        "FloatingAxesBase"
+      ]
+    ]
+  ],
+  "ExtremeFinderSimple": [
+    [
+      "lib/mpl_toolkits/axisartist/grid_finder.py",
+      [
+        "ExtremeFinderSimple"
+      ]
+    ]
+  ],
+  "_User2DTransform": [
+    [
+      "lib/mpl_toolkits/axisartist/grid_finder.py",
+      [
+        "_User2DTransform"
+      ]
+    ]
+  ],
+  "GridFinder": [
+    [
+      "lib/mpl_toolkits/axisartist/grid_finder.py",
+      [
+        "GridFinder"
+      ]
+    ]
+  ],
+  "FormatterPrettyPrint": [
+    [
+      "lib/mpl_toolkits/axisartist/grid_finder.py",
+      [
+        "FormatterPrettyPrint"
+      ]
+    ]
+  ],
+  "DictFormatter": [
+    [
+      "lib/mpl_toolkits/axisartist/grid_finder.py",
+      [
+        "DictFormatter"
+      ]
+    ]
+  ],
+  "Text3D": [
+    [
+      "lib/mpl_toolkits/mplot3d/art3d.py",
+      [
+        "Text3D"
+      ]
+    ]
+  ],
+  "Line3D": [
+    [
+      "lib/mpl_toolkits/mplot3d/art3d.py",
+      [
+        "Line3D"
+      ]
+    ]
+  ],
+  "Line3DCollection": [
+    [
+      "lib/mpl_toolkits/mplot3d/art3d.py",
+      [
+        "Line3DCollection"
+      ]
+    ]
+  ],
+  "Patch3D": [
+    [
+      "lib/mpl_toolkits/mplot3d/art3d.py",
+      [
+        "Patch3D"
+      ]
+    ]
+  ],
+  "PathPatch3D": [
+    [
+      "lib/mpl_toolkits/mplot3d/art3d.py",
+      [
+        "PathPatch3D"
+      ]
+    ]
+  ],
+  "Patch3DCollection": [
+    [
+      "lib/mpl_toolkits/mplot3d/art3d.py",
+      [
+        "Patch3DCollection"
+      ]
+    ]
+  ],
+  "Path3DCollection": [
+    [
+      "lib/mpl_toolkits/mplot3d/art3d.py",
+      [
+        "Path3DCollection"
+      ]
+    ]
+  ],
+  "Poly3DCollection": [
+    [
+      "lib/mpl_toolkits/mplot3d/art3d.py",
+      [
+        "Poly3DCollection"
+      ]
+    ]
+  ],
+  "Axes3D": [
+    [
+      "lib/mpl_toolkits/mplot3d/axes3d.py",
+      [
+        "Axes3D"
+      ]
+    ]
+  ],
+  "ZAxis": [
+    [
+      "lib/mpl_toolkits/mplot3d/axis3d.py",
+      [
+        "ZAxis"
+      ]
+    ]
+  ],
+  "MyTransform": [
+    [
+      "lib/mpl_toolkits/tests/test_axisartist_grid_helper_curvelinear.py",
+      [
+        "test_custom_transform",
+        "MyTransform"
+      ]
+    ]
+  ],
+  "MyTransformInv": [
+    [
+      "lib/mpl_toolkits/tests/test_axisartist_grid_helper_curvelinear.py",
+      [
+        "test_custom_transform",
+        "MyTransformInv"
+      ]
+    ]
+  ],
+  "TestVoxels": [
+    [
+      "lib/mpl_toolkits/tests/test_mplot3d.py",
+      [
+        "TestVoxels"
+      ]
+    ]
+  ],
+  "BuildExtraLibraries": [
+    [
+      "setup.py",
+      [
+        "BuildExtraLibraries"
+      ]
+    ]
+  ],
+  "BuildPy": [
+    [
+      "setup.py",
+      [
+        "BuildPy"
+      ]
+    ]
+  ],
+  "Sdist": [
+    [
+      "setup.py",
+      [
+        "Sdist"
+      ]
+    ]
+  ],
+  "Skipped": [
+    [
+      "setupext.py",
+      [
+        "Skipped"
+      ]
+    ]
+  ],
+  "SetupPackage": [
+    [
+      "setupext.py",
+      [
+        "SetupPackage"
+      ]
+    ]
+  ],
+  "OptionalPackage": [
+    [
+      "setupext.py",
+      [
+        "OptionalPackage"
+      ]
+    ]
+  ],
+  "Platform": [
+    [
+      "setupext.py",
+      [
+        "Platform"
+      ]
+    ]
+  ],
+  "Python": [
+    [
+      "setupext.py",
+      [
+        "Python"
+      ]
+    ]
+  ],
+  "Matplotlib": [
+    [
+      "setupext.py",
+      [
+        "Matplotlib"
+      ]
+    ]
+  ],
+  "Tests": [
+    [
+      "setupext.py",
+      [
+        "Tests"
+      ]
+    ]
+  ],
+  "FreeType": [
+    [
+      "setupext.py",
+      [
+        "FreeType"
+      ]
+    ]
+  ],
+  "Qhull": [
+    [
+      "setupext.py",
+      [
+        "Qhull"
+      ]
+    ]
+  ],
+  "BackendMacOSX": [
+    [
+      "setupext.py",
+      [
+        "BackendMacOSX"
+      ]
+    ]
+  ],
+  "value_formatter": [
+    [
+      "tools/boilerplate.py",
+      [
+        "value_formatter"
+      ]
+    ]
+  ],
+  "Obj": [
+    [
+      "tools/gh_api.py",
+      [
+        "Obj"
+      ]
+    ]
+  ],
+  "MemleakTest": [
+    [
+      "tools/memleak.py",
+      [
+        "MemleakTest"
+      ]
+    ]
+  ],
+  "RunInfo": [
+    [
+      "tools/run_examples.py",
+      [
+        "RunInfo"
+      ]
+    ]
+  ],
+  "Sfnt": [
+    [
+      "tools/subset.py",
+      [
+        "Sfnt"
+      ]
+    ]
+  ],
+  "Thumbnail": [
+    [
+      "tools/triage_tests.py",
+      [
+        "Thumbnail"
+      ]
+    ]
+  ],
+  "EventFilter": [
+    [
+      "tools/triage_tests.py",
+      [
+        "EventFilter"
+      ]
+    ]
+  ],
+  "Dialog": [
+    [
+      "tools/triage_tests.py",
+      [
+        "Dialog"
+      ]
+    ]
+  ],
+  "Entry": [
+    [
+      "tools/triage_tests.py",
+      [
+        "Entry"
+      ]
+    ]
+  ],
+  "BlitManager": [
+    [
+      "tutorials/advanced/blitting.py",
+      [
+        "BlitManager"
+      ]
+    ]
+  ],
+  "AnyObject": [
+    [
+      "tutorials/intermediate/legend_guide.py",
+      [
+        "AnyObject"
+      ]
+    ]
+  ],
+  "AnyObjectHandler": [
+    [
+      "tutorials/intermediate/legend_guide.py",
+      [
+        "AnyObjectHandler"
+      ]
+    ]
+  ],
+  "HandlerEllipse": [
+    [
+      "tutorials/intermediate/legend_guide.py",
+      [
+        "HandlerEllipse"
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,7348 @@
+{
+  "HelloWorld": [
+    [
+      "doc/development/tutorials/examples/helloworld.py",
+      [
+        "HelloWorld"
+      ]
+    ]
+  ],
+  "RecipeDirective": [
+    [
+      "doc/development/tutorials/examples/recipe.py",
+      [
+        "RecipeDirective"
+      ]
+    ]
+  ],
+  "IngredientIndex": [
+    [
+      "doc/development/tutorials/examples/recipe.py",
+      [
+        "IngredientIndex"
+      ]
+    ]
+  ],
+  "RecipeIndex": [
+    [
+      "doc/development/tutorials/examples/recipe.py",
+      [
+        "RecipeIndex"
+      ]
+    ]
+  ],
+  "RecipeDomain": [
+    [
+      "doc/development/tutorials/examples/recipe.py",
+      [
+        "RecipeDomain"
+      ]
+    ]
+  ],
+  "todo": [
+    [
+      "doc/development/tutorials/examples/todo.py",
+      [
+        "todo"
+      ]
+    ]
+  ],
+  "todolist": [
+    [
+      "doc/development/tutorials/examples/todo.py",
+      [
+        "todolist"
+      ]
+    ],
+    [
+      "sphinx/ext/todo.py",
+      [
+        "todolist"
+      ]
+    ]
+  ],
+  "TodolistDirective": [
+    [
+      "doc/development/tutorials/examples/todo.py",
+      [
+        "TodolistDirective"
+      ]
+    ]
+  ],
+  "TodoDirective": [
+    [
+      "doc/development/tutorials/examples/todo.py",
+      [
+        "TodoDirective"
+      ]
+    ]
+  ],
+  "ExampleError": [
+    [
+      "doc/usage/extensions/example_google.py",
+      [
+        "ExampleError"
+      ]
+    ],
+    [
+      "doc/usage/extensions/example_numpy.py",
+      [
+        "ExampleError"
+      ]
+    ]
+  ],
+  "ExampleClass": [
+    [
+      "doc/usage/extensions/example_google.py",
+      [
+        "ExampleClass"
+      ]
+    ],
+    [
+      "doc/usage/extensions/example_numpy.py",
+      [
+        "ExampleClass"
+      ]
+    ]
+  ],
+  "ExamplePEP526Class": [
+    [
+      "doc/usage/extensions/example_google.py",
+      [
+        "ExamplePEP526Class"
+      ]
+    ]
+  ],
+  "Tee": [
+    [
+      "setup.py",
+      [
+        "Tee"
+      ]
+    ],
+    [
+      "sphinx/util/__init__.py",
+      [
+        "Tee"
+      ]
+    ]
+  ],
+  "compile_catalog_plusjs": [
+    [
+      "setup.py",
+      [
+        "try_",
+        "else_",
+        "compile_catalog_plusjs"
+      ]
+    ]
+  ],
+  "document": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "document"
+      ]
+    ]
+  ],
+  "translatable": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "translatable"
+      ]
+    ]
+  ],
+  "not_smartquotable": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "not_smartquotable"
+      ]
+    ]
+  ],
+  "toctree": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "toctree"
+      ]
+    ]
+  ],
+  "desc": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc"
+      ]
+    ]
+  ],
+  "desc_signature": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc_signature"
+      ]
+    ]
+  ],
+  "desc_signature_line": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc_signature_line"
+      ]
+    ]
+  ],
+  "desc_addname": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc_addname"
+      ]
+    ]
+  ],
+  "desc_type": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc_type"
+      ]
+    ]
+  ],
+  "desc_returns": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc_returns"
+      ]
+    ]
+  ],
+  "desc_name": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc_name"
+      ]
+    ]
+  ],
+  "desc_parameterlist": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc_parameterlist"
+      ]
+    ]
+  ],
+  "desc_parameter": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc_parameter"
+      ]
+    ]
+  ],
+  "desc_optional": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc_optional"
+      ]
+    ]
+  ],
+  "desc_annotation": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc_annotation"
+      ]
+    ]
+  ],
+  "desc_content": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc_content"
+      ]
+    ]
+  ],
+  "desc_sig_element": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc_sig_element"
+      ]
+    ]
+  ],
+  "desc_sig_name": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc_sig_name"
+      ]
+    ]
+  ],
+  "desc_sig_operator": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc_sig_operator"
+      ]
+    ]
+  ],
+  "desc_sig_punctuation": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "desc_sig_punctuation"
+      ]
+    ]
+  ],
+  "versionmodified": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "versionmodified"
+      ]
+    ]
+  ],
+  "seealso": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "seealso"
+      ]
+    ]
+  ],
+  "productionlist": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "productionlist"
+      ]
+    ]
+  ],
+  "production": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "production"
+      ]
+    ]
+  ],
+  "index": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "index"
+      ]
+    ]
+  ],
+  "centered": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "centered"
+      ]
+    ]
+  ],
+  "acks": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "acks"
+      ]
+    ]
+  ],
+  "hlist": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "hlist"
+      ]
+    ]
+  ],
+  "hlistcol": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "hlistcol"
+      ]
+    ]
+  ],
+  "compact_paragraph": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "compact_paragraph"
+      ]
+    ]
+  ],
+  "glossary": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "glossary"
+      ]
+    ]
+  ],
+  "only": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "only"
+      ]
+    ]
+  ],
+  "start_of_file": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "start_of_file"
+      ]
+    ]
+  ],
+  "highlightlang": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "highlightlang"
+      ]
+    ]
+  ],
+  "tabular_col_spec": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "tabular_col_spec"
+      ]
+    ]
+  ],
+  "meta": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "meta"
+      ]
+    ]
+  ],
+  "pending_xref": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "pending_xref"
+      ]
+    ]
+  ],
+  "number_reference": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "number_reference"
+      ]
+    ]
+  ],
+  "download_reference": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "download_reference"
+      ]
+    ]
+  ],
+  "literal_emphasis": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "literal_emphasis"
+      ]
+    ]
+  ],
+  "literal_strong": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "literal_strong"
+      ]
+    ]
+  ],
+  "abbreviation": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "abbreviation"
+      ]
+    ]
+  ],
+  "manpage": [
+    [
+      "sphinx/addnodes.py",
+      [
+        "manpage"
+      ]
+    ]
+  ],
+  "Sphinx": [
+    [
+      "sphinx/application.py",
+      [
+        "Sphinx"
+      ]
+    ]
+  ],
+  "TemplateBridge": [
+    [
+      "sphinx/application.py",
+      [
+        "TemplateBridge"
+      ]
+    ]
+  ],
+  "Builder": [
+    [
+      "sphinx/builders/__init__.py",
+      [
+        "Builder"
+      ]
+    ]
+  ],
+  "EpubBuilder": [
+    [
+      "sphinx/builders/_epub_base.py",
+      [
+        "EpubBuilder"
+      ]
+    ]
+  ],
+  "ChangesBuilder": [
+    [
+      "sphinx/builders/changes.py",
+      [
+        "ChangesBuilder"
+      ]
+    ]
+  ],
+  "DirectoryHTMLBuilder": [
+    [
+      "sphinx/builders/dirhtml.py",
+      [
+        "DirectoryHTMLBuilder"
+      ]
+    ]
+  ],
+  "DummyBuilder": [
+    [
+      "sphinx/builders/dummy.py",
+      [
+        "DummyBuilder"
+      ]
+    ]
+  ],
+  "Epub3Builder": [
+    [
+      "sphinx/builders/epub3.py",
+      [
+        "Epub3Builder"
+      ]
+    ]
+  ],
+  "Message": [
+    [
+      "sphinx/builders/gettext.py",
+      [
+        "Message"
+      ]
+    ]
+  ],
+  "Catalog": [
+    [
+      "sphinx/builders/gettext.py",
+      [
+        "Catalog"
+      ]
+    ]
+  ],
+  "MsgOrigin": [
+    [
+      "sphinx/builders/gettext.py",
+      [
+        "MsgOrigin"
+      ]
+    ]
+  ],
+  "GettextRenderer": [
+    [
+      "sphinx/builders/gettext.py",
+      [
+        "GettextRenderer"
+      ]
+    ]
+  ],
+  "I18nTags": [
+    [
+      "sphinx/builders/gettext.py",
+      [
+        "I18nTags"
+      ]
+    ]
+  ],
+  "I18nBuilder": [
+    [
+      "sphinx/builders/gettext.py",
+      [
+        "I18nBuilder"
+      ]
+    ]
+  ],
+  "LocalTimeZone": [
+    [
+      "sphinx/builders/gettext.py",
+      [
+        "LocalTimeZone"
+      ]
+    ]
+  ],
+  "MessageCatalogBuilder": [
+    [
+      "sphinx/builders/gettext.py",
+      [
+        "MessageCatalogBuilder"
+      ]
+    ]
+  ],
+  "Stylesheet": [
+    [
+      "sphinx/builders/html/__init__.py",
+      [
+        "Stylesheet"
+      ]
+    ]
+  ],
+  "JavaScript": [
+    [
+      "sphinx/builders/html/__init__.py",
+      [
+        "JavaScript"
+      ]
+    ]
+  ],
+  "BuildInfo": [
+    [
+      "sphinx/builders/html/__init__.py",
+      [
+        "BuildInfo"
+      ]
+    ]
+  ],
+  "StandaloneHTMLBuilder": [
+    [
+      "sphinx/builders/html/__init__.py",
+      [
+        "StandaloneHTMLBuilder"
+      ]
+    ]
+  ],
+  "KeyboardTransform": [
+    [
+      "sphinx/builders/html/transforms.py",
+      [
+        "KeyboardTransform"
+      ]
+    ]
+  ],
+  "LaTeXBuilder": [
+    [
+      "sphinx/builders/latex/__init__.py",
+      [
+        "LaTeXBuilder"
+      ]
+    ]
+  ],
+  "Values": [
+    [
+      "sphinx/builders/latex/__init__.py",
+      [
+        "patch_settings",
+        "Values"
+      ]
+    ]
+  ],
+  "captioned_literal_block": [
+    [
+      "sphinx/builders/latex/nodes.py",
+      [
+        "captioned_literal_block"
+      ]
+    ]
+  ],
+  "footnotemark": [
+    [
+      "sphinx/builders/latex/nodes.py",
+      [
+        "footnotemark"
+      ]
+    ]
+  ],
+  "footnotetext": [
+    [
+      "sphinx/builders/latex/nodes.py",
+      [
+        "footnotetext"
+      ]
+    ]
+  ],
+  "math_reference": [
+    [
+      "sphinx/builders/latex/nodes.py",
+      [
+        "math_reference"
+      ]
+    ]
+  ],
+  "thebibliography": [
+    [
+      "sphinx/builders/latex/nodes.py",
+      [
+        "thebibliography"
+      ]
+    ]
+  ],
+  "Theme": [
+    [
+      "sphinx/builders/latex/theming.py",
+      [
+        "Theme"
+      ]
+    ],
+    [
+      "sphinx/theming.py",
+      [
+        "Theme"
+      ]
+    ]
+  ],
+  "BuiltInTheme": [
+    [
+      "sphinx/builders/latex/theming.py",
+      [
+        "BuiltInTheme"
+      ]
+    ]
+  ],
+  "UserTheme": [
+    [
+      "sphinx/builders/latex/theming.py",
+      [
+        "UserTheme"
+      ]
+    ]
+  ],
+  "ThemeFactory": [
+    [
+      "sphinx/builders/latex/theming.py",
+      [
+        "ThemeFactory"
+      ]
+    ]
+  ],
+  "FootnoteDocnameUpdater": [
+    [
+      "sphinx/builders/latex/transforms.py",
+      [
+        "FootnoteDocnameUpdater"
+      ]
+    ]
+  ],
+  "SubstitutionDefinitionsRemover": [
+    [
+      "sphinx/builders/latex/transforms.py",
+      [
+        "SubstitutionDefinitionsRemover"
+      ]
+    ]
+  ],
+  "ShowUrlsTransform": [
+    [
+      "sphinx/builders/latex/transforms.py",
+      [
+        "ShowUrlsTransform"
+      ]
+    ]
+  ],
+  "FootnoteCollector": [
+    [
+      "sphinx/builders/latex/transforms.py",
+      [
+        "FootnoteCollector"
+      ]
+    ]
+  ],
+  "LaTeXFootnoteTransform": [
+    [
+      "sphinx/builders/latex/transforms.py",
+      [
+        "LaTeXFootnoteTransform"
+      ]
+    ]
+  ],
+  "LaTeXFootnoteVisitor": [
+    [
+      "sphinx/builders/latex/transforms.py",
+      [
+        "LaTeXFootnoteVisitor"
+      ]
+    ]
+  ],
+  "BibliographyTransform": [
+    [
+      "sphinx/builders/latex/transforms.py",
+      [
+        "BibliographyTransform"
+      ]
+    ]
+  ],
+  "CitationReferenceTransform": [
+    [
+      "sphinx/builders/latex/transforms.py",
+      [
+        "CitationReferenceTransform"
+      ]
+    ],
+    [
+      "sphinx/domains/citation.py",
+      [
+        "CitationReferenceTransform"
+      ]
+    ]
+  ],
+  "MathReferenceTransform": [
+    [
+      "sphinx/builders/latex/transforms.py",
+      [
+        "MathReferenceTransform"
+      ]
+    ]
+  ],
+  "LiteralBlockTransform": [
+    [
+      "sphinx/builders/latex/transforms.py",
+      [
+        "LiteralBlockTransform"
+      ]
+    ]
+  ],
+  "DocumentTargetTransform": [
+    [
+      "sphinx/builders/latex/transforms.py",
+      [
+        "DocumentTargetTransform"
+      ]
+    ]
+  ],
+  "IndexInSectionTitleTransform": [
+    [
+      "sphinx/builders/latex/transforms.py",
+      [
+        "IndexInSectionTitleTransform"
+      ]
+    ]
+  ],
+  "ExtBabel": [
+    [
+      "sphinx/builders/latex/util.py",
+      [
+        "ExtBabel"
+      ]
+    ]
+  ],
+  "AnchorCheckParser": [
+    [
+      "sphinx/builders/linkcheck.py",
+      [
+        "AnchorCheckParser"
+      ]
+    ]
+  ],
+  "CheckExternalLinksBuilder": [
+    [
+      "sphinx/builders/linkcheck.py",
+      [
+        "CheckExternalLinksBuilder"
+      ]
+    ]
+  ],
+  "ManualPageBuilder": [
+    [
+      "sphinx/builders/manpage.py",
+      [
+        "ManualPageBuilder"
+      ]
+    ]
+  ],
+  "SingleFileHTMLBuilder": [
+    [
+      "sphinx/builders/singlehtml.py",
+      [
+        "SingleFileHTMLBuilder"
+      ]
+    ]
+  ],
+  "TexinfoBuilder": [
+    [
+      "sphinx/builders/texinfo.py",
+      [
+        "TexinfoBuilder"
+      ]
+    ]
+  ],
+  "TextBuilder": [
+    [
+      "sphinx/builders/text.py",
+      [
+        "TextBuilder"
+      ]
+    ]
+  ],
+  "XMLBuilder": [
+    [
+      "sphinx/builders/xml.py",
+      [
+        "XMLBuilder"
+      ]
+    ]
+  ],
+  "PseudoXMLBuilder": [
+    [
+      "sphinx/builders/xml.py",
+      [
+        "PseudoXMLBuilder"
+      ]
+    ]
+  ],
+  "Make": [
+    [
+      "sphinx/cmd/make_mode.py",
+      [
+        "Make"
+      ]
+    ]
+  ],
+  "ValidationError": [
+    [
+      "sphinx/cmd/quickstart.py",
+      [
+        "ValidationError"
+      ]
+    ]
+  ],
+  "QuickstartRenderer": [
+    [
+      "sphinx/cmd/quickstart.py",
+      [
+        "QuickstartRenderer"
+      ]
+    ]
+  ],
+  "ENUM": [
+    [
+      "sphinx/config.py",
+      [
+        "ENUM"
+      ]
+    ]
+  ],
+  "Config": [
+    [
+      "sphinx/config.py",
+      [
+        "Config"
+      ]
+    ],
+    [
+      "sphinx/ext/napoleon/__init__.py",
+      [
+        "Config"
+      ]
+    ],
+    [
+      "tests/test_domain_c.py",
+      [
+        "test_expressions",
+        "exprCheck",
+        "Config"
+      ]
+    ],
+    [
+      "tests/test_domain_cpp.py",
+      [
+        "test_expressions",
+        "exprCheck",
+        "Config"
+      ]
+    ]
+  ],
+  "RemovedInSphinx40Warning": [
+    [
+      "sphinx/deprecation.py",
+      [
+        "RemovedInSphinx40Warning"
+      ]
+    ]
+  ],
+  "RemovedInSphinx50Warning": [
+    [
+      "sphinx/deprecation.py",
+      [
+        "RemovedInSphinx50Warning"
+      ]
+    ]
+  ],
+  "RemovedInSphinx60Warning": [
+    [
+      "sphinx/deprecation.py",
+      [
+        "RemovedInSphinx60Warning"
+      ]
+    ]
+  ],
+  "_ModuleWrapper": [
+    [
+      "sphinx/deprecation.py",
+      [
+        "_ModuleWrapper"
+      ]
+    ]
+  ],
+  "DeprecatedDict": [
+    [
+      "sphinx/deprecation.py",
+      [
+        "DeprecatedDict"
+      ]
+    ]
+  ],
+  "ObjectDescription": [
+    [
+      "sphinx/directives/__init__.py",
+      [
+        "ObjectDescription"
+      ]
+    ]
+  ],
+  "DefaultRole": [
+    [
+      "sphinx/directives/__init__.py",
+      [
+        "DefaultRole"
+      ]
+    ]
+  ],
+  "DefaultDomain": [
+    [
+      "sphinx/directives/__init__.py",
+      [
+        "DefaultDomain"
+      ]
+    ]
+  ],
+  "Highlight": [
+    [
+      "sphinx/directives/code.py",
+      [
+        "Highlight"
+      ]
+    ]
+  ],
+  "HighlightLang": [
+    [
+      "sphinx/directives/code.py",
+      [
+        "HighlightLang"
+      ]
+    ]
+  ],
+  "CodeBlock": [
+    [
+      "sphinx/directives/code.py",
+      [
+        "CodeBlock"
+      ]
+    ]
+  ],
+  "LiteralIncludeReader": [
+    [
+      "sphinx/directives/code.py",
+      [
+        "LiteralIncludeReader"
+      ]
+    ]
+  ],
+  "LiteralInclude": [
+    [
+      "sphinx/directives/code.py",
+      [
+        "LiteralInclude"
+      ]
+    ]
+  ],
+  "TocTree": [
+    [
+      "sphinx/directives/other.py",
+      [
+        "TocTree"
+      ]
+    ],
+    [
+      "sphinx/environment/adapters/toctree.py",
+      [
+        "TocTree"
+      ]
+    ]
+  ],
+  "Author": [
+    [
+      "sphinx/directives/other.py",
+      [
+        "Author"
+      ]
+    ]
+  ],
+  "SeeAlso": [
+    [
+      "sphinx/directives/other.py",
+      [
+        "SeeAlso"
+      ]
+    ]
+  ],
+  "TabularColumns": [
+    [
+      "sphinx/directives/other.py",
+      [
+        "TabularColumns"
+      ]
+    ]
+  ],
+  "Centered": [
+    [
+      "sphinx/directives/other.py",
+      [
+        "Centered"
+      ]
+    ]
+  ],
+  "Acks": [
+    [
+      "sphinx/directives/other.py",
+      [
+        "Acks"
+      ]
+    ]
+  ],
+  "HList": [
+    [
+      "sphinx/directives/other.py",
+      [
+        "HList"
+      ]
+    ]
+  ],
+  "Only": [
+    [
+      "sphinx/directives/other.py",
+      [
+        "Only"
+      ]
+    ]
+  ],
+  "Include": [
+    [
+      "sphinx/directives/other.py",
+      [
+        "Include"
+      ]
+    ]
+  ],
+  "Figure": [
+    [
+      "sphinx/directives/patches.py",
+      [
+        "Figure"
+      ]
+    ]
+  ],
+  "Meta": [
+    [
+      "sphinx/directives/patches.py",
+      [
+        "Meta"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/overload.py",
+      [
+        "Meta"
+      ]
+    ]
+  ],
+  "RSTTable": [
+    [
+      "sphinx/directives/patches.py",
+      [
+        "RSTTable"
+      ]
+    ]
+  ],
+  "CSVTable": [
+    [
+      "sphinx/directives/patches.py",
+      [
+        "CSVTable"
+      ]
+    ]
+  ],
+  "ListTable": [
+    [
+      "sphinx/directives/patches.py",
+      [
+        "ListTable"
+      ]
+    ]
+  ],
+  "Code": [
+    [
+      "sphinx/directives/patches.py",
+      [
+        "Code"
+      ]
+    ]
+  ],
+  "MathDirective": [
+    [
+      "sphinx/directives/patches.py",
+      [
+        "MathDirective"
+      ]
+    ]
+  ],
+  "ObjType": [
+    [
+      "sphinx/domains/__init__.py",
+      [
+        "ObjType"
+      ]
+    ]
+  ],
+  "Index": [
+    [
+      "sphinx/domains/__init__.py",
+      [
+        "Index"
+      ]
+    ],
+    [
+      "sphinx/roles.py",
+      [
+        "Index"
+      ]
+    ]
+  ],
+  "Domain": [
+    [
+      "sphinx/domains/__init__.py",
+      [
+        "Domain"
+      ]
+    ]
+  ],
+  "_DuplicateSymbolError": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "_DuplicateSymbolError"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "_DuplicateSymbolError"
+      ]
+    ]
+  ],
+  "ASTBase": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTBase"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTBase"
+      ]
+    ]
+  ],
+  "ASTIdentifier": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTIdentifier"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTIdentifier"
+      ]
+    ]
+  ],
+  "ASTNestedName": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTNestedName"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTNestedName"
+      ]
+    ]
+  ],
+  "ASTExpression": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTExpression"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTExpression"
+      ]
+    ]
+  ],
+  "ASTLiteral": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTLiteral"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTLiteral"
+      ]
+    ]
+  ],
+  "ASTBooleanLiteral": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTBooleanLiteral"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTBooleanLiteral"
+      ]
+    ]
+  ],
+  "ASTNumberLiteral": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTNumberLiteral"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTNumberLiteral"
+      ]
+    ]
+  ],
+  "ASTCharLiteral": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTCharLiteral"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTCharLiteral"
+      ]
+    ]
+  ],
+  "ASTStringLiteral": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTStringLiteral"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTStringLiteral"
+      ]
+    ]
+  ],
+  "ASTIdExpression": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTIdExpression"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTIdExpression"
+      ]
+    ]
+  ],
+  "ASTParenExpr": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTParenExpr"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTParenExpr"
+      ]
+    ]
+  ],
+  "ASTPostfixOp": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTPostfixOp"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTPostfixOp"
+      ]
+    ]
+  ],
+  "ASTPostfixCallExpr": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTPostfixCallExpr"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTPostfixCallExpr"
+      ]
+    ]
+  ],
+  "ASTPostfixArray": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTPostfixArray"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTPostfixArray"
+      ]
+    ]
+  ],
+  "ASTPostfixInc": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTPostfixInc"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTPostfixInc"
+      ]
+    ]
+  ],
+  "ASTPostfixDec": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTPostfixDec"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTPostfixDec"
+      ]
+    ]
+  ],
+  "ASTPostfixMember": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTPostfixMember"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTPostfixMember"
+      ]
+    ]
+  ],
+  "ASTPostfixMemberOfPointer": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTPostfixMemberOfPointer"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTPostfixMemberOfPointer"
+      ]
+    ]
+  ],
+  "ASTPostfixExpr": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTPostfixExpr"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTPostfixExpr"
+      ]
+    ]
+  ],
+  "ASTUnaryOpExpr": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTUnaryOpExpr"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTUnaryOpExpr"
+      ]
+    ]
+  ],
+  "ASTSizeofType": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTSizeofType"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTSizeofType"
+      ]
+    ]
+  ],
+  "ASTSizeofExpr": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTSizeofExpr"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTSizeofExpr"
+      ]
+    ]
+  ],
+  "ASTAlignofExpr": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTAlignofExpr"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTAlignofExpr"
+      ]
+    ]
+  ],
+  "ASTCastExpr": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTCastExpr"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTCastExpr"
+      ]
+    ]
+  ],
+  "ASTBinOpExpr": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTBinOpExpr"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTBinOpExpr"
+      ]
+    ]
+  ],
+  "ASTAssignmentExpr": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTAssignmentExpr"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTAssignmentExpr"
+      ]
+    ]
+  ],
+  "ASTFallbackExpr": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTFallbackExpr"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTFallbackExpr"
+      ]
+    ]
+  ],
+  "ASTTrailingTypeSpec": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTTrailingTypeSpec"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTrailingTypeSpec"
+      ]
+    ]
+  ],
+  "ASTTrailingTypeSpecFundamental": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTTrailingTypeSpecFundamental"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTrailingTypeSpecFundamental"
+      ]
+    ]
+  ],
+  "ASTTrailingTypeSpecName": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTTrailingTypeSpecName"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTrailingTypeSpecName"
+      ]
+    ]
+  ],
+  "ASTFunctionParameter": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTFunctionParameter"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTFunctionParameter"
+      ]
+    ]
+  ],
+  "ASTParameters": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTParameters"
+      ]
+    ]
+  ],
+  "ASTDeclSpecsSimple": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTDeclSpecsSimple"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTDeclSpecsSimple"
+      ]
+    ]
+  ],
+  "ASTDeclSpecs": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTDeclSpecs"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTDeclSpecs"
+      ]
+    ]
+  ],
+  "ASTArray": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTArray"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTArray"
+      ]
+    ]
+  ],
+  "ASTDeclarator": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTDeclarator"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTDeclarator"
+      ]
+    ]
+  ],
+  "ASTDeclaratorNameParam": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTDeclaratorNameParam"
+      ]
+    ]
+  ],
+  "ASTDeclaratorNameBitField": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTDeclaratorNameBitField"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTDeclaratorNameBitField"
+      ]
+    ]
+  ],
+  "ASTDeclaratorPtr": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTDeclaratorPtr"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTDeclaratorPtr"
+      ]
+    ]
+  ],
+  "ASTDeclaratorParen": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTDeclaratorParen"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTDeclaratorParen"
+      ]
+    ]
+  ],
+  "ASTParenExprList": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTParenExprList"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTParenExprList"
+      ]
+    ]
+  ],
+  "ASTBracedInitList": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTBracedInitList"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTBracedInitList"
+      ]
+    ]
+  ],
+  "ASTInitializer": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTInitializer"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTInitializer"
+      ]
+    ]
+  ],
+  "ASTType": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTType"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTType"
+      ]
+    ]
+  ],
+  "ASTTypeWithInit": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTTypeWithInit"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTypeWithInit"
+      ]
+    ]
+  ],
+  "ASTMacroParameter": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTMacroParameter"
+      ]
+    ]
+  ],
+  "ASTMacro": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTMacro"
+      ]
+    ]
+  ],
+  "ASTStruct": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTStruct"
+      ]
+    ]
+  ],
+  "ASTUnion": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTUnion"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTUnion"
+      ]
+    ]
+  ],
+  "ASTEnum": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTEnum"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTEnum"
+      ]
+    ]
+  ],
+  "ASTEnumerator": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTEnumerator"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTEnumerator"
+      ]
+    ]
+  ],
+  "ASTDeclaration": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "ASTDeclaration"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTDeclaration"
+      ]
+    ]
+  ],
+  "SymbolLookupResult": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "SymbolLookupResult"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "SymbolLookupResult"
+      ]
+    ]
+  ],
+  "LookupKey": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "LookupKey"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "LookupKey"
+      ]
+    ]
+  ],
+  "Symbol": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "Symbol"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "Symbol"
+      ]
+    ]
+  ],
+  "DefinitionParser": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "DefinitionParser"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "DefinitionParser"
+      ]
+    ]
+  ],
+  "CObject": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CObject"
+      ]
+    ]
+  ],
+  "CMemberObject": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CMemberObject"
+      ]
+    ]
+  ],
+  "CFunctionObject": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CFunctionObject"
+      ]
+    ]
+  ],
+  "CMacroObject": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CMacroObject"
+      ]
+    ]
+  ],
+  "CStructObject": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CStructObject"
+      ]
+    ]
+  ],
+  "CUnionObject": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CUnionObject"
+      ]
+    ]
+  ],
+  "CEnumObject": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CEnumObject"
+      ]
+    ]
+  ],
+  "CEnumeratorObject": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CEnumeratorObject"
+      ]
+    ]
+  ],
+  "CTypeObject": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CTypeObject"
+      ]
+    ]
+  ],
+  "CNamespaceObject": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CNamespaceObject"
+      ]
+    ]
+  ],
+  "CNamespacePushObject": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CNamespacePushObject"
+      ]
+    ]
+  ],
+  "CNamespacePopObject": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CNamespacePopObject"
+      ]
+    ]
+  ],
+  "AliasNode": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "AliasNode"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "AliasNode"
+      ]
+    ]
+  ],
+  "AliasTransform": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "AliasTransform"
+      ]
+    ],
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "AliasTransform"
+      ]
+    ]
+  ],
+  "CAliasObject": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CAliasObject"
+      ]
+    ]
+  ],
+  "CXRefRole": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CXRefRole"
+      ]
+    ]
+  ],
+  "CExprRole": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CExprRole"
+      ]
+    ]
+  ],
+  "CDomain": [
+    [
+      "sphinx/domains/c.py",
+      [
+        "CDomain"
+      ]
+    ]
+  ],
+  "VersionChange": [
+    [
+      "sphinx/domains/changeset.py",
+      [
+        "VersionChange"
+      ]
+    ]
+  ],
+  "ChangeSetDomain": [
+    [
+      "sphinx/domains/changeset.py",
+      [
+        "ChangeSetDomain"
+      ]
+    ]
+  ],
+  "CitationDomain": [
+    [
+      "sphinx/domains/citation.py",
+      [
+        "CitationDomain"
+      ]
+    ]
+  ],
+  "CitationDefinitionTransform": [
+    [
+      "sphinx/domains/citation.py",
+      [
+        "CitationDefinitionTransform"
+      ]
+    ]
+  ],
+  "ASTNestedNameElement": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTNestedNameElement"
+      ]
+    ]
+  ],
+  "ASTPointerLiteral": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTPointerLiteral"
+      ]
+    ]
+  ],
+  "ASTUserDefinedLiteral": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTUserDefinedLiteral"
+      ]
+    ]
+  ],
+  "ASTThisLiteral": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTThisLiteral"
+      ]
+    ]
+  ],
+  "ASTFoldExpr": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTFoldExpr"
+      ]
+    ]
+  ],
+  "ASTExplicitCast": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTExplicitCast"
+      ]
+    ]
+  ],
+  "ASTTypeId": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTypeId"
+      ]
+    ]
+  ],
+  "ASTSizeofParamPack": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTSizeofParamPack"
+      ]
+    ]
+  ],
+  "ASTNoexceptExpr": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTNoexceptExpr"
+      ]
+    ]
+  ],
+  "ASTNewExpr": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTNewExpr"
+      ]
+    ]
+  ],
+  "ASTDeleteExpr": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTDeleteExpr"
+      ]
+    ]
+  ],
+  "ASTCommaExpr": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTCommaExpr"
+      ]
+    ]
+  ],
+  "ASTOperator": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTOperator"
+      ]
+    ]
+  ],
+  "ASTOperatorBuildIn": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTOperatorBuildIn"
+      ]
+    ]
+  ],
+  "ASTOperatorLiteral": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTOperatorLiteral"
+      ]
+    ]
+  ],
+  "ASTOperatorType": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTOperatorType"
+      ]
+    ]
+  ],
+  "ASTTemplateArgConstant": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTemplateArgConstant"
+      ]
+    ]
+  ],
+  "ASTTemplateArgs": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTemplateArgs"
+      ]
+    ]
+  ],
+  "ASTTrailingTypeSpecDecltypeAuto": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTrailingTypeSpecDecltypeAuto"
+      ]
+    ]
+  ],
+  "ASTTrailingTypeSpecDecltype": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTrailingTypeSpecDecltype"
+      ]
+    ]
+  ],
+  "ASTNoexceptSpec": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTNoexceptSpec"
+      ]
+    ]
+  ],
+  "ASTParametersQualifiers": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTParametersQualifiers"
+      ]
+    ]
+  ],
+  "ASTDeclaratorNameParamQual": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTDeclaratorNameParamQual"
+      ]
+    ]
+  ],
+  "ASTDeclaratorRef": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTDeclaratorRef"
+      ]
+    ]
+  ],
+  "ASTDeclaratorParamPack": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTDeclaratorParamPack"
+      ]
+    ]
+  ],
+  "ASTDeclaratorMemPtr": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTDeclaratorMemPtr"
+      ]
+    ]
+  ],
+  "ASTPackExpansionExpr": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTPackExpansionExpr"
+      ]
+    ]
+  ],
+  "ASTTemplateParamConstrainedTypeWithInit": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTemplateParamConstrainedTypeWithInit"
+      ]
+    ]
+  ],
+  "ASTTypeUsing": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTypeUsing"
+      ]
+    ]
+  ],
+  "ASTConcept": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTConcept"
+      ]
+    ]
+  ],
+  "ASTBaseClass": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTBaseClass"
+      ]
+    ]
+  ],
+  "ASTClass": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTClass"
+      ]
+    ]
+  ],
+  "ASTTemplateParam": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTemplateParam"
+      ]
+    ]
+  ],
+  "ASTTemplateKeyParamPackIdDefault": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTemplateKeyParamPackIdDefault"
+      ]
+    ]
+  ],
+  "ASTTemplateParamType": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTemplateParamType"
+      ]
+    ]
+  ],
+  "ASTTemplateParamTemplateType": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTemplateParamTemplateType"
+      ]
+    ]
+  ],
+  "ASTTemplateParamNonType": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTemplateParamNonType"
+      ]
+    ]
+  ],
+  "ASTTemplateParams": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTemplateParams"
+      ]
+    ]
+  ],
+  "ASTTemplateIntroductionParameter": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTemplateIntroductionParameter"
+      ]
+    ]
+  ],
+  "ASTTemplateIntroduction": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTemplateIntroduction"
+      ]
+    ]
+  ],
+  "ASTTemplateDeclarationPrefix": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTTemplateDeclarationPrefix"
+      ]
+    ]
+  ],
+  "ASTRequiresClause": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTRequiresClause"
+      ]
+    ]
+  ],
+  "ASTNamespace": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "ASTNamespace"
+      ]
+    ]
+  ],
+  "QualifiedSymbolIsTemplateParam": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "Symbol",
+        "find_name",
+        "QualifiedSymbolIsTemplateParam"
+      ]
+    ]
+  ],
+  "CPPObject": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPObject"
+      ]
+    ]
+  ],
+  "CPPTypeObject": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPTypeObject"
+      ]
+    ]
+  ],
+  "CPPConceptObject": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPConceptObject"
+      ]
+    ]
+  ],
+  "CPPMemberObject": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPMemberObject"
+      ]
+    ]
+  ],
+  "CPPFunctionObject": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPFunctionObject"
+      ]
+    ]
+  ],
+  "CPPClassObject": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPClassObject"
+      ]
+    ]
+  ],
+  "CPPUnionObject": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPUnionObject"
+      ]
+    ]
+  ],
+  "CPPEnumObject": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPEnumObject"
+      ]
+    ]
+  ],
+  "CPPEnumeratorObject": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPEnumeratorObject"
+      ]
+    ]
+  ],
+  "CPPNamespaceObject": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPNamespaceObject"
+      ]
+    ]
+  ],
+  "CPPNamespacePushObject": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPNamespacePushObject"
+      ]
+    ]
+  ],
+  "CPPNamespacePopObject": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPNamespacePopObject"
+      ]
+    ]
+  ],
+  "CPPAliasObject": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPAliasObject"
+      ]
+    ]
+  ],
+  "CPPXRefRole": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPXRefRole"
+      ]
+    ]
+  ],
+  "CPPExprRole": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPExprRole"
+      ]
+    ]
+  ],
+  "CPPDomain": [
+    [
+      "sphinx/domains/cpp.py",
+      [
+        "CPPDomain"
+      ]
+    ]
+  ],
+  "IndexDomain": [
+    [
+      "sphinx/domains/index.py",
+      [
+        "IndexDomain"
+      ]
+    ]
+  ],
+  "IndexDirective": [
+    [
+      "sphinx/domains/index.py",
+      [
+        "IndexDirective"
+      ]
+    ]
+  ],
+  "IndexRole": [
+    [
+      "sphinx/domains/index.py",
+      [
+        "IndexRole"
+      ]
+    ]
+  ],
+  "JSObject": [
+    [
+      "sphinx/domains/javascript.py",
+      [
+        "JSObject"
+      ]
+    ]
+  ],
+  "JSCallable": [
+    [
+      "sphinx/domains/javascript.py",
+      [
+        "JSCallable"
+      ]
+    ]
+  ],
+  "JSConstructor": [
+    [
+      "sphinx/domains/javascript.py",
+      [
+        "JSConstructor"
+      ]
+    ]
+  ],
+  "JSModule": [
+    [
+      "sphinx/domains/javascript.py",
+      [
+        "JSModule"
+      ]
+    ]
+  ],
+  "JSXRefRole": [
+    [
+      "sphinx/domains/javascript.py",
+      [
+        "JSXRefRole"
+      ]
+    ]
+  ],
+  "JavaScriptDomain": [
+    [
+      "sphinx/domains/javascript.py",
+      [
+        "JavaScriptDomain"
+      ]
+    ]
+  ],
+  "MathReferenceRole": [
+    [
+      "sphinx/domains/math.py",
+      [
+        "MathReferenceRole"
+      ]
+    ]
+  ],
+  "MathDomain": [
+    [
+      "sphinx/domains/math.py",
+      [
+        "MathDomain"
+      ]
+    ]
+  ],
+  "PyXrefMixin": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyXrefMixin"
+      ]
+    ]
+  ],
+  "PyField": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyField"
+      ]
+    ]
+  ],
+  "PyGroupedField": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyGroupedField"
+      ]
+    ]
+  ],
+  "PyTypedField": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyTypedField"
+      ]
+    ]
+  ],
+  "PyObject": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyObject"
+      ]
+    ]
+  ],
+  "PyModulelevel": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyModulelevel"
+      ]
+    ]
+  ],
+  "PyFunction": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyFunction"
+      ]
+    ]
+  ],
+  "PyDecoratorFunction": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyDecoratorFunction"
+      ]
+    ]
+  ],
+  "PyVariable": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyVariable"
+      ]
+    ]
+  ],
+  "PyClasslike": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyClasslike"
+      ]
+    ]
+  ],
+  "PyClassmember": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyClassmember"
+      ]
+    ]
+  ],
+  "PyMethod": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyMethod"
+      ]
+    ]
+  ],
+  "PyClassMethod": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyClassMethod"
+      ]
+    ]
+  ],
+  "PyStaticMethod": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyStaticMethod"
+      ]
+    ]
+  ],
+  "PyDecoratorMethod": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyDecoratorMethod"
+      ]
+    ]
+  ],
+  "PyAttribute": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyAttribute"
+      ]
+    ]
+  ],
+  "PyDecoratorMixin": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyDecoratorMixin"
+      ]
+    ]
+  ],
+  "PyModule": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyModule"
+      ]
+    ]
+  ],
+  "PyCurrentModule": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyCurrentModule"
+      ]
+    ]
+  ],
+  "PyXRefRole": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PyXRefRole"
+      ]
+    ]
+  ],
+  "PythonModuleIndex": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PythonModuleIndex"
+      ]
+    ]
+  ],
+  "PythonDomain": [
+    [
+      "sphinx/domains/python.py",
+      [
+        "PythonDomain"
+      ]
+    ]
+  ],
+  "ReSTMarkup": [
+    [
+      "sphinx/domains/rst.py",
+      [
+        "ReSTMarkup"
+      ]
+    ]
+  ],
+  "ReSTDirective": [
+    [
+      "sphinx/domains/rst.py",
+      [
+        "ReSTDirective"
+      ]
+    ]
+  ],
+  "ReSTDirectiveOption": [
+    [
+      "sphinx/domains/rst.py",
+      [
+        "ReSTDirectiveOption"
+      ]
+    ]
+  ],
+  "ReSTRole": [
+    [
+      "sphinx/domains/rst.py",
+      [
+        "ReSTRole"
+      ]
+    ]
+  ],
+  "ReSTDomain": [
+    [
+      "sphinx/domains/rst.py",
+      [
+        "ReSTDomain"
+      ]
+    ]
+  ],
+  "GenericObject": [
+    [
+      "sphinx/domains/std.py",
+      [
+        "GenericObject"
+      ]
+    ]
+  ],
+  "EnvVar": [
+    [
+      "sphinx/domains/std.py",
+      [
+        "EnvVar"
+      ]
+    ]
+  ],
+  "EnvVarXRefRole": [
+    [
+      "sphinx/domains/std.py",
+      [
+        "EnvVarXRefRole"
+      ]
+    ]
+  ],
+  "Target": [
+    [
+      "sphinx/domains/std.py",
+      [
+        "Target"
+      ]
+    ]
+  ],
+  "Cmdoption": [
+    [
+      "sphinx/domains/std.py",
+      [
+        "Cmdoption"
+      ]
+    ]
+  ],
+  "Program": [
+    [
+      "sphinx/domains/std.py",
+      [
+        "Program"
+      ]
+    ]
+  ],
+  "OptionXRefRole": [
+    [
+      "sphinx/domains/std.py",
+      [
+        "OptionXRefRole"
+      ]
+    ]
+  ],
+  "Glossary": [
+    [
+      "sphinx/domains/std.py",
+      [
+        "Glossary"
+      ]
+    ]
+  ],
+  "ProductionList": [
+    [
+      "sphinx/domains/std.py",
+      [
+        "ProductionList"
+      ]
+    ]
+  ],
+  "TokenXRefRole": [
+    [
+      "sphinx/domains/std.py",
+      [
+        "TokenXRefRole"
+      ]
+    ]
+  ],
+  "StandardDomain": [
+    [
+      "sphinx/domains/std.py",
+      [
+        "StandardDomain"
+      ]
+    ]
+  ],
+  "BuildEnvironment": [
+    [
+      "sphinx/environment/__init__.py",
+      [
+        "BuildEnvironment"
+      ]
+    ]
+  ],
+  "ImageAdapter": [
+    [
+      "sphinx/environment/adapters/asset.py",
+      [
+        "ImageAdapter"
+      ]
+    ]
+  ],
+  "IndexEntries": [
+    [
+      "sphinx/environment/adapters/indexentries.py",
+      [
+        "IndexEntries"
+      ]
+    ]
+  ],
+  "EnvironmentCollector": [
+    [
+      "sphinx/environment/collectors/__init__.py",
+      [
+        "EnvironmentCollector"
+      ]
+    ]
+  ],
+  "ImageCollector": [
+    [
+      "sphinx/environment/collectors/asset.py",
+      [
+        "ImageCollector"
+      ]
+    ]
+  ],
+  "DownloadFileCollector": [
+    [
+      "sphinx/environment/collectors/asset.py",
+      [
+        "DownloadFileCollector"
+      ]
+    ]
+  ],
+  "DependenciesCollector": [
+    [
+      "sphinx/environment/collectors/dependencies.py",
+      [
+        "DependenciesCollector"
+      ]
+    ]
+  ],
+  "IndexEntriesCollector": [
+    [
+      "sphinx/environment/collectors/indexentries.py",
+      [
+        "IndexEntriesCollector"
+      ]
+    ]
+  ],
+  "MetadataCollector": [
+    [
+      "sphinx/environment/collectors/metadata.py",
+      [
+        "MetadataCollector"
+      ]
+    ]
+  ],
+  "TitleCollector": [
+    [
+      "sphinx/environment/collectors/title.py",
+      [
+        "TitleCollector"
+      ]
+    ]
+  ],
+  "TocTreeCollector": [
+    [
+      "sphinx/environment/collectors/toctree.py",
+      [
+        "TocTreeCollector"
+      ]
+    ]
+  ],
+  "SphinxError": [
+    [
+      "sphinx/errors.py",
+      [
+        "SphinxError"
+      ]
+    ]
+  ],
+  "SphinxWarning": [
+    [
+      "sphinx/errors.py",
+      [
+        "SphinxWarning"
+      ]
+    ]
+  ],
+  "ApplicationError": [
+    [
+      "sphinx/errors.py",
+      [
+        "ApplicationError"
+      ]
+    ]
+  ],
+  "ExtensionError": [
+    [
+      "sphinx/errors.py",
+      [
+        "ExtensionError"
+      ]
+    ]
+  ],
+  "BuildEnvironmentError": [
+    [
+      "sphinx/errors.py",
+      [
+        "BuildEnvironmentError"
+      ]
+    ]
+  ],
+  "ConfigError": [
+    [
+      "sphinx/errors.py",
+      [
+        "ConfigError"
+      ]
+    ]
+  ],
+  "DocumentError": [
+    [
+      "sphinx/errors.py",
+      [
+        "DocumentError"
+      ]
+    ]
+  ],
+  "ThemeError": [
+    [
+      "sphinx/errors.py",
+      [
+        "ThemeError"
+      ]
+    ]
+  ],
+  "VersionRequirementError": [
+    [
+      "sphinx/errors.py",
+      [
+        "VersionRequirementError"
+      ]
+    ]
+  ],
+  "SphinxParallelError": [
+    [
+      "sphinx/errors.py",
+      [
+        "SphinxParallelError"
+      ]
+    ]
+  ],
+  "PycodeError": [
+    [
+      "sphinx/errors.py",
+      [
+        "PycodeError"
+      ]
+    ]
+  ],
+  "NoUri": [
+    [
+      "sphinx/errors.py",
+      [
+        "NoUri"
+      ]
+    ]
+  ],
+  "FiletypeNotFoundError": [
+    [
+      "sphinx/errors.py",
+      [
+        "FiletypeNotFoundError"
+      ]
+    ]
+  ],
+  "EventManager": [
+    [
+      "sphinx/events.py",
+      [
+        "EventManager"
+      ]
+    ]
+  ],
+  "_All": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "_All"
+      ]
+    ]
+  ],
+  "_Empty": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "_Empty"
+      ]
+    ]
+  ],
+  "Options": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "Options"
+      ]
+    ]
+  ],
+  "ObjectMember": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "ObjectMember"
+      ]
+    ]
+  ],
+  "Documenter": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "Documenter"
+      ]
+    ]
+  ],
+  "ModuleDocumenter": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "ModuleDocumenter"
+      ]
+    ]
+  ],
+  "ModuleLevelDocumenter": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "ModuleLevelDocumenter"
+      ]
+    ]
+  ],
+  "ClassLevelDocumenter": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "ClassLevelDocumenter"
+      ]
+    ]
+  ],
+  "DocstringSignatureMixin": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "DocstringSignatureMixin"
+      ]
+    ]
+  ],
+  "DocstringStripSignatureMixin": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "DocstringStripSignatureMixin"
+      ]
+    ]
+  ],
+  "FunctionDocumenter": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "FunctionDocumenter"
+      ]
+    ]
+  ],
+  "DecoratorDocumenter": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "DecoratorDocumenter"
+      ]
+    ]
+  ],
+  "ClassDocumenter": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "ClassDocumenter"
+      ]
+    ]
+  ],
+  "ExceptionDocumenter": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "ExceptionDocumenter"
+      ]
+    ]
+  ],
+  "DataDocumenterMixinBase": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "DataDocumenterMixinBase"
+      ]
+    ]
+  ],
+  "GenericAliasMixin": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "GenericAliasMixin"
+      ]
+    ]
+  ],
+  "NewTypeMixin": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "NewTypeMixin"
+      ]
+    ]
+  ],
+  "TypeVarMixin": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "TypeVarMixin"
+      ]
+    ]
+  ],
+  "UninitializedGlobalVariableMixin": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "UninitializedGlobalVariableMixin"
+      ]
+    ]
+  ],
+  "DataDocumenter": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "DataDocumenter"
+      ]
+    ]
+  ],
+  "NewTypeDataDocumenter": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "NewTypeDataDocumenter"
+      ]
+    ]
+  ],
+  "MethodDocumenter": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "MethodDocumenter"
+      ]
+    ]
+  ],
+  "NonDataDescriptorMixin": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "NonDataDescriptorMixin"
+      ]
+    ]
+  ],
+  "SlotsMixin": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "SlotsMixin"
+      ]
+    ]
+  ],
+  "UninitializedInstanceAttributeMixin": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "UninitializedInstanceAttributeMixin"
+      ]
+    ]
+  ],
+  "AttributeDocumenter": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "AttributeDocumenter"
+      ]
+    ]
+  ],
+  "PropertyDocumenter": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "PropertyDocumenter"
+      ]
+    ]
+  ],
+  "NewTypeAttributeDocumenter": [
+    [
+      "sphinx/ext/autodoc/__init__.py",
+      [
+        "NewTypeAttributeDocumenter"
+      ]
+    ]
+  ],
+  "SingledispatchFunctionDocumenter": [
+    [
+      "sphinx/ext/autodoc/deprecated.py",
+      [
+        "SingledispatchFunctionDocumenter"
+      ]
+    ]
+  ],
+  "DataDeclarationDocumenter": [
+    [
+      "sphinx/ext/autodoc/deprecated.py",
+      [
+        "DataDeclarationDocumenter"
+      ]
+    ]
+  ],
+  "TypeVarDocumenter": [
+    [
+      "sphinx/ext/autodoc/deprecated.py",
+      [
+        "TypeVarDocumenter"
+      ]
+    ]
+  ],
+  "SingledispatchMethodDocumenter": [
+    [
+      "sphinx/ext/autodoc/deprecated.py",
+      [
+        "SingledispatchMethodDocumenter"
+      ]
+    ]
+  ],
+  "InstanceAttributeDocumenter": [
+    [
+      "sphinx/ext/autodoc/deprecated.py",
+      [
+        "InstanceAttributeDocumenter"
+      ]
+    ]
+  ],
+  "SlotsAttributeDocumenter": [
+    [
+      "sphinx/ext/autodoc/deprecated.py",
+      [
+        "SlotsAttributeDocumenter"
+      ]
+    ]
+  ],
+  "GenericAliasDocumenter": [
+    [
+      "sphinx/ext/autodoc/deprecated.py",
+      [
+        "GenericAliasDocumenter"
+      ]
+    ]
+  ],
+  "DummyOptionSpec": [
+    [
+      "sphinx/ext/autodoc/directive.py",
+      [
+        "DummyOptionSpec"
+      ]
+    ]
+  ],
+  "DocumenterBridge": [
+    [
+      "sphinx/ext/autodoc/directive.py",
+      [
+        "DocumenterBridge"
+      ]
+    ]
+  ],
+  "AutodocDirective": [
+    [
+      "sphinx/ext/autodoc/directive.py",
+      [
+        "AutodocDirective"
+      ]
+    ]
+  ],
+  "ClassAttribute": [
+    [
+      "sphinx/ext/autodoc/importer.py",
+      [
+        "ClassAttribute"
+      ]
+    ]
+  ],
+  "_MockObject": [
+    [
+      "sphinx/ext/autodoc/mock.py",
+      [
+        "_MockObject"
+      ]
+    ]
+  ],
+  "_MockModule": [
+    [
+      "sphinx/ext/autodoc/mock.py",
+      [
+        "_MockModule"
+      ]
+    ]
+  ],
+  "MockLoader": [
+    [
+      "sphinx/ext/autodoc/mock.py",
+      [
+        "MockLoader"
+      ]
+    ]
+  ],
+  "MockFinder": [
+    [
+      "sphinx/ext/autodoc/mock.py",
+      [
+        "MockFinder"
+      ]
+    ]
+  ],
+  "autosummary_toc": [
+    [
+      "sphinx/ext/autosummary/__init__.py",
+      [
+        "autosummary_toc"
+      ]
+    ]
+  ],
+  "autosummary_table": [
+    [
+      "sphinx/ext/autosummary/__init__.py",
+      [
+        "autosummary_table"
+      ]
+    ]
+  ],
+  "FakeDirective": [
+    [
+      "sphinx/ext/autosummary/__init__.py",
+      [
+        "FakeDirective"
+      ]
+    ]
+  ],
+  "Autosummary": [
+    [
+      "sphinx/ext/autosummary/__init__.py",
+      [
+        "Autosummary"
+      ]
+    ]
+  ],
+  "AutoLink": [
+    [
+      "sphinx/ext/autosummary/__init__.py",
+      [
+        "AutoLink"
+      ]
+    ]
+  ],
+  "DummyApplication": [
+    [
+      "sphinx/ext/autosummary/generate.py",
+      [
+        "DummyApplication"
+      ]
+    ]
+  ],
+  "AutosummaryRenderer": [
+    [
+      "sphinx/ext/autosummary/generate.py",
+      [
+        "AutosummaryRenderer"
+      ]
+    ]
+  ],
+  "ModuleScanner": [
+    [
+      "sphinx/ext/autosummary/generate.py",
+      [
+        "ModuleScanner"
+      ]
+    ]
+  ],
+  "CoverageBuilder": [
+    [
+      "sphinx/ext/coverage.py",
+      [
+        "CoverageBuilder"
+      ]
+    ]
+  ],
+  "TestDirective": [
+    [
+      "sphinx/ext/doctest.py",
+      [
+        "TestDirective"
+      ]
+    ]
+  ],
+  "TestsetupDirective": [
+    [
+      "sphinx/ext/doctest.py",
+      [
+        "TestsetupDirective"
+      ]
+    ]
+  ],
+  "TestcleanupDirective": [
+    [
+      "sphinx/ext/doctest.py",
+      [
+        "TestcleanupDirective"
+      ]
+    ]
+  ],
+  "DoctestDirective": [
+    [
+      "sphinx/ext/doctest.py",
+      [
+        "DoctestDirective"
+      ]
+    ]
+  ],
+  "TestcodeDirective": [
+    [
+      "sphinx/ext/doctest.py",
+      [
+        "TestcodeDirective"
+      ]
+    ]
+  ],
+  "TestoutputDirective": [
+    [
+      "sphinx/ext/doctest.py",
+      [
+        "TestoutputDirective"
+      ]
+    ]
+  ],
+  "TestGroup": [
+    [
+      "sphinx/ext/doctest.py",
+      [
+        "TestGroup"
+      ]
+    ]
+  ],
+  "TestCode": [
+    [
+      "sphinx/ext/doctest.py",
+      [
+        "TestCode"
+      ]
+    ]
+  ],
+  "SphinxDocTestRunner": [
+    [
+      "sphinx/ext/doctest.py",
+      [
+        "SphinxDocTestRunner"
+      ]
+    ]
+  ],
+  "DocTestBuilder": [
+    [
+      "sphinx/ext/doctest.py",
+      [
+        "DocTestBuilder"
+      ]
+    ]
+  ],
+  "DurationDomain": [
+    [
+      "sphinx/ext/duration.py",
+      [
+        "DurationDomain"
+      ]
+    ]
+  ],
+  "GraphvizError": [
+    [
+      "sphinx/ext/graphviz.py",
+      [
+        "GraphvizError"
+      ]
+    ]
+  ],
+  "ClickableMapDefinition": [
+    [
+      "sphinx/ext/graphviz.py",
+      [
+        "ClickableMapDefinition"
+      ]
+    ]
+  ],
+  "graphviz": [
+    [
+      "sphinx/ext/graphviz.py",
+      [
+        "graphviz"
+      ]
+    ]
+  ],
+  "Graphviz": [
+    [
+      "sphinx/ext/graphviz.py",
+      [
+        "Graphviz"
+      ]
+    ]
+  ],
+  "GraphvizSimple": [
+    [
+      "sphinx/ext/graphviz.py",
+      [
+        "GraphvizSimple"
+      ]
+    ]
+  ],
+  "ifconfig": [
+    [
+      "sphinx/ext/ifconfig.py",
+      [
+        "ifconfig"
+      ]
+    ]
+  ],
+  "IfConfig": [
+    [
+      "sphinx/ext/ifconfig.py",
+      [
+        "IfConfig"
+      ]
+    ]
+  ],
+  "ImagemagickConverter": [
+    [
+      "sphinx/ext/imgconverter.py",
+      [
+        "ImagemagickConverter"
+      ]
+    ]
+  ],
+  "MathExtError": [
+    [
+      "sphinx/ext/imgmath.py",
+      [
+        "MathExtError"
+      ]
+    ]
+  ],
+  "InvokeError": [
+    [
+      "sphinx/ext/imgmath.py",
+      [
+        "InvokeError"
+      ]
+    ]
+  ],
+  "InheritanceException": [
+    [
+      "sphinx/ext/inheritance_diagram.py",
+      [
+        "InheritanceException"
+      ]
+    ]
+  ],
+  "InheritanceGraph": [
+    [
+      "sphinx/ext/inheritance_diagram.py",
+      [
+        "InheritanceGraph"
+      ]
+    ]
+  ],
+  "inheritance_diagram": [
+    [
+      "sphinx/ext/inheritance_diagram.py",
+      [
+        "inheritance_diagram"
+      ]
+    ]
+  ],
+  "InheritanceDiagram": [
+    [
+      "sphinx/ext/inheritance_diagram.py",
+      [
+        "InheritanceDiagram"
+      ]
+    ]
+  ],
+  "InventoryAdapter": [
+    [
+      "sphinx/ext/intersphinx.py",
+      [
+        "InventoryAdapter"
+      ]
+    ]
+  ],
+  "MockConfig": [
+    [
+      "sphinx/ext/intersphinx.py",
+      [
+        "inspect_main",
+        "MockConfig"
+      ]
+    ]
+  ],
+  "MockApp": [
+    [
+      "sphinx/ext/intersphinx.py",
+      [
+        "inspect_main",
+        "MockApp"
+      ]
+    ]
+  ],
+  "LinkcodeError": [
+    [
+      "sphinx/ext/linkcode.py",
+      [
+        "LinkcodeError"
+      ]
+    ]
+  ],
+  "GoogleDocstring": [
+    [
+      "sphinx/ext/napoleon/docstring.py",
+      [
+        "GoogleDocstring"
+      ]
+    ]
+  ],
+  "NumpyDocstring": [
+    [
+      "sphinx/ext/napoleon/docstring.py",
+      [
+        "NumpyDocstring"
+      ]
+    ]
+  ],
+  "peek_iter": [
+    [
+      "sphinx/ext/napoleon/iterators.py",
+      [
+        "peek_iter"
+      ]
+    ]
+  ],
+  "modify_iter": [
+    [
+      "sphinx/ext/napoleon/iterators.py",
+      [
+        "modify_iter"
+      ]
+    ]
+  ],
+  "todo_node": [
+    [
+      "sphinx/ext/todo.py",
+      [
+        "todo_node"
+      ]
+    ]
+  ],
+  "Todo": [
+    [
+      "sphinx/ext/todo.py",
+      [
+        "Todo"
+      ]
+    ]
+  ],
+  "TodoDomain": [
+    [
+      "sphinx/ext/todo.py",
+      [
+        "TodoDomain"
+      ]
+    ]
+  ],
+  "TodoList": [
+    [
+      "sphinx/ext/todo.py",
+      [
+        "TodoList"
+      ]
+    ]
+  ],
+  "TodoListProcessor": [
+    [
+      "sphinx/ext/todo.py",
+      [
+        "TodoListProcessor"
+      ]
+    ]
+  ],
+  "Extension": [
+    [
+      "sphinx/extension.py",
+      [
+        "Extension"
+      ]
+    ]
+  ],
+  "PygmentsBridge": [
+    [
+      "sphinx/highlighting.py",
+      [
+        "PygmentsBridge"
+      ]
+    ]
+  ],
+  "SphinxBaseReader": [
+    [
+      "sphinx/io.py",
+      [
+        "SphinxBaseReader"
+      ]
+    ]
+  ],
+  "SphinxStandaloneReader": [
+    [
+      "sphinx/io.py",
+      [
+        "SphinxStandaloneReader"
+      ]
+    ]
+  ],
+  "SphinxI18nReader": [
+    [
+      "sphinx/io.py",
+      [
+        "SphinxI18nReader"
+      ]
+    ]
+  ],
+  "SphinxDummyWriter": [
+    [
+      "sphinx/io.py",
+      [
+        "SphinxDummyWriter"
+      ]
+    ]
+  ],
+  "SphinxFileInput": [
+    [
+      "sphinx/io.py",
+      [
+        "SphinxFileInput"
+      ]
+    ]
+  ],
+  "idgen": [
+    [
+      "sphinx/jinja2glue.py",
+      [
+        "idgen"
+      ]
+    ]
+  ],
+  "SphinxFileSystemLoader": [
+    [
+      "sphinx/jinja2glue.py",
+      [
+        "SphinxFileSystemLoader"
+      ]
+    ]
+  ],
+  "BuiltinTemplateLoader": [
+    [
+      "sphinx/jinja2glue.py",
+      [
+        "BuiltinTemplateLoader"
+      ]
+    ]
+  ],
+  "_TranslationProxy": [
+    [
+      "sphinx/locale/__init__.py",
+      [
+        "_TranslationProxy"
+      ]
+    ]
+  ],
+  "Parser": [
+    [
+      "sphinx/parsers.py",
+      [
+        "Parser"
+      ]
+    ],
+    [
+      "sphinx/pycode/parser.py",
+      [
+        "Parser"
+      ]
+    ],
+    [
+      "tests/roots/test-root/parsermod.py",
+      [
+        "Parser"
+      ]
+    ]
+  ],
+  "RSTParser": [
+    [
+      "sphinx/parsers.py",
+      [
+        "RSTParser"
+      ]
+    ]
+  ],
+  "Project": [
+    [
+      "sphinx/project.py",
+      [
+        "Project"
+      ]
+    ]
+  ],
+  "ModuleAnalyzer": [
+    [
+      "sphinx/pycode/__init__.py",
+      [
+        "ModuleAnalyzer"
+      ]
+    ]
+  ],
+  "_UnparseVisitor": [
+    [
+      "sphinx/pycode/ast.py",
+      [
+        "_UnparseVisitor"
+      ]
+    ]
+  ],
+  "Token": [
+    [
+      "sphinx/pycode/parser.py",
+      [
+        "Token"
+      ]
+    ]
+  ],
+  "TokenProcessor": [
+    [
+      "sphinx/pycode/parser.py",
+      [
+        "TokenProcessor"
+      ]
+    ]
+  ],
+  "AfterCommentParser": [
+    [
+      "sphinx/pycode/parser.py",
+      [
+        "AfterCommentParser"
+      ]
+    ]
+  ],
+  "VariableCommentPicker": [
+    [
+      "sphinx/pycode/parser.py",
+      [
+        "VariableCommentPicker"
+      ]
+    ]
+  ],
+  "DefinitionFinder": [
+    [
+      "sphinx/pycode/parser.py",
+      [
+        "DefinitionFinder"
+      ]
+    ]
+  ],
+  "NoneStyle": [
+    [
+      "sphinx/pygments_styles.py",
+      [
+        "NoneStyle"
+      ]
+    ]
+  ],
+  "SphinxStyle": [
+    [
+      "sphinx/pygments_styles.py",
+      [
+        "SphinxStyle"
+      ]
+    ]
+  ],
+  "PyramidStyle": [
+    [
+      "sphinx/pygments_styles.py",
+      [
+        "PyramidStyle"
+      ]
+    ]
+  ],
+  "SphinxComponentRegistry": [
+    [
+      "sphinx/registry.py",
+      [
+        "SphinxComponentRegistry"
+      ]
+    ]
+  ],
+  "XRefRole": [
+    [
+      "sphinx/roles.py",
+      [
+        "XRefRole"
+      ]
+    ]
+  ],
+  "AnyXRefRole": [
+    [
+      "sphinx/roles.py",
+      [
+        "AnyXRefRole"
+      ]
+    ]
+  ],
+  "PEP": [
+    [
+      "sphinx/roles.py",
+      [
+        "PEP"
+      ]
+    ]
+  ],
+  "RFC": [
+    [
+      "sphinx/roles.py",
+      [
+        "RFC"
+      ]
+    ]
+  ],
+  "GUILabel": [
+    [
+      "sphinx/roles.py",
+      [
+        "GUILabel"
+      ]
+    ]
+  ],
+  "MenuSelection": [
+    [
+      "sphinx/roles.py",
+      [
+        "MenuSelection"
+      ]
+    ]
+  ],
+  "EmphasizedLiteral": [
+    [
+      "sphinx/roles.py",
+      [
+        "EmphasizedLiteral"
+      ]
+    ]
+  ],
+  "Abbreviation": [
+    [
+      "sphinx/roles.py",
+      [
+        "Abbreviation"
+      ]
+    ]
+  ],
+  "SearchLanguage": [
+    [
+      "sphinx/search/__init__.py",
+      [
+        "SearchLanguage"
+      ]
+    ]
+  ],
+  "_JavaScriptIndex": [
+    [
+      "sphinx/search/__init__.py",
+      [
+        "_JavaScriptIndex"
+      ]
+    ]
+  ],
+  "WordCollector": [
+    [
+      "sphinx/search/__init__.py",
+      [
+        "WordCollector"
+      ]
+    ]
+  ],
+  "IndexBuilder": [
+    [
+      "sphinx/search/__init__.py",
+      [
+        "IndexBuilder"
+      ]
+    ]
+  ],
+  "SearchDanish": [
+    [
+      "sphinx/search/da.py",
+      [
+        "SearchDanish"
+      ]
+    ]
+  ],
+  "SearchGerman": [
+    [
+      "sphinx/search/de.py",
+      [
+        "SearchGerman"
+      ]
+    ]
+  ],
+  "SearchEnglish": [
+    [
+      "sphinx/search/en.py",
+      [
+        "SearchEnglish"
+      ]
+    ]
+  ],
+  "SearchSpanish": [
+    [
+      "sphinx/search/es.py",
+      [
+        "SearchSpanish"
+      ]
+    ]
+  ],
+  "SearchFinnish": [
+    [
+      "sphinx/search/fi.py",
+      [
+        "SearchFinnish"
+      ]
+    ]
+  ],
+  "SearchFrench": [
+    [
+      "sphinx/search/fr.py",
+      [
+        "SearchFrench"
+      ]
+    ]
+  ],
+  "SearchHungarian": [
+    [
+      "sphinx/search/hu.py",
+      [
+        "SearchHungarian"
+      ]
+    ]
+  ],
+  "SearchItalian": [
+    [
+      "sphinx/search/it.py",
+      [
+        "SearchItalian"
+      ]
+    ]
+  ],
+  "BaseSplitter": [
+    [
+      "sphinx/search/ja.py",
+      [
+        "BaseSplitter"
+      ]
+    ]
+  ],
+  "MecabSplitter": [
+    [
+      "sphinx/search/ja.py",
+      [
+        "MecabSplitter"
+      ]
+    ]
+  ],
+  "JanomeSplitter": [
+    [
+      "sphinx/search/ja.py",
+      [
+        "JanomeSplitter"
+      ]
+    ]
+  ],
+  "DefaultSplitter": [
+    [
+      "sphinx/search/ja.py",
+      [
+        "DefaultSplitter"
+      ]
+    ]
+  ],
+  "SearchJapanese": [
+    [
+      "sphinx/search/ja.py",
+      [
+        "SearchJapanese"
+      ]
+    ]
+  ],
+  "SearchDutch": [
+    [
+      "sphinx/search/nl.py",
+      [
+        "SearchDutch"
+      ]
+    ]
+  ],
+  "SearchNorwegian": [
+    [
+      "sphinx/search/no.py",
+      [
+        "SearchNorwegian"
+      ]
+    ]
+  ],
+  "SearchPortuguese": [
+    [
+      "sphinx/search/pt.py",
+      [
+        "SearchPortuguese"
+      ]
+    ]
+  ],
+  "SearchRomanian": [
+    [
+      "sphinx/search/ro.py",
+      [
+        "SearchRomanian"
+      ]
+    ]
+  ],
+  "SearchRussian": [
+    [
+      "sphinx/search/ru.py",
+      [
+        "SearchRussian"
+      ]
+    ]
+  ],
+  "SearchSwedish": [
+    [
+      "sphinx/search/sv.py",
+      [
+        "SearchSwedish"
+      ]
+    ]
+  ],
+  "SearchTurkish": [
+    [
+      "sphinx/search/tr.py",
+      [
+        "SearchTurkish"
+      ]
+    ]
+  ],
+  "SearchChinese": [
+    [
+      "sphinx/search/zh.py",
+      [
+        "SearchChinese"
+      ]
+    ]
+  ],
+  "BuildDoc": [
+    [
+      "sphinx/setup_command.py",
+      [
+        "BuildDoc"
+      ]
+    ]
+  ],
+  "PathComparer": [
+    [
+      "sphinx/testing/comparer.py",
+      [
+        "PathComparer"
+      ]
+    ]
+  ],
+  "SharedResult": [
+    [
+      "sphinx/testing/fixtures.py",
+      [
+        "SharedResult"
+      ]
+    ]
+  ],
+  "path": [
+    [
+      "sphinx/testing/path.py",
+      [
+        "path"
+      ]
+    ]
+  ],
+  "Struct": [
+    [
+      "sphinx/testing/util.py",
+      [
+        "Struct"
+      ]
+    ]
+  ],
+  "SphinxTestApp": [
+    [
+      "sphinx/testing/util.py",
+      [
+        "SphinxTestApp"
+      ]
+    ]
+  ],
+  "SphinxTestAppWrapperForSkipBuilding": [
+    [
+      "sphinx/testing/util.py",
+      [
+        "SphinxTestAppWrapperForSkipBuilding"
+      ]
+    ]
+  ],
+  "HTMLThemeFactory": [
+    [
+      "sphinx/theming.py",
+      [
+        "HTMLThemeFactory"
+      ]
+    ]
+  ],
+  "SphinxTransform": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "SphinxTransform"
+      ]
+    ]
+  ],
+  "SphinxTransformer": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "SphinxTransformer"
+      ]
+    ]
+  ],
+  "DefaultSubstitutions": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "DefaultSubstitutions"
+      ]
+    ]
+  ],
+  "MoveModuleTargets": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "MoveModuleTargets"
+      ]
+    ]
+  ],
+  "HandleCodeBlocks": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "HandleCodeBlocks"
+      ]
+    ]
+  ],
+  "AutoNumbering": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "AutoNumbering"
+      ]
+    ]
+  ],
+  "SortIds": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "SortIds"
+      ]
+    ]
+  ],
+  "ApplySourceWorkaround": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "ApplySourceWorkaround"
+      ]
+    ]
+  ],
+  "AutoIndexUpgrader": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "AutoIndexUpgrader"
+      ]
+    ]
+  ],
+  "ExtraTranslatableNodes": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "ExtraTranslatableNodes"
+      ]
+    ]
+  ],
+  "UnreferencedFootnotesDetector": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "UnreferencedFootnotesDetector"
+      ]
+    ]
+  ],
+  "DoctestTransform": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "DoctestTransform"
+      ]
+    ]
+  ],
+  "FigureAligner": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "FigureAligner"
+      ]
+    ]
+  ],
+  "FilterSystemMessages": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "FilterSystemMessages"
+      ]
+    ]
+  ],
+  "SphinxContentsFilter": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "SphinxContentsFilter"
+      ]
+    ]
+  ],
+  "SphinxSmartQuotes": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "SphinxSmartQuotes"
+      ]
+    ]
+  ],
+  "DoctreeReadEvent": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "DoctreeReadEvent"
+      ]
+    ]
+  ],
+  "ManpageLink": [
+    [
+      "sphinx/transforms/__init__.py",
+      [
+        "ManpageLink"
+      ]
+    ]
+  ],
+  "RefOnlyListChecker": [
+    [
+      "sphinx/transforms/compact_bullet_list.py",
+      [
+        "RefOnlyListChecker"
+      ]
+    ]
+  ],
+  "RefOnlyBulletListTransform": [
+    [
+      "sphinx/transforms/compact_bullet_list.py",
+      [
+        "RefOnlyBulletListTransform"
+      ]
+    ]
+  ],
+  "PreserveTranslatableMessages": [
+    [
+      "sphinx/transforms/i18n.py",
+      [
+        "PreserveTranslatableMessages"
+      ]
+    ]
+  ],
+  "Locale": [
+    [
+      "sphinx/transforms/i18n.py",
+      [
+        "Locale"
+      ]
+    ]
+  ],
+  "RemoveTranslatableInline": [
+    [
+      "sphinx/transforms/i18n.py",
+      [
+        "RemoveTranslatableInline"
+      ]
+    ]
+  ],
+  "SphinxPostTransform": [
+    [
+      "sphinx/transforms/post_transforms/__init__.py",
+      [
+        "SphinxPostTransform"
+      ]
+    ]
+  ],
+  "ReferencesResolver": [
+    [
+      "sphinx/transforms/post_transforms/__init__.py",
+      [
+        "ReferencesResolver"
+      ]
+    ]
+  ],
+  "OnlyNodeTransform": [
+    [
+      "sphinx/transforms/post_transforms/__init__.py",
+      [
+        "OnlyNodeTransform"
+      ]
+    ]
+  ],
+  "SigElementFallbackTransform": [
+    [
+      "sphinx/transforms/post_transforms/__init__.py",
+      [
+        "SigElementFallbackTransform"
+      ]
+    ]
+  ],
+  "HighlightLanguageTransform": [
+    [
+      "sphinx/transforms/post_transforms/code.py",
+      [
+        "HighlightLanguageTransform"
+      ]
+    ]
+  ],
+  "HighlightLanguageVisitor": [
+    [
+      "sphinx/transforms/post_transforms/code.py",
+      [
+        "HighlightLanguageVisitor"
+      ]
+    ]
+  ],
+  "TrimDoctestFlagsTransform": [
+    [
+      "sphinx/transforms/post_transforms/code.py",
+      [
+        "TrimDoctestFlagsTransform"
+      ]
+    ]
+  ],
+  "BaseImageConverter": [
+    [
+      "sphinx/transforms/post_transforms/images.py",
+      [
+        "BaseImageConverter"
+      ]
+    ]
+  ],
+  "ImageDownloader": [
+    [
+      "sphinx/transforms/post_transforms/images.py",
+      [
+        "ImageDownloader"
+      ]
+    ]
+  ],
+  "DataURIExtractor": [
+    [
+      "sphinx/transforms/post_transforms/images.py",
+      [
+        "DataURIExtractor"
+      ]
+    ]
+  ],
+  "ImageConverter": [
+    [
+      "sphinx/transforms/post_transforms/images.py",
+      [
+        "ImageConverter"
+      ]
+    ]
+  ],
+  "SphinxDanglingReferences": [
+    [
+      "sphinx/transforms/references.py",
+      [
+        "SphinxDanglingReferences"
+      ]
+    ]
+  ],
+  "SphinxDomains": [
+    [
+      "sphinx/transforms/references.py",
+      [
+        "SphinxDomains"
+      ]
+    ]
+  ],
+  "FilenameUniqDict": [
+    [
+      "sphinx/util/__init__.py",
+      [
+        "FilenameUniqDict"
+      ]
+    ]
+  ],
+  "DownloadFiles": [
+    [
+      "sphinx/util/__init__.py",
+      [
+        "DownloadFiles"
+      ]
+    ]
+  ],
+  "UnicodeDecodeErrorHandler": [
+    [
+      "sphinx/util/__init__.py",
+      [
+        "UnicodeDecodeErrorHandler"
+      ]
+    ]
+  ],
+  "attrdict": [
+    [
+      "sphinx/util/__init__.py",
+      [
+        "attrdict"
+      ]
+    ]
+  ],
+  "PeekableIterator": [
+    [
+      "sphinx/util/__init__.py",
+      [
+        "PeekableIterator"
+      ]
+    ]
+  ],
+  "SkipProgressMessage": [
+    [
+      "sphinx/util/__init__.py",
+      [
+        "SkipProgressMessage"
+      ]
+    ]
+  ],
+  "progress_message": [
+    [
+      "sphinx/util/__init__.py",
+      [
+        "progress_message"
+      ]
+    ]
+  ],
+  "BuildPhase": [
+    [
+      "sphinx/util/build_phase.py",
+      [
+        "BuildPhase"
+      ]
+    ]
+  ],
+  "NoOldIdError": [
+    [
+      "sphinx/util/cfamily.py",
+      [
+        "NoOldIdError"
+      ]
+    ]
+  ],
+  "ASTBaseBase": [
+    [
+      "sphinx/util/cfamily.py",
+      [
+        "ASTBaseBase"
+      ]
+    ]
+  ],
+  "ASTAttribute": [
+    [
+      "sphinx/util/cfamily.py",
+      [
+        "ASTAttribute"
+      ]
+    ]
+  ],
+  "ASTCPPAttribute": [
+    [
+      "sphinx/util/cfamily.py",
+      [
+        "ASTCPPAttribute"
+      ]
+    ]
+  ],
+  "ASTGnuAttribute": [
+    [
+      "sphinx/util/cfamily.py",
+      [
+        "ASTGnuAttribute"
+      ]
+    ]
+  ],
+  "ASTGnuAttributeList": [
+    [
+      "sphinx/util/cfamily.py",
+      [
+        "ASTGnuAttributeList"
+      ]
+    ]
+  ],
+  "ASTIdAttribute": [
+    [
+      "sphinx/util/cfamily.py",
+      [
+        "ASTIdAttribute"
+      ]
+    ]
+  ],
+  "ASTParenAttribute": [
+    [
+      "sphinx/util/cfamily.py",
+      [
+        "ASTParenAttribute"
+      ]
+    ]
+  ],
+  "ASTBaseParenExprList": [
+    [
+      "sphinx/util/cfamily.py",
+      [
+        "ASTBaseParenExprList"
+      ]
+    ]
+  ],
+  "UnsupportedMultiCharacterCharLiteral": [
+    [
+      "sphinx/util/cfamily.py",
+      [
+        "UnsupportedMultiCharacterCharLiteral"
+      ]
+    ]
+  ],
+  "DefinitionError": [
+    [
+      "sphinx/util/cfamily.py",
+      [
+        "DefinitionError"
+      ]
+    ]
+  ],
+  "BaseParser": [
+    [
+      "sphinx/util/cfamily.py",
+      [
+        "BaseParser"
+      ]
+    ]
+  ],
+  "IndexEntriesMigrator": [
+    [
+      "sphinx/util/compat.py",
+      [
+        "IndexEntriesMigrator"
+      ]
+    ]
+  ],
+  "Field": [
+    [
+      "sphinx/util/docfields.py",
+      [
+        "Field"
+      ]
+    ]
+  ],
+  "GroupedField": [
+    [
+      "sphinx/util/docfields.py",
+      [
+        "GroupedField"
+      ]
+    ]
+  ],
+  "TypedField": [
+    [
+      "sphinx/util/docfields.py",
+      [
+        "TypedField"
+      ]
+    ]
+  ],
+  "DocFieldTransformer": [
+    [
+      "sphinx/util/docfields.py",
+      [
+        "DocFieldTransformer"
+      ]
+    ]
+  ],
+  "ElementLookupError": [
+    [
+      "sphinx/util/docutils.py",
+      [
+        "ElementLookupError"
+      ]
+    ]
+  ],
+  "sphinx_domains": [
+    [
+      "sphinx/util/docutils.py",
+      [
+        "sphinx_domains"
+      ]
+    ]
+  ],
+  "WarningStream": [
+    [
+      "sphinx/util/docutils.py",
+      [
+        "WarningStream"
+      ]
+    ]
+  ],
+  "LoggingReporter": [
+    [
+      "sphinx/util/docutils.py",
+      [
+        "LoggingReporter"
+      ]
+    ]
+  ],
+  "NullReporter": [
+    [
+      "sphinx/util/docutils.py",
+      [
+        "NullReporter"
+      ]
+    ]
+  ],
+  "SphinxFileOutput": [
+    [
+      "sphinx/util/docutils.py",
+      [
+        "SphinxFileOutput"
+      ]
+    ]
+  ],
+  "SphinxDirective": [
+    [
+      "sphinx/util/docutils.py",
+      [
+        "SphinxDirective"
+      ]
+    ]
+  ],
+  "SphinxRole": [
+    [
+      "sphinx/util/docutils.py",
+      [
+        "SphinxRole"
+      ]
+    ]
+  ],
+  "ReferenceRole": [
+    [
+      "sphinx/util/docutils.py",
+      [
+        "ReferenceRole"
+      ]
+    ]
+  ],
+  "SphinxTranslator": [
+    [
+      "sphinx/util/docutils.py",
+      [
+        "SphinxTranslator"
+      ]
+    ]
+  ],
+  "CatalogInfo": [
+    [
+      "sphinx/util/i18n.py",
+      [
+        "CatalogInfo"
+      ]
+    ]
+  ],
+  "CatalogRepository": [
+    [
+      "sphinx/util/i18n.py",
+      [
+        "CatalogRepository"
+      ]
+    ]
+  ],
+  "Signature": [
+    [
+      "sphinx/util/inspect.py",
+      [
+        "Signature"
+      ]
+    ]
+  ],
+  "InventoryFileReader": [
+    [
+      "sphinx/util/inventory.py",
+      [
+        "InventoryFileReader"
+      ]
+    ]
+  ],
+  "InventoryFile": [
+    [
+      "sphinx/util/inventory.py",
+      [
+        "InventoryFile"
+      ]
+    ]
+  ],
+  "SphinxJSONEncoder": [
+    [
+      "sphinx/util/jsonimpl.py",
+      [
+        "SphinxJSONEncoder"
+      ]
+    ]
+  ],
+  "SphinxLogRecord": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "SphinxLogRecord"
+      ]
+    ]
+  ],
+  "SphinxInfoLogRecord": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "SphinxInfoLogRecord"
+      ]
+    ]
+  ],
+  "SphinxWarningLogRecord": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "SphinxWarningLogRecord"
+      ]
+    ]
+  ],
+  "SphinxLoggerAdapter": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "SphinxLoggerAdapter"
+      ]
+    ]
+  ],
+  "WarningStreamHandler": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "WarningStreamHandler"
+      ]
+    ]
+  ],
+  "NewLineStreamHandler": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "NewLineStreamHandler"
+      ]
+    ]
+  ],
+  "MemoryHandler": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "MemoryHandler"
+      ]
+    ]
+  ],
+  "LogCollector": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "LogCollector"
+      ]
+    ]
+  ],
+  "InfoFilter": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "InfoFilter"
+      ]
+    ]
+  ],
+  "WarningSuppressor": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "WarningSuppressor"
+      ]
+    ]
+  ],
+  "WarningIsErrorFilter": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "WarningIsErrorFilter"
+      ]
+    ]
+  ],
+  "DisableWarningIsErrorFilter": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "DisableWarningIsErrorFilter"
+      ]
+    ]
+  ],
+  "MessagePrefixFilter": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "MessagePrefixFilter"
+      ]
+    ]
+  ],
+  "OnceFilter": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "OnceFilter"
+      ]
+    ]
+  ],
+  "SphinxLogRecordTranslator": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "SphinxLogRecordTranslator"
+      ]
+    ]
+  ],
+  "InfoLogRecordTranslator": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "InfoLogRecordTranslator"
+      ]
+    ]
+  ],
+  "WarningLogRecordTranslator": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "WarningLogRecordTranslator"
+      ]
+    ]
+  ],
+  "ColorizeFormatter": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "ColorizeFormatter"
+      ]
+    ]
+  ],
+  "SafeEncodingWriter": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "SafeEncodingWriter"
+      ]
+    ]
+  ],
+  "LastMessagesWriter": [
+    [
+      "sphinx/util/logging.py",
+      [
+        "LastMessagesWriter"
+      ]
+    ]
+  ],
+  "Matcher": [
+    [
+      "sphinx/util/matching.py",
+      [
+        "Matcher"
+      ]
+    ]
+  ],
+  "NodeMatcher": [
+    [
+      "sphinx/util/nodes.py",
+      [
+        "NodeMatcher"
+      ]
+    ]
+  ],
+  "FileAvoidWrite": [
+    [
+      "sphinx/util/osutil.py",
+      [
+        "FileAvoidWrite"
+      ]
+    ]
+  ],
+  "SerialTasks": [
+    [
+      "sphinx/util/parallel.py",
+      [
+        "SerialTasks"
+      ]
+    ]
+  ],
+  "ParallelTasks": [
+    [
+      "sphinx/util/parallel.py",
+      [
+        "ParallelTasks"
+      ]
+    ]
+  ],
+  "UnicodeMixin": [
+    [
+      "sphinx/util/pycompat.py",
+      [
+        "UnicodeMixin"
+      ]
+    ]
+  ],
+  "BaseStemmer": [
+    [
+      "sphinx/util/stemmer/__init__.py",
+      [
+        "BaseStemmer"
+      ]
+    ]
+  ],
+  "PyStemmer": [
+    [
+      "sphinx/util/stemmer/__init__.py",
+      [
+        "PyStemmer"
+      ]
+    ]
+  ],
+  "StandardStemmer": [
+    [
+      "sphinx/util/stemmer/__init__.py",
+      [
+        "StandardStemmer"
+      ]
+    ]
+  ],
+  "PorterStemmer": [
+    [
+      "sphinx/util/stemmer/porter.py",
+      [
+        "PorterStemmer"
+      ]
+    ]
+  ],
+  "BooleanParser": [
+    [
+      "sphinx/util/tags.py",
+      [
+        "BooleanParser"
+      ]
+    ]
+  ],
+  "Tags": [
+    [
+      "sphinx/util/tags.py",
+      [
+        "Tags"
+      ]
+    ]
+  ],
+  "BaseRenderer": [
+    [
+      "sphinx/util/template.py",
+      [
+        "BaseRenderer"
+      ]
+    ]
+  ],
+  "FileRenderer": [
+    [
+      "sphinx/util/template.py",
+      [
+        "FileRenderer"
+      ]
+    ]
+  ],
+  "SphinxRenderer": [
+    [
+      "sphinx/util/template.py",
+      [
+        "SphinxRenderer"
+      ]
+    ]
+  ],
+  "LaTeXRenderer": [
+    [
+      "sphinx/util/template.py",
+      [
+        "LaTeXRenderer"
+      ]
+    ]
+  ],
+  "ReSTRenderer": [
+    [
+      "sphinx/util/template.py",
+      [
+        "ReSTRenderer"
+      ]
+    ]
+  ],
+  "SphinxTemplateLoader": [
+    [
+      "sphinx/util/template.py",
+      [
+        "SphinxTemplateLoader"
+      ]
+    ]
+  ],
+  "UIDTransform": [
+    [
+      "sphinx/versioning.py",
+      [
+        "UIDTransform"
+      ]
+    ]
+  ],
+  "HTMLWriter": [
+    [
+      "sphinx/writers/html.py",
+      [
+        "HTMLWriter"
+      ]
+    ]
+  ],
+  "HTMLTranslator": [
+    [
+      "sphinx/writers/html.py",
+      [
+        "HTMLTranslator"
+      ]
+    ]
+  ],
+  "HTML5Translator": [
+    [
+      "sphinx/writers/html5.py",
+      [
+        "HTML5Translator"
+      ]
+    ]
+  ],
+  "collected_footnote": [
+    [
+      "sphinx/writers/latex.py",
+      [
+        "collected_footnote"
+      ]
+    ]
+  ],
+  "UnsupportedError": [
+    [
+      "sphinx/writers/latex.py",
+      [
+        "UnsupportedError"
+      ]
+    ]
+  ],
+  "LaTeXWriter": [
+    [
+      "sphinx/writers/latex.py",
+      [
+        "LaTeXWriter"
+      ]
+    ]
+  ],
+  "Table": [
+    [
+      "sphinx/writers/latex.py",
+      [
+        "Table"
+      ]
+    ],
+    [
+      "sphinx/writers/text.py",
+      [
+        "Table"
+      ]
+    ]
+  ],
+  "TableCell": [
+    [
+      "sphinx/writers/latex.py",
+      [
+        "TableCell"
+      ]
+    ]
+  ],
+  "LaTeXTranslator": [
+    [
+      "sphinx/writers/latex.py",
+      [
+        "LaTeXTranslator"
+      ]
+    ]
+  ],
+  "ManualPageWriter": [
+    [
+      "sphinx/writers/manpage.py",
+      [
+        "ManualPageWriter"
+      ]
+    ]
+  ],
+  "NestedInlineTransform": [
+    [
+      "sphinx/writers/manpage.py",
+      [
+        "NestedInlineTransform"
+      ]
+    ]
+  ],
+  "ManualPageTranslator": [
+    [
+      "sphinx/writers/manpage.py",
+      [
+        "ManualPageTranslator"
+      ]
+    ]
+  ],
+  "TexinfoWriter": [
+    [
+      "sphinx/writers/texinfo.py",
+      [
+        "TexinfoWriter"
+      ]
+    ]
+  ],
+  "TexinfoTranslator": [
+    [
+      "sphinx/writers/texinfo.py",
+      [
+        "TexinfoTranslator"
+      ]
+    ]
+  ],
+  "Cell": [
+    [
+      "sphinx/writers/text.py",
+      [
+        "Cell"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/partialmethod.py",
+      [
+        "Cell"
+      ]
+    ]
+  ],
+  "TextWrapper": [
+    [
+      "sphinx/writers/text.py",
+      [
+        "TextWrapper"
+      ]
+    ]
+  ],
+  "TextWriter": [
+    [
+      "sphinx/writers/text.py",
+      [
+        "TextWriter"
+      ]
+    ]
+  ],
+  "TextTranslator": [
+    [
+      "sphinx/writers/text.py",
+      [
+        "TextTranslator"
+      ]
+    ]
+  ],
+  "XMLWriter": [
+    [
+      "sphinx/writers/xml.py",
+      [
+        "XMLWriter"
+      ]
+    ]
+  ],
+  "PseudoXMLWriter": [
+    [
+      "sphinx/writers/xml.py",
+      [
+        "PseudoXMLWriter"
+      ]
+    ]
+  ],
+  "PEP526GoogleClass": [
+    [
+      "tests/ext_napoleon_pep526_data_google.py",
+      [
+        "PEP526GoogleClass"
+      ]
+    ]
+  ],
+  "PEP526NumpyClass": [
+    [
+      "tests/ext_napoleon_pep526_data_numpy.py",
+      [
+        "PEP526NumpyClass"
+      ]
+    ]
+  ],
+  "my_figure": [
+    [
+      "tests/roots/test-add_enumerable_node/enumerable_node.py",
+      [
+        "my_figure"
+      ]
+    ]
+  ],
+  "MyFigure": [
+    [
+      "tests/roots/test-add_enumerable_node/enumerable_node.py",
+      [
+        "MyFigure"
+      ]
+    ]
+  ],
+  "numbered_text": [
+    [
+      "tests/roots/test-add_enumerable_node/enumerable_node.py",
+      [
+        "numbered_text"
+      ]
+    ]
+  ],
+  "NumberedText": [
+    [
+      "tests/roots/test-add_enumerable_node/enumerable_node.py",
+      [
+        "NumberedText"
+      ]
+    ]
+  ],
+  "TestSourceParser": [
+    [
+      "tests/roots/test-add_source_parser/source_parser.py",
+      [
+        "TestSourceParser"
+      ]
+    ],
+    [
+      "tests/roots/test-add_source_parser-conflicts-with-users-setting/source_parser.py",
+      [
+        "TestSourceParser"
+      ]
+    ]
+  ],
+  "DummyTestParser": [
+    [
+      "tests/roots/test-add_source_parser-conflicts-with-users-setting/conf.py",
+      [
+        "DummyTestParser"
+      ]
+    ]
+  ],
+  "ConfHTMLTranslator": [
+    [
+      "tests/roots/test-api-set-translator/conf.py",
+      [
+        "ConfHTMLTranslator"
+      ]
+    ],
+    [
+      "tests/roots/test-build-html-translator/conf.py",
+      [
+        "ConfHTMLTranslator"
+      ]
+    ]
+  ],
+  "ConfDirHTMLTranslator": [
+    [
+      "tests/roots/test-api-set-translator/conf.py",
+      [
+        "ConfDirHTMLTranslator"
+      ]
+    ]
+  ],
+  "ConfSingleHTMLTranslator": [
+    [
+      "tests/roots/test-api-set-translator/conf.py",
+      [
+        "ConfSingleHTMLTranslator"
+      ]
+    ]
+  ],
+  "ConfPickleTranslator": [
+    [
+      "tests/roots/test-api-set-translator/conf.py",
+      [
+        "ConfPickleTranslator"
+      ]
+    ]
+  ],
+  "ConfJsonTranslator": [
+    [
+      "tests/roots/test-api-set-translator/conf.py",
+      [
+        "ConfJsonTranslator"
+      ]
+    ]
+  ],
+  "ConfLaTeXTranslator": [
+    [
+      "tests/roots/test-api-set-translator/conf.py",
+      [
+        "ConfLaTeXTranslator"
+      ]
+    ]
+  ],
+  "ConfManualPageTranslator": [
+    [
+      "tests/roots/test-api-set-translator/conf.py",
+      [
+        "ConfManualPageTranslator"
+      ]
+    ]
+  ],
+  "ConfTexinfoTranslator": [
+    [
+      "tests/roots/test-api-set-translator/conf.py",
+      [
+        "ConfTexinfoTranslator"
+      ]
+    ]
+  ],
+  "ConfTextTranslator": [
+    [
+      "tests/roots/test-api-set-translator/conf.py",
+      [
+        "ConfTextTranslator"
+      ]
+    ]
+  ],
+  "ConfXMLTranslator": [
+    [
+      "tests/roots/test-api-set-translator/conf.py",
+      [
+        "ConfXMLTranslator"
+      ]
+    ]
+  ],
+  "ConfPseudoXMLTranslator": [
+    [
+      "tests/roots/test-api-set-translator/conf.py",
+      [
+        "ConfPseudoXMLTranslator"
+      ]
+    ]
+  ],
+  "ExtHTMLTranslator": [
+    [
+      "tests/roots/test-api-set-translator/translator.py",
+      [
+        "ExtHTMLTranslator"
+      ]
+    ]
+  ],
+  "SomeClass_": [
+    [
+      "tests/roots/test-apidoc-trailing-underscore/package_/module_.py",
+      [
+        "SomeClass_"
+      ]
+    ]
+  ],
+  "C2": [
+    [
+      "tests/roots/test-autosummary/dummy_module.py",
+      [
+        "C",
+        "C2"
+      ]
+    ]
+  ],
+  "C": [
+    [
+      "tests/roots/test-autosummary/dummy_module.py",
+      [
+        "C"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/autoclass_content.py",
+      [
+        "C"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/docstring_signature.py",
+      [
+        "C"
+      ]
+    ],
+    [
+      "tests/roots/test-inheritance/dummy/test.py",
+      [
+        "C"
+      ]
+    ],
+    [
+      "tests/roots/test-inheritance/dummy/test_nested.py",
+      [
+        "C"
+      ]
+    ],
+    [
+      "tests/test_config.py",
+      [
+        "C"
+      ]
+    ]
+  ],
+  "class_": [
+    [
+      "tests/roots/test-autosummary/underscore_module_.py",
+      [
+        "class_"
+      ]
+    ]
+  ],
+  "Foo": [
+    [
+      "tests/roots/test-directive-code/target.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/bug2437/autodoc_dummy_foo.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/TYPE_CHECKING.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/annotations.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/cached_property.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/classes.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/instance_variable.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/name_mangling.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/overload.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/singledispatchmethod.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/slots.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autosummary/autosummary_dummy_module.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autosummary-filename-map/autosummary_dummy_module.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autosummary-mock_imports/foo.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autosummary-recursive/package/module.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autosummary-recursive/package/package/module.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autosummary-recursive/package2/module.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autosummary-skip-member/target.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autosummary-template/target.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-inheritance_diagram/test.py",
+      [
+        "Foo"
+      ]
+    ],
+    [
+      "tests/test_util_inspect.py",
+      [
+        "test_signature_methods",
+        "Foo"
+      ]
+    ]
+  ],
+  "Bar": [
+    [
+      "tests/roots/test-directive-code/target.py",
+      [
+        "Bar"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/autodoc_dummy_bar.py",
+      [
+        "Bar"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/classes.py",
+      [
+        "Bar"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/decorator.py",
+      [
+        "Bar"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/instance_variable.py",
+      [
+        "Bar"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/name_mangling.py",
+      [
+        "Bar"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/overload.py",
+      [
+        "Bar"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/slots.py",
+      [
+        "Bar"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/sort_by_all.py",
+      [
+        "Bar"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autosummary/autosummary_dummy_module.py",
+      [
+        "Foo",
+        "Bar"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autosummary-filename-map/autosummary_dummy_module.py",
+      [
+        "Foo",
+        "Bar"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autosummary-imported_members/autosummary_dummy_package/autosummary_dummy_module.py",
+      [
+        "Bar"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-inheritance_diagram/test.py",
+      [
+        "Bar"
+      ]
+    ]
+  ],
+  "Qux": [
+    [
+      "tests/roots/test-directive-code/target.py",
+      [
+        "Qux"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/classes.py",
+      [
+        "Qux"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/decorator.py",
+      [
+        "Qux"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-inheritance_diagram/test.py",
+      [
+        "Qux"
+      ]
+    ]
+  ],
+  "CustomEx": [
+    [
+      "tests/roots/test-ext-autodoc/target/__init__.py",
+      [
+        "CustomEx"
+      ]
+    ],
+    [
+      "tests/roots/test-root/autodoc_target.py",
+      [
+        "CustomEx"
+      ]
+    ]
+  ],
+  "Class": [
+    [
+      "tests/roots/test-ext-autodoc/target/__init__.py",
+      [
+        "Class"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/descriptor.py",
+      [
+        "Class"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/final.py",
+      [
+        "Class"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/genericalias.py",
+      [
+        "Class"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/typed_vars.py",
+      [
+        "Class"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/typevar.py",
+      [
+        "Class"
+      ]
+    ],
+    [
+      "tests/roots/test-root/autodoc_target.py",
+      [
+        "Class"
+      ]
+    ]
+  ],
+  "CustomDict": [
+    [
+      "tests/roots/test-ext-autodoc/target/__init__.py",
+      [
+        "CustomDict"
+      ]
+    ],
+    [
+      "tests/roots/test-root/autodoc_target.py",
+      [
+        "CustomDict"
+      ]
+    ]
+  ],
+  "Inner": [
+    [
+      "tests/roots/test-ext-autodoc/target/__init__.py",
+      [
+        "Outer",
+        "Inner"
+      ]
+    ],
+    [
+      "tests/roots/test-root/autodoc_target.py",
+      [
+        "Outer",
+        "Inner"
+      ]
+    ]
+  ],
+  "Outer": [
+    [
+      "tests/roots/test-ext-autodoc/target/__init__.py",
+      [
+        "Outer"
+      ]
+    ],
+    [
+      "tests/roots/test-root/autodoc_target.py",
+      [
+        "Outer"
+      ]
+    ]
+  ],
+  "InnerChild": [
+    [
+      "tests/roots/test-ext-autodoc/target/__init__.py",
+      [
+        "InnerChild"
+      ]
+    ]
+  ],
+  "DocstringSig": [
+    [
+      "tests/roots/test-ext-autodoc/target/__init__.py",
+      [
+        "DocstringSig"
+      ]
+    ],
+    [
+      "tests/roots/test-root/autodoc_target.py",
+      [
+        "DocstringSig"
+      ]
+    ]
+  ],
+  "StrRepr": [
+    [
+      "tests/roots/test-ext-autodoc/target/__init__.py",
+      [
+        "StrRepr"
+      ]
+    ],
+    [
+      "tests/roots/test-root/autodoc_target.py",
+      [
+        "StrRepr"
+      ]
+    ]
+  ],
+  "AttCls": [
+    [
+      "tests/roots/test-ext-autodoc/target/__init__.py",
+      [
+        "AttCls"
+      ]
+    ],
+    [
+      "tests/roots/test-root/autodoc_target.py",
+      [
+        "AttCls"
+      ]
+    ]
+  ],
+  "InstAttCls": [
+    [
+      "tests/roots/test-ext-autodoc/target/__init__.py",
+      [
+        "InstAttCls"
+      ]
+    ],
+    [
+      "tests/roots/test-root/autodoc_target.py",
+      [
+        "InstAttCls"
+      ]
+    ]
+  ],
+  "CustomIter": [
+    [
+      "tests/roots/test-ext-autodoc/target/__init__.py",
+      [
+        "CustomIter"
+      ]
+    ]
+  ],
+  "Base": [
+    [
+      "tests/roots/test-ext-autodoc/target/abstractmethods.py",
+      [
+        "Base"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/inheritance.py",
+      [
+        "Base"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/methods.py",
+      [
+        "Base"
+      ]
+    ],
+    [
+      "tests/roots/test-root/autodoc_target.py",
+      [
+        "Base"
+      ]
+    ]
+  ],
+  "A": [
+    [
+      "tests/roots/test-ext-autodoc/target/autoclass_content.py",
+      [
+        "A"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/docstring_signature.py",
+      [
+        "A"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/generic_class.py",
+      [
+        "A"
+      ]
+    ],
+    [
+      "tests/roots/test-inheritance/dummy/test.py",
+      [
+        "A"
+      ]
+    ],
+    [
+      "tests/roots/test-inheritance/dummy/test_nested.py",
+      [
+        "A"
+      ]
+    ],
+    [
+      "tests/test_config.py",
+      [
+        "A"
+      ]
+    ]
+  ],
+  "B": [
+    [
+      "tests/roots/test-ext-autodoc/target/autoclass_content.py",
+      [
+        "B"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/docstring_signature.py",
+      [
+        "B"
+      ]
+    ],
+    [
+      "tests/roots/test-inheritance/dummy/test.py",
+      [
+        "B"
+      ]
+    ],
+    [
+      "tests/roots/test-inheritance/dummy/test_nested.py",
+      [
+        "A",
+        "B"
+      ]
+    ],
+    [
+      "tests/test_config.py",
+      [
+        "B"
+      ]
+    ]
+  ],
+  "D": [
+    [
+      "tests/roots/test-ext-autodoc/target/autoclass_content.py",
+      [
+        "D"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/docstring_signature.py",
+      [
+        "D"
+      ]
+    ],
+    [
+      "tests/roots/test-inheritance/dummy/test.py",
+      [
+        "D"
+      ]
+    ],
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_format_signature",
+        "D"
+      ]
+    ]
+  ],
+  "E": [
+    [
+      "tests/roots/test-ext-autodoc/target/autoclass_content.py",
+      [
+        "E"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/docstring_signature.py",
+      [
+        "E"
+      ]
+    ],
+    [
+      "tests/roots/test-inheritance/dummy/test.py",
+      [
+        "E"
+      ]
+    ],
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_format_signature",
+        "E"
+      ]
+    ]
+  ],
+  "F": [
+    [
+      "tests/roots/test-ext-autodoc/target/autoclass_content.py",
+      [
+        "F"
+      ]
+    ],
+    [
+      "tests/roots/test-inheritance/dummy/test.py",
+      [
+        "F"
+      ]
+    ],
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_format_signature",
+        "F"
+      ]
+    ]
+  ],
+  "G": [
+    [
+      "tests/roots/test-ext-autodoc/target/autoclass_content.py",
+      [
+        "G"
+      ]
+    ],
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_format_signature",
+        "G"
+      ]
+    ]
+  ],
+  "H": [
+    [
+      "tests/roots/test-ext-autodoc/target/autoclass_content.py",
+      [
+        "H"
+      ]
+    ],
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_format_signature",
+        "H"
+      ]
+    ]
+  ],
+  "Cls": [
+    [
+      "tests/roots/test-ext-autodoc/target/bound_method.py",
+      [
+        "Cls"
+      ]
+    ]
+  ],
+  "Callable": [
+    [
+      "tests/roots/test-ext-autodoc/target/callable.py",
+      [
+        "Callable"
+      ]
+    ]
+  ],
+  "Baz": [
+    [
+      "tests/roots/test-ext-autodoc/target/classes.py",
+      [
+        "Baz"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/decorator.py",
+      [
+        "Baz"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/overload.py",
+      [
+        "Baz"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/overload2.py",
+      [
+        "Baz"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/slots.py",
+      [
+        "Baz"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-inheritance_diagram/test.py",
+      [
+        "Baz"
+      ]
+    ]
+  ],
+  "Quux": [
+    [
+      "tests/roots/test-ext-autodoc/target/classes.py",
+      [
+        "Quux"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/decorator.py",
+      [
+        "Quux"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/sort_by_all.py",
+      [
+        "Quux"
+      ]
+    ]
+  ],
+  "AsyncClass": [
+    [
+      "tests/roots/test-ext-autodoc/target/coroutine.py",
+      [
+        "AsyncClass"
+      ]
+    ]
+  ],
+  "_Metaclass": [
+    [
+      "tests/roots/test-ext-autodoc/target/decorator.py",
+      [
+        "_Metaclass"
+      ]
+    ]
+  ],
+  "CustomDataDescriptor": [
+    [
+      "tests/roots/test-ext-autodoc/target/descriptor.py",
+      [
+        "CustomDataDescriptor"
+      ]
+    ],
+    [
+      "tests/roots/test-root/autodoc_target.py",
+      [
+        "CustomDataDescriptor"
+      ]
+    ]
+  ],
+  "CustomDataDescriptorMeta": [
+    [
+      "tests/roots/test-ext-autodoc/target/descriptor.py",
+      [
+        "CustomDataDescriptorMeta"
+      ]
+    ],
+    [
+      "tests/roots/test-root/autodoc_target.py",
+      [
+        "CustomDataDescriptorMeta"
+      ]
+    ]
+  ],
+  "CustomDataDescriptor2": [
+    [
+      "tests/roots/test-ext-autodoc/target/descriptor.py",
+      [
+        "CustomDataDescriptor2"
+      ]
+    ],
+    [
+      "tests/roots/test-root/autodoc_target.py",
+      [
+        "CustomDataDescriptor2"
+      ]
+    ]
+  ],
+  "EnumCls": [
+    [
+      "tests/roots/test-ext-autodoc/target/enums.py",
+      [
+        "EnumCls"
+      ]
+    ],
+    [
+      "tests/roots/test-root/autodoc_target.py",
+      [
+        "EnumCls"
+      ]
+    ]
+  ],
+  "Derived": [
+    [
+      "tests/roots/test-ext-autodoc/target/inheritance.py",
+      [
+        "Derived"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/typed_vars.py",
+      [
+        "Derived"
+      ]
+    ],
+    [
+      "tests/roots/test-root/autodoc_target.py",
+      [
+        "Derived"
+      ]
+    ]
+  ],
+  "Inherited": [
+    [
+      "tests/roots/test-ext-autodoc/target/methods.py",
+      [
+        "Inherited"
+      ]
+    ]
+  ],
+  "foo": [
+    [
+      "tests/roots/test-ext-autodoc/target/name_conflict/__init__.py",
+      [
+        "foo"
+      ]
+    ]
+  ],
+  "bar": [
+    [
+      "tests/roots/test-ext-autodoc/target/name_conflict/foo.py",
+      [
+        "bar"
+      ]
+    ]
+  ],
+  "TestAutodoc": [
+    [
+      "tests/roots/test-ext-autodoc/target/need_mocks.py",
+      [
+        "TestAutodoc"
+      ]
+    ]
+  ],
+  "Math": [
+    [
+      "tests/roots/test-ext-autodoc/target/overload.py",
+      [
+        "Math"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-autodoc/target/typehints.py",
+      [
+        "Math"
+      ]
+    ]
+  ],
+  "_Descriptor": [
+    [
+      "tests/roots/test-ext-autodoc/target/typed_vars.py",
+      [
+        "_Descriptor"
+      ]
+    ]
+  ],
+  "NewAnnotation": [
+    [
+      "tests/roots/test-ext-autodoc/target/typehints.py",
+      [
+        "NewAnnotation"
+      ]
+    ]
+  ],
+  "NewComment": [
+    [
+      "tests/roots/test-ext-autodoc/target/typehints.py",
+      [
+        "NewComment"
+      ]
+    ]
+  ],
+  "_MetaclassWithCall": [
+    [
+      "tests/roots/test-ext-autodoc/target/typehints.py",
+      [
+        "_MetaclassWithCall"
+      ]
+    ]
+  ],
+  "SignatureFromMetaclass": [
+    [
+      "tests/roots/test-ext-autodoc/target/typehints.py",
+      [
+        "SignatureFromMetaclass"
+      ]
+    ]
+  ],
+  "_Baz": [
+    [
+      "tests/roots/test-ext-autosummary/autosummary_dummy_module.py",
+      [
+        "_Baz"
+      ]
+    ]
+  ],
+  "Exc": [
+    [
+      "tests/roots/test-ext-autosummary/autosummary_dummy_module.py",
+      [
+        "Exc"
+      ]
+    ]
+  ],
+  "_Exc": [
+    [
+      "tests/roots/test-ext-autosummary/autosummary_dummy_module.py",
+      [
+        "_Exc"
+      ]
+    ]
+  ],
+  "Documented": [
+    [
+      "tests/roots/test-ext-coverage/coverage_ignored.py",
+      [
+        "Documented"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-coverage/coverage_not_ignored.py",
+      [
+        "Documented"
+      ]
+    ]
+  ],
+  "Ignored": [
+    [
+      "tests/roots/test-ext-coverage/coverage_ignored.py",
+      [
+        "Ignored"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-coverage/coverage_not_ignored.py",
+      [
+        "Ignored"
+      ]
+    ]
+  ],
+  "NotIgnored": [
+    [
+      "tests/roots/test-ext-coverage/coverage_ignored.py",
+      [
+        "NotIgnored"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-coverage/coverage_not_ignored.py",
+      [
+        "NotIgnored"
+      ]
+    ]
+  ],
+  "DummyClass": [
+    [
+      "tests/roots/test-ext-inheritance_diagram/example/sphinx.py",
+      [
+        "DummyClass"
+      ]
+    ]
+  ],
+  "MyMathDirective": [
+    [
+      "tests/roots/test-ext-math-compat/conf.py",
+      [
+        "MyMathDirective"
+      ]
+    ]
+  ],
+  "Class1": [
+    [
+      "tests/roots/test-ext-viewcode/spam/mod1.py",
+      [
+        "Class1"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-viewcode-find/not_a_package/submodule.py",
+      [
+        "Class1"
+      ]
+    ]
+  ],
+  "Class3": [
+    [
+      "tests/roots/test-ext-viewcode/spam/mod1.py",
+      [
+        "Class3"
+      ]
+    ],
+    [
+      "tests/roots/test-ext-viewcode-find/not_a_package/submodule.py",
+      [
+        "Class3"
+      ]
+    ]
+  ],
+  "Class2": [
+    [
+      "tests/roots/test-ext-viewcode/spam/mod2.py",
+      [
+        "Class2"
+      ]
+    ]
+  ],
+  "DummyMarkdownParser": [
+    [
+      "tests/roots/test-prolog/prolog_markdown_parser.py",
+      [
+        "DummyMarkdownParser"
+      ]
+    ]
+  ],
+  "ClassDirective": [
+    [
+      "tests/roots/test-root/conf.py",
+      [
+        "ClassDirective"
+      ]
+    ]
+  ],
+  "MarkupError": [
+    [
+      "tests/roots/test-warnings/autodoc_fodder.py",
+      [
+        "MarkupError"
+      ]
+    ]
+  ],
+  "EPUBElementTree": [
+    [
+      "tests/test_build_epub.py",
+      [
+        "EPUBElementTree"
+      ]
+    ]
+  ],
+  "HeadersDumperHandler": [
+    [
+      "tests/test_build_linkcheck.py",
+      [
+        "HeadersDumperHandler"
+      ]
+    ]
+  ],
+  "OKHandler": [
+    [
+      "tests/test_build_linkcheck.py",
+      [
+        "OKHandler"
+      ]
+    ]
+  ],
+  "InfiniteRedirectOnHeadHandler": [
+    [
+      "tests/test_build_linkcheck.py",
+      [
+        "test_TooManyRedirects_on_HEAD",
+        "InfiniteRedirectOnHeadHandler"
+      ]
+    ]
+  ],
+  "FakeResponse": [
+    [
+      "tests/test_build_linkcheck.py",
+      [
+        "FakeResponse"
+      ]
+    ]
+  ],
+  "RoleClasses": [
+    [
+      "tests/test_domain_cpp.py",
+      [
+        "test_xref_consistency",
+        "RoleClasses"
+      ]
+    ]
+  ],
+  "SomeMeta": [
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_format_signature",
+        "SomeMeta"
+      ]
+    ]
+  ],
+  "FNew": [
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_format_signature",
+        "FNew"
+      ]
+    ]
+  ],
+  "FMeta": [
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_format_signature",
+        "FMeta"
+      ]
+    ]
+  ],
+  "GNew": [
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_format_signature",
+        "GNew"
+      ]
+    ]
+  ],
+  "GMeta": [
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_format_signature",
+        "GMeta"
+      ]
+    ]
+  ],
+  "ListSubclass": [
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_format_signature",
+        "ListSubclass"
+      ]
+    ]
+  ],
+  "ExceptionSubclass": [
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_format_signature",
+        "ExceptionSubclass"
+      ]
+    ]
+  ],
+  "F2": [
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_format_signature",
+        "F2"
+      ]
+    ]
+  ],
+  "G2": [
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_format_signature",
+        "G2"
+      ]
+    ]
+  ],
+  "J": [
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_get_doc",
+        "J"
+      ]
+    ]
+  ],
+  "MyDocumenter": [
+    [
+      "tests/test_ext_autodoc.py",
+      [
+        "test_new_documenter",
+        "MyDocumenter"
+      ]
+    ]
+  ],
+  "SubClass": [
+    [
+      "tests/test_ext_autodoc_mock.py",
+      [
+        "test_MockObject",
+        "SubClass"
+      ]
+    ]
+  ],
+  "SubClass2": [
+    [
+      "tests/test_ext_autodoc_mock.py",
+      [
+        "test_MockObject",
+        "SubClass2"
+      ]
+    ]
+  ],
+  "TestStripBasicAuth": [
+    [
+      "tests/test_ext_intersphinx.py",
+      [
+        "TestStripBasicAuth"
+      ]
+    ]
+  ],
+  "SampleClass": [
+    [
+      "tests/test_ext_napoleon.py",
+      [
+        "SampleClass"
+      ]
+    ]
+  ],
+  "SampleError": [
+    [
+      "tests/test_ext_napoleon.py",
+      [
+        "SampleError"
+      ]
+    ]
+  ],
+  "ProcessDocstringTest": [
+    [
+      "tests/test_ext_napoleon.py",
+      [
+        "ProcessDocstringTest"
+      ]
+    ]
+  ],
+  "SetupTest": [
+    [
+      "tests/test_ext_napoleon.py",
+      [
+        "SetupTest"
+      ]
+    ]
+  ],
+  "SkipMemberTest": [
+    [
+      "tests/test_ext_napoleon.py",
+      [
+        "SkipMemberTest"
+      ]
+    ]
+  ],
+  "NamedtupleSubclass": [
+    [
+      "tests/test_ext_napoleon_docstring.py",
+      [
+        "NamedtupleSubclass"
+      ]
+    ]
+  ],
+  "BaseDocstringTest": [
+    [
+      "tests/test_ext_napoleon_docstring.py",
+      [
+        "BaseDocstringTest"
+      ]
+    ]
+  ],
+  "NamedtupleSubclassTest": [
+    [
+      "tests/test_ext_napoleon_docstring.py",
+      [
+        "NamedtupleSubclassTest"
+      ]
+    ]
+  ],
+  "InlineAttributeTest": [
+    [
+      "tests/test_ext_napoleon_docstring.py",
+      [
+        "InlineAttributeTest"
+      ]
+    ]
+  ],
+  "GoogleDocstringTest": [
+    [
+      "tests/test_ext_napoleon_docstring.py",
+      [
+        "GoogleDocstringTest"
+      ]
+    ]
+  ],
+  "NumpyDocstringTest": [
+    [
+      "tests/test_ext_napoleon_docstring.py",
+      [
+        "NumpyDocstringTest"
+      ]
+    ]
+  ],
+  "TestNumpyDocstring": [
+    [
+      "tests/test_ext_napoleon_docstring.py",
+      [
+        "TestNumpyDocstring"
+      ]
+    ]
+  ],
+  "BaseIteratorsTest": [
+    [
+      "tests/test_ext_napoleon_iterators.py",
+      [
+        "BaseIteratorsTest"
+      ]
+    ]
+  ],
+  "PeekIterTest": [
+    [
+      "tests/test_ext_napoleon_iterators.py",
+      [
+        "PeekIterTest"
+      ]
+    ]
+  ],
+  "ModifyIterTest": [
+    [
+      "tests/test_ext_napoleon_iterators.py",
+      [
+        "ModifyIterTest"
+      ]
+    ]
+  ],
+  "MyLexer": [
+    [
+      "tests/test_highlighting.py",
+      [
+        "MyLexer"
+      ]
+    ]
+  ],
+  "MyFormatter": [
+    [
+      "tests/test_highlighting.py",
+      [
+        "MyFormatter"
+      ]
+    ]
+  ],
+  "ComplainOnUnhighlighted": [
+    [
+      "tests/test_highlighting.py",
+      [
+        "ComplainOnUnhighlighted"
+      ]
+    ]
+  ],
+  "ForgivingTranslator": [
+    [
+      "tests/test_markup.py",
+      [
+        "ForgivingTranslator"
+      ]
+    ]
+  ],
+  "ForgivingHTMLTranslator": [
+    [
+      "tests/test_markup.py",
+      [
+        "ForgivingHTMLTranslator"
+      ]
+    ]
+  ],
+  "ForgivingLaTeXTranslator": [
+    [
+      "tests/test_markup.py",
+      [
+        "ForgivingLaTeXTranslator"
+      ]
+    ]
+  ],
+  "DummyDomain": [
+    [
+      "tests/test_search.py",
+      [
+        "DummyDomain"
+      ]
+    ]
+  ],
+  "CustomNode": [
+    [
+      "tests/test_util_docutils.py",
+      [
+        "test_SphinxTranslator",
+        "CustomNode"
+      ]
+    ]
+  ],
+  "MyTranslator": [
+    [
+      "tests/test_util_docutils.py",
+      [
+        "test_SphinxTranslator",
+        "MyTranslator"
+      ]
+    ]
+  ],
+  "DummyTemplateLoader": [
+    [
+      "tests/test_util_fileutil.py",
+      [
+        "DummyTemplateLoader"
+      ]
+    ]
+  ],
+  "MyClass1": [
+    [
+      "tests/test_util_typing.py",
+      [
+        "MyClass1"
+      ]
+    ]
+  ],
+  "MyClass2": [
+    [
+      "tests/test_util_typing.py",
+      [
+        "MyClass2"
+      ]
+    ]
+  ],
+  "MyList": [
+    [
+      "tests/test_util_typing.py",
+      [
+        "MyList"
+      ]
+    ]
+  ],
+  "BrokenType": [
+    [
+      "tests/test_util_typing.py",
+      [
+        "BrokenType"
+      ]
+    ]
+  ],
+  "CustomAnnotation": [
+    [
+      "tests/typing_test_data.py",
+      [
+        "CustomAnnotation"
+      ]
+    ]
+  ],
+  "Node": [
+    [
+      "tests/typing_test_data.py",
+      [
+        "Node"
+      ]
+    ]
+  ],
+  "HttpServerThread": [
+    [
+      "tests/utils.py",
+      [
+        "HttpServerThread"
+      ]
+    ]
+  ],
+  "HttpsServerThread": [
+    [
+      "tests/utils.py",
+      [
+        "HttpsServerThread"
+      ]
+    ]
+  ],
+  "Skip": [
+    [
+      "utils/bump_version.py",
+      [
+        "Skip"
+      ]
+    ]
+  ],
+  "Changes": [
+    [
+      "utils/bump_version.py",
+      [
+        "Changes"
+      ]
+    ]
+  ]
+}
